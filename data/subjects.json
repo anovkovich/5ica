@@ -1,0 +1,121 @@
+[
+  {
+    "id": "60f473b09892c9345e4fe9b8",
+    "name": "Muzička kultura",
+    "slug": "muzicka-kultura",
+    "questionCount": 1173,
+    "gradeRange": "1-8",
+    "category": "umetnost"
+  },
+  {
+    "id": "60f473b09892c9345e4fe9b5",
+    "name": "Matematika",
+    "slug": "matematika",
+    "questionCount": 1165,
+    "gradeRange": "1-8",
+    "category": "obavezni",
+    "malaMatura": true
+  },
+  {
+    "id": "60f473b09892c9345e4fe9b7",
+    "name": "Likovna kultura",
+    "slug": "likovna-kultura",
+    "questionCount": 980,
+    "gradeRange": "1-8",
+    "category": "umetnost"
+  },
+  {
+    "id": "60f473b09892c9345e4fe9e1",
+    "name": "Biologija",
+    "slug": "biologija",
+    "questionCount": 639,
+    "gradeRange": "5-8",
+    "category": "prirodne-nauke",
+    "malaMatura": true
+  },
+  {
+    "id": "60f473b09892c9345e4fe9b3",
+    "name": "Srpski jezik (niži razredi)",
+    "slug": "srpski-jezik-nizi",
+    "questionCount": 625,
+    "gradeRange": "1-4",
+    "category": "obavezni"
+  },
+  {
+    "id": "60f473b09892c9345e4fe9da",
+    "name": "Srpski jezik i književnost",
+    "slug": "srpski-jezik-knjizevnost",
+    "questionCount": 606,
+    "gradeRange": "5-8",
+    "category": "obavezni",
+    "malaMatura": true
+  },
+  {
+    "id": "60f473b09892c9345e4fe9e4",
+    "name": "Informatika i računarstvo",
+    "slug": "informatika",
+    "questionCount": 601,
+    "gradeRange": "5-8",
+    "category": "obavezni"
+  },
+  {
+    "id": "60f473b09892c9345e4fe9de",
+    "name": "Istorija",
+    "slug": "istorija",
+    "questionCount": 600,
+    "gradeRange": "5-8",
+    "category": "drustvene-nauke",
+    "malaMatura": true
+  },
+  {
+    "id": "60f473b09892c9345e4fe9df",
+    "name": "Geografija",
+    "slug": "geografija",
+    "questionCount": 600,
+    "gradeRange": "5-8",
+    "category": "drustvene-nauke",
+    "malaMatura": true
+  },
+  {
+    "id": "60f473b09892c9345e4fe9ee",
+    "name": "Fizika",
+    "slug": "fizika",
+    "questionCount": 450,
+    "gradeRange": "6-8",
+    "category": "prirodne-nauke",
+    "malaMatura": true
+  },
+  {
+    "id": "60f473b09892c9345e4fe9b6",
+    "name": "Svet oko nas",
+    "slug": "svet-oko-nas",
+    "questionCount": 301,
+    "gradeRange": "1-2",
+    "category": "obavezni"
+  },
+  {
+    "id": "60f473b09892c9345e4fea00",
+    "name": "Hemija",
+    "slug": "hemija",
+    "questionCount": 300,
+    "gradeRange": "7-8",
+    "category": "prirodne-nauke",
+    "malaMatura": true
+  },
+  {
+    "id": "60f473b09892c9345e4fe9c9",
+    "name": "Priroda i društvo",
+    "slug": "priroda-i-drustvo",
+    "questionCount": 240,
+    "gradeRange": "3-4",
+    "category": "obavezni"
+  },
+  {
+    "id": "60f473b09892c9345e4fe9ba",
+    "name": "Digitalni svet",
+    "slug": "digitalni-svet",
+    "questionCount": 148,
+    "gradeRange": "1-2",
+    "category": "obavezni"
+  }
+]

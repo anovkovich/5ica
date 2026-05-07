@@ -1,0 +1,4731 @@
+[
+  {
+    "id": "60f478b09892c9345e4feb55",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea49",
+    "grade": 5,
+    "name": "Uvod u biologiju i raznovrsnost",
+    "questionCount": 69,
+    "sampleQuestions": [
+      "Prirodu čine živa i neživa priroda. Živoj prirodi pripada:",
+      "Jedro nemaju ćelije: ",
+      "Kišna glista diše preko:",
+      "Muški delovi cveta nazivaju se:",
+      "Kod devojčica rast i razvoj dojki, širenje kukova, a kod dečaka više dlaka po čitavom telu predstavljaju: "
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb56",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea49",
+    "grade": 5,
+    "name": "Biljke i životinje",
+    "questionCount": 46,
+    "sampleQuestions": [
+      "Gas ugljen-dioksid živa bića oslobađaju u procesu :",
+      "Ženke komarca hrane se:",
+      "U delovima zemlje gde su leta kratka i sveža, a zime duge i hladne raste četinar:",
+      "Neke životinje žive u grupama. Roj obrazuju:",
+      " Ostaci nesvarene hrane životinja koje žive pod zemljom su:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb58",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea49",
+    "grade": 5,
+    "name": "Carstva živih bića",
+    "questionCount": 19,
+    "sampleQuestions": [
+      "Detaljni naučni podaci o nekoj vrsti, njenom staništu, stepenu ugroženosti i merama zaštite zapisani su u: ",
+      "Biljke koje same niču i razvijaju se u prirodi nazivamo:",
+      "Bukovača, rujnica i smrčak su:",
+      "Grana poljoprivrede koja se bavi uzgojem pčela je: ",
+      "Bolest čijeg uzročnika prenosi komarac, najčešće se javlja u tropskim krajevima je:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb59",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea49",
+    "grade": 5,
+    "name": "Zdrav život",
+    "questionCount": 18,
+    "sampleQuestions": [
+      "Vrste namirnica i njihovu količinu koju treba svakodnevno unositi u organizam mogu se grafički prikazati: ",
+      "Energetski napici sadrže veliku količinu šećera i vremenom mogu dovesti do:",
+      "Kako bi se prvilno razvijali neophodno je dnevno imati:",
+      "Redovna fizička aktivnost doprinosi:",
+      "Polno prenosive bolesti najčešće izazivaju:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb57",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea49",
+    "grade": 5,
+    "name": "Nasleđivanje i evolucija (uvod)",
+    "questionCount": 12,
+    "sampleQuestions": [
+      "Nasledni materijal se kombinuje prilikom:",
+      "Osobine koje organizam stekne tokom života:",
+      "Lastin repak je leptir. Oblik njegovih krila je:",
+      "Osnovni uslov evolucije sisara su promene u:",
+      "Evolucija je proces koji:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febe8",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea66",
+    "grade": 6,
+    "name": "Beskičmenjaci i niže biljke",
+    "questionCount": 84,
+    "sampleQuestions": [
+      "Šta određuju tačke na pokrilcima bubamare?",
+      "Koja od navedenih životinja ima cevast nervni sistem?",
+      "Kako se naziva polna generacija kod mahovina?",
+      "Kako se naziva krv insekata?",
+      "Kako se nazivaju izdužene ćelije gljiva?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febe9",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea66",
+    "grade": 6,
+    "name": "Ekosistemi i biocenoze",
+    "questionCount": 21,
+    "sampleQuestions": [
+      "Koji nivo organizacije se nalazi između ekosistema i biosfere?",
+      "U kakvom ekosistemu ćemo pronaći pustinjske mlečike?",
+      "Koja od navedenih životinja je detritojed?",
+      "Kako se naziva odnos između vrsta kada se međusobno bore za prostor i resurse?",
+      "Kakav status zaštićenog prirodnog dobra ima Zlatibor?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febe6",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea66",
+    "grade": 6,
+    "name": "Naslednost i deoba ćelije",
+    "questionCount": 15,
+    "sampleQuestions": [
+      "Ako dominantan gen obeležimo sa A, a recesivan sa B, koja kombinacija će dati ređu osobinu u populaciji?",
+      "Kada se jedna ćelija podeli mejotički, koliko ćelija nastaje?",
+      "Koliko čovek sa Daunovim sindromom ima hromozoma u svakoj telesnoj ćeliji?",
+      "Ajo je haploidan broj hromozoma u ćeliji 24, koliki je diploidan?",
+      "Šta od navedenog bakterijska ćelija ne sadrži?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febea",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea66",
+    "grade": 6,
+    "name": "Zarazne bolesti i imunitet",
+    "questionCount": 15,
+    "sampleQuestions": [
+      "Ako se zarazna bolest proširi na veće geografsko područje, pa i ceo svet, govorimo o:",
+      "Koju od navedenih karakteristika živih bića virus ima?",
+      "Nakon preležanog gripa, kakav imunitet čovek stiče?",
+      "REM faza u toku spavanja je vreme kada:",
+      "U kakve bolesti se ubraja tip narkomanije kada osoba ubrizgava drogu špricem?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febe7",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea66",
+    "grade": 6,
+    "name": "Sistematika živog sveta",
+    "questionCount": 15,
+    "sampleQuestions": [
+      "Koji se jezik koristi za naučni naziv za neku vrstu biljke?",
+      "Kojoj grupi pripadaju biljke čije se sporangije nalaze na naličju listova?",
+      "Koji je drugi naziv za filogenetsko stablo živog sveta?",
+      "Kako se često naziva vrsta koja se evolutivno sasvim malo promenila u odnosu na svoje pretke?",
+      "Šta je od navedenog kičmenjak?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feba0",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea57",
+    "grade": 7,
+    "name": "Sistemi organa biljaka i životinja",
+    "questionCount": 49,
+    "sampleQuestions": [
+      "Pri udisaju vazduha prečaga (dijafragma) se:",
+      "Želudac građen od jednog dela ima:",
+      "Traheje su organi za disanje: ",
+      "Transpiracija je proces kojim biljka oslobađa vodu i: ",
+      "Biljke koje imaju sitne i neugledne ženske cvetove, a muški su u obliku visećih resa oprašuje se: "
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feba4",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea57",
+    "grade": 7,
+    "name": "Zdravlje i bolesti čoveka",
+    "questionCount": 36,
+    "sampleQuestions": [
+      "Kada se zagrcneš zalogajem hrana je dospela u pogrešan organ. Koji?",
+      "Koju bolest ne izaziva patogen?",
+      "Alkoholizam je:",
+      "Kada malo ogrebeš koleno potrebno je: ",
+      "Bolesti koje čoveku prenose životinje nazivamo: "
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feba1",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea57",
+    "grade": 7,
+    "name": "Ekologija populacija",
+    "questionCount": 31,
+    "sampleQuestions": [
+      "Sve zelene žabe u jednoj bari čine:",
+      "Biocenoza ne može da opstane ako najmanju biomasu imaju:",
+      "Kako se naziva sav prostor i resursi koje jedna populacija koristi?",
+      "Koji par organizama ne može da bude deo jednog istog lanca ishrane?",
+      "U zoo-vrtu žive različite životinje, često po jedan primerak tigra ili lava, na primer. Kako u ekologiji možemo da nazovemo takvu grupu organizama?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feba3",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea57",
+    "grade": 7,
+    "name": "Postanak i razvoj života",
+    "questionCount": 21,
+    "sampleQuestions": [
+      "Stromatoliti su okamenjeni ostaci: ",
+      "Na drvetu života srodnost dve vrste organizama određujemo na osnovu:",
+      "Kada bi čovek mogao da se vrati u vreme pre nastanka života na Zemlji da li bi mogao da preživi udisanje vazduha? ",
+      "Tri glavne grane na drvetu života čine:",
+      "Za koji par vrsta možemo da tvrdimo da su srodne? "
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feba2",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea57",
+    "grade": 7,
+    "name": "Prirodna i veštačka selekcija",
+    "questionCount": 13,
+    "sampleQuestions": [
+      "Gaćan je rasa:",
+      "Kada uslovi životne sredine deluju tako da preživljavaju najbolje adaptirane jedinke, onda govorimo o:",
+      "Kada čovek vrši veštačku selekciju jedne vrste, on želi da dobije osobine koje:",
+      "Kada se vrši veštačka selekcija biljaka nastaju:",
+      "Geni ćelijama daju uputstvo za stvaranje: "
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec4b",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea76",
+    "grade": 8,
+    "name": "Anatomija i fiziologija čoveka",
+    "questionCount": 129,
+    "sampleQuestions": [
+      "Jedro je organela u kojoj se nalazi:",
+      "Čulne ćelije koje primaju draži iz spoljašnje i unutrašnje sredine nazivaju se: ",
+      "Otvor na zenici reguliše:",
+      "Neizlečiva bolest kod koje dolazi do propadanja mijelinskog omotača je: ",
+      "Grčenje (drhtanje) skeletnih mišića je način na koji se endotermi:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec4e",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea76",
+    "grade": 8,
+    "name": "Evolucija i poreklo čoveka",
+    "questionCount": 15,
+    "sampleQuestions": [
+      "Kolagen, keratin, hemoglobin i enzimi su po svom sastavu: ",
+      "Preobražaj gusenice u lutku nalazi se pod uticajem:",
+      "Prema Čarlsu Darvinu osnov za odvijanje prirodne selekcije između jedinki jedne vrste zasniva se na:",
+      "Izolacioni mehanizam kojim se sprečava oplođenje između biljaka različitih vrsta naziva se:",
+      "Smatra se da je direktni predak savremenog čoveka:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec4f",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea76",
+    "grade": 8,
+    "name": "Zaštita životne sredine",
+    "questionCount": 15,
+    "sampleQuestions": [
+      "Promene biocenoza na jednom biotopu nazivaju se:",
+      "Kako se naziva proces pretvaranja amonijaka u nitrate, koji vrše neke bakterije?",
+      "Najveći uticaj na ekosistem imaju vrste koje nazivamo:",
+      "Pojačan efekat staklene bašte nastaje zbog veće koncentracije nekih gasova u atmosferi, a pre svega: ",
+      "Međunarodna unija za zaštitu prirode definisala je kategorije ugroženosti vrsta i ona obeležena sa EH označava:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec4d",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea76",
+    "grade": 8,
+    "name": "Razvoj života kroz geološko vreme",
+    "questionCount": 10,
+    "sampleQuestions": [
+      "U praokeanu su se pre oko 3,5 milijardi godina pojavili jednoćelijski organizmi slični današnjim:",
+      "Period u paleozoiku tokom koga je došlo do naglog povećanja raznovrsnosti živih bića naziva se:",
+      "Dinosaurusi su izumrli krajem:",
+      "Prve biljke koje su naselile kopno su bile:",
+      "Najveća raznovrsnost golosemenica i gmizavaca bila je u:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec4c",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "classId": "60f475359892c9345e4fea76",
+    "grade": 8,
+    "name": "Reprodukcija i polno zdravlje",
+    "questionCount": 6,
+    "sampleQuestions": [
+      "Polne bolesti koje izazivaju bakterije pored hlamidijaze su i ",
+      "Sredstvo koje štiti od polno prenosivih bolesti i neželjene trudnoće je:",
+      "Sprečavanje neželjene trudnoće postiže se upotrebom sredstava za:",
+      "Osobe koje imaju seksualnu sklonost prema osobama suprotnog pola su:",
+      "Primarne i sekundarne polne osobine čoveka određuju njegov: "
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea99",
+    "subjectId": "60f473b09892c9345e4fe9ba",
+    "subjectName": "Digitalni svet",
+    "classId": "60f475359892c9345e4fea1f",
+    "grade": null,
+    "name": "Digitalni uređaji",
+    "questionCount": 90,
+    "sampleQuestions": [
+      "U delove računara spadaju:",
+      "Koji uređaji pomažu ljudima da brže, lakše i bolje obavljaju poslove u različitim zanimanjima?",
+      "Zahvaljujući digitalnim uređajima postoje:",
+      "Pametni digitalni uređaji imaju takav naziv jer: ",
+      "Pametni telefon je vrsta mobilnog telefona koji može da se koristi kao: "
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea9a",
+    "subjectId": "60f473b09892c9345e4fe9ba",
+    "subjectName": "Digitalni svet",
+    "classId": "60f475359892c9345e4fea1f",
+    "grade": null,
+    "name": "Komunikacija i bezbednost na mreži",
+    "questionCount": 46,
+    "sampleQuestions": [
+      "Kada ljudi razmenjuju poruke i informacije to je:",
+      "Da ne bi ugrozili zdravlje prilikom korišćenja digitalnih uređaja monitor treba da bude:",
+      "Loše strane interneta su:",
+      "Pokvarena električna gitara spada u:",
+      "Pre upotrebe digitalnih uređaja treba da:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea9b",
+    "subjectId": "60f473b09892c9345e4fe9ba",
+    "subjectName": "Digitalni svet",
+    "classId": "60f475359892c9345e4fea1f",
+    "grade": null,
+    "name": "Algoritamski način razmišljanja",
+    "questionCount": 12,
+    "sampleQuestions": [
+      "Redosled koraka koje treba da pratimo da bi smo uradili neki zadataka ili rešili problem naziva se:",
+      "Svaki algoritam ima svoj:",
+      "Zadatak ili problem treba rastaviti",
+      "Da li je tačan sledeći redosled radnji: postavljanje paste na četkicu-pravilno trljanje zuba-ispiranje usta-pranje četkice?",
+      "Najbolje bi bilo da vreme posle korišćenja digitalnih uređaja provodimo u:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febd8",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea6a",
+    "grade": 6,
+    "name": "Sila i kretanje",
+    "questionCount": 59,
+    "sampleQuestions": [
+      "Koja je merna jedinica za silu?",
+      "Dinamometrom merimo:",
+      "Ako automobil ubrza od 0 do 25 m/s za 5 sekundi, njegovo ubrzanje iznosi?",
+      "Srednju brzinu tokom celog puta možemo izračunati ako su nam poznate početna i krajnja brzina. Prilikom kakvog kretanja ovo važi?",
+      "Ako u vakuumu sa iste visine bacimo bilijarsku kuglu i zgužvan papir, šta će od ta dva pre pasti na tlo?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febd9",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea6a",
+    "grade": 6,
+    "name": "Slobodan pad i gravitacija",
+    "questionCount": 29,
+    "sampleQuestions": [
+      "Koja od navedenih planeta ima najveće ubrzanje slobodnog pada na površini?",
+      "Težište planete Zemlje je:",
+      "Kolika je težina tela kada slobodno pada?",
+      "Pred servis teniser obično nekoliko puta udari lopticu od pod. Kako opisujemo to kretanje?",
+      "Koju je približno brzinu postiglo telo koje slobodno pada 2 sekunde?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febdb",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea6a",
+    "grade": 6,
+    "name": "Energija, rad i snaga",
+    "questionCount": 25,
+    "sampleQuestions": [
+      "Koje fizičke veličine imaju istu mernu jedinicu?",
+      "Gravitaciona potencijalna energija rakete se pri uzletanju",
+      "Jedinica za snagu je:",
+      "Kada je rad sile pozitivan, kakav je ugao koji pravac delovanja sile zaklapa sa pravcem kretanja tela?",
+      "Koliku približno brzinu postigne sivi soko kada se ustremi sa visine od 20 metara?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febda",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea6a",
+    "grade": 6,
+    "name": "Poluga i sila potiska",
+    "questionCount": 19,
+    "sampleQuestions": [
+      "Jedinica za moment sile je:",
+      "Klackalica je primer poluge:",
+      "Sila koja potiskuje naviše tela koja su u nju potopljena je:",
+      "Šta mora da uradi osoba manje mase da bi se uspešno klackala sa osobom veće mase?",
+      "Na koji od predmeta deluje najveća sila potiska kada su uronjeni u vodu?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febdc",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea6a",
+    "grade": 6,
+    "name": "Toplota i temperatura",
+    "questionCount": 18,
+    "sampleQuestions": [
+      "Ako se temperatura tela promeni za 20 stepeni Celezijusa, promena temperature izražena u kelvinima je jednaka:",
+      "Fizička veličina kojom se opisuje stepen zagrejanosti tela je:",
+      "Kako se zove proces kojim od leda dobijamo vodu?",
+      "Šta od navedenog ima najvišu temperaturu ključanja",
+      "Da bi se na tački topljenja istopila neka količina čvrste susptance potrebno je dovesti joj određenu količinu toplote. Kako se naziva ta toplota?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb95",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea5b",
+    "grade": 7,
+    "name": "Vektorske veličine i kretanje",
+    "questionCount": 41,
+    "sampleQuestions": [
+      "Telo u odnosu na koje posmatramo kretanje se zove:",
+      "Koja od navedenih veličina je vektorska?",
+      "Najviši čovek na svetu visok je 2,72 m a najniži 55 cm. Kolika je razlika u njihovim visinama?",
+      "Kad se broj 2,46793 zaokruži na dve decimale dobija se:",
+      "Čamac se kreće nizvodno brzinom od 2 metra u sekundi u odnosu na reku a 4 metra u sekundi u odnosu na obalu. Kolika je brzina reke?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb97",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea5b",
+    "grade": 7,
+    "name": "Merenje i merne jedinice",
+    "questionCount": 30,
+    "sampleQuestions": [
+      "Najstarija mera za dužinu je:",
+      "Najveće odstupanje izmerene fizičke veličine od njene srednje vrednosti je:",
+      "Na kutiji za keks masa je najčešće izražena u:",
+      "Šta se desi kada u posudu sa vodom ubacimo sunđer?",
+      "Tom Sojer farba ogradu visine jedan metar sa obe strane i potroši 5 litara farbe. Kolika je dužina ograde ako po metru kvadratnom troši 0,5 litara?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb99",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea5b",
+    "grade": 7,
+    "name": "Pritisak",
+    "questionCount": 24,
+    "sampleQuestions": [
+      "Merna jedinica za pritisak je:",
+      "Koliki je normalan atmosferski pritisak u nivou mora?",
+      "Merna jedinica za pritisak 1 bar je isto što i:",
+      "Šta od navedenog vrši najveći pritisak na podlogu?",
+      "Kolikom silom čekić deluje na ekser ako je površina vrha eksera 1 milimetar kvadratni a pritisak na površinu daske u koju ulazi ekser 50 MPa."
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb96",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea5b",
+    "grade": 7,
+    "name": "Sila i deformacija tela",
+    "questionCount": 23,
+    "sampleQuestions": [
+      "Promena oblika i veličine tela naziva se:",
+      "Ko je idejni tvorac gromobrana?",
+      "Kada pada sneg obavezno je staviti lance na gume automobila. Ovim se trenje između točkova i puta",
+      "Koji je naziv jedinice za fizičku veličinu kojom izražavamo količinu supstancije?",
+      "Kojom silom približno mladoženja deluje na pod dok prenosi mladu preko praga ako zajedno imaju 150 kilograma."
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb98",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea5b",
+    "grade": 7,
+    "name": "Masa i gustina",
+    "questionCount": 18,
+    "sampleQuestions": [
+      "Jedan mg (miligram) je isto što i:",
+      "Kako se zove uređaj za određivanje gustine tečnosti?",
+      "Šta je od navedenog najinertnije?",
+      "Kocka čija je dužina ivice jedan metar ima masu 900 kilograma. Da li će ta kocka plutati u vodi?",
+      "Ako dva tela imaju istu masu i gustinu zapremina im je:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb94",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea5b",
+    "grade": 7,
+    "name": "Uvod u fiziku",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Reč fizika potiče od grčke reči fizis što znači?",
+      "Koje godine je Apolo 11 odvezao prvu ljudsku posadu na mesec?",
+      "Koja od navedenih veličina nije vektorska?",
+      "Temperatura je:",
+      "Koji od navedenih pojmova predstavlja supstanciju?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec35",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea7a",
+    "grade": 8,
+    "name": "Električna struja",
+    "questionCount": 31,
+    "sampleQuestions": [
+      "Jedinica za napon je",
+      "Koje veličine povezuje Omov zakon?",
+      "Jedinica za količinu toplote je?",
+      "Ako su provodnici jednakih dužina i površina poprečnog preseka, jedan od srebra, a drugi od gvožđa, veću električnu otpornost ima:",
+      "Na osnovu Omovog zakona za deo strujnog kola, napon na krajevima provodnika jednak je:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec33",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea7a",
+    "grade": 8,
+    "name": "Svetlost i sočiva",
+    "questionCount": 27,
+    "sampleQuestions": [
+      "Kolika je približno brzina svetlosti?",
+      "Kod zdravog oka, zraci se nakon prolaska kroz očno sočivo seku u:",
+      "Fatamorgana je primer",
+      "Jedinica za potencijal je",
+      "Zrak koji se prostire paralelno optičkoj osi posle prolaska kroz rasipno sočivo: "
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec36",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea7a",
+    "grade": 8,
+    "name": "Magnetizam",
+    "questionCount": 27,
+    "sampleQuestions": [
+      "Koja vrsta životinja se orijentiše i uz pomoć magnentog polja?",
+      "Za magnet važi da",
+      "Ako se dužina provodnika smanji 3 puta, a magnetna indukcija poveća 6 puta, šta se desi sa Amperovom silom?",
+      "Smer linija sila magnetnog polja strujnog provodnika može se odrediti magnetnom iglom i:",
+      "Komutator se koristi za:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec34",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea7a",
+    "grade": 8,
+    "name": "Elektrostatika",
+    "questionCount": 24,
+    "sampleQuestions": [
+      "Kako deluju dva pozitivna tačkasta naelektrisanja jedno na drugo?",
+      "Razlika potencijala između dve tačke je",
+      "Šta od navedenog nije provodnik?",
+      "Ako se napon na pločastom kondenzatoru poveća duplo, a rastojanje između ploča prepolovi, jačina električnog polja će:",
+      "Ako se rastojanje između tačkastog i probnog naelektrisanja poveća 2 puta, šta se dešava sa jačinom električnog polja?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec32",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea7a",
+    "grade": 8,
+    "name": "Oscilacije i talasi",
+    "questionCount": 22,
+    "sampleQuestions": [
+      "Najveće rastojanje od ravnotežnog položaja je?",
+      "Talas kod koga čestice sredine osciluju normalno na pravac prostiranja je:",
+      "Rastojanje između susednog brega i dolje je",
+      "Tačkasti izvor svetlosti pravi",
+      "Ako se frekvencija poveća dva puta šta se desi sa periodom oscilovanja matematičkog klatna?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec37",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "classId": "60f475359892c9345e4fea7a",
+    "grade": 8,
+    "name": "Atom i jezgro",
+    "questionCount": 19,
+    "sampleQuestions": [
+      "Kako je naelektrisano jezgro atoma?",
+      "Kako još zovemo superteški vodonik?",
+      "Koje od navedenih zraka zaustavlja papir?",
+      "Najmanju prodornost imaju? ",
+      "Koliko ima neutrona u sastavu alfa čestice?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb4c",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea48",
+    "grade": 5,
+    "name": "Litosfera i reljef",
+    "questionCount": 47,
+    "sampleQuestions": [
+      "Od kojih metala je izgrađeno Zemljino jezgro?",
+      "Kako se naziva levkasti otvor na vrhu vulkanske kupe: ",
+      "Smer delovanja Zemljine teže je:",
+      "Oblikovanje reljefa radom lednika naziva se:",
+      "Ostaci davno izumrlih biljaka i životinja očuvani u stenama zovu se: "
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb4b",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea48",
+    "grade": 5,
+    "name": "Zemlja kao planeta",
+    "questionCount": 30,
+    "sampleQuestions": [
+      "Kako se naziva teorija po kojoj se Zemlja nalazi u centru Sunčevog sistema, a oko nje kruže sva druga nebeska tela?",
+      "Za koje vreme Zemlja obiđe oko Sunca?",
+      "U kom toplotnom pojasu se nalazi najveći deo Azije?",
+      "Nejednako trajane obdanice i noći posledica je:",
+      "Nova godina po julijanskom kalendaru počinje:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb4d",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea48",
+    "grade": 5,
+    "name": "Atmosfera i klima",
+    "questionCount": 18,
+    "sampleQuestions": [
+      "Idući od podnožja ka vrhu planine, vazdušni pritisak se:",
+      "Koji stalni vetrovi duvaju u Srbiji?",
+      "Koji gas je najzastupljeniji u atmosferi?",
+      "Kako se zove najniži i najgušći sloj atmosfere?",
+      "Topla leta i hladne i oštre zime su odlike:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb49",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea48",
+    "grade": 5,
+    "name": "Vasiona i Sunčev sistem",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Prostor ispunjen nebeskim telima naziva se:",
+      "Nauka koja se bavi proučavanjem Vasione naziva se:",
+      "Zvezda najbliža Zemlji je:",
+      "Za koje vreme Mesec obiđe oko Zemlje?",
+      "Vasionu drugačije zovemo:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb4e",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea48",
+    "grade": 5,
+    "name": "Hidrosfera",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Koje ostrvo je najveće na Zemlji?",
+      "Sredozemno more je:",
+      "Kako se nazivaju jezera čija je površina iznad a dno ispod nivoa mora?",
+      "Koja od navedenih je hladna morska struja?",
+      "Glavna reka sa svojim pritokama predstavlja:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb4a",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea48",
+    "grade": 5,
+    "name": "Oblik i veličina Zemlje",
+    "questionCount": 12,
+    "sampleQuestions": [
+      "Koji procenat površine Zemlje zauzima voda?",
+      "Koji kontinent je najveći?",
+      "Koji moreplovac je prvi oplovio svet i dokazao da je Zemlja loptastog oblika?",
+      "Kada se sa pučine brod približava obali, posmatrač sa obale najpre ugleda:",
+      "Koliki je poluprečnik planete Zemlje:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb4f",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea48",
+    "grade": 5,
+    "name": "Biosfera",
+    "questionCount": 10,
+    "sampleQuestions": [
+      "Kako se naziva omotač naše planete naseljen živim svetom?",
+      "Koja od navedenih životinjskih vrsta živi u tropskim kišnim šumama?",
+      "Četinarske šume koje zauzimaju veliko prostranstvo na severu Evroazije i Severne Amerike nazivaju se:",
+      "Zona tropskih kišnih šuma prostire se u područjima u kojima je zastupljena:",
+      "Makije su tipične biljne vrste oblasti u kojima je zastupljena:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb48",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea48",
+    "grade": 5,
+    "name": "Uvod u geografiju",
+    "questionCount": 5,
+    "sampleQuestions": [
+      "Predmet proučavanja geografije je:",
+      "Hidrosfera je:",
+      "Odgovorno ponašanje čoveka prema prirodi je:",
+      "Koji naučnik je prvi upotrebio naziv geografija?",
+      "Stenoviti omotač Zemlje je :"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb93",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea56",
+    "grade": 6,
+    "name": "Evropa: opšti pregled",
+    "questionCount": 57,
+    "sampleQuestions": [
+      "Predmet proučavanja regionalne geografije je :",
+      "Koje energente uvozi Evropa ?",
+      "Istočnu granicu Evope prema Aziji čini planina:",
+      "Reke Severna Dvina i Pečora pripadaju slivu:",
+      "Broj koji pokazuje koliko je puta neko rastojanje u prirodi umanjeno i tako predstavljeno na karti je:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb8f",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea56",
+    "grade": 6,
+    "name": "Stanovništvo sveta",
+    "questionCount": 33,
+    "sampleQuestions": [
+      "Demografija je nauka koja se bavi proučavanjem :",
+      "Visoku stopu prirodnog priraštaja imaju nerazvijene države :",
+      "U svetu se govori oko :",
+      "Najzastupljenije religije u svetu su :",
+      "U kom gradu u Srbiji je zabeležena najveća stopa prirodnog priraštaja ?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb8e",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea56",
+    "grade": 6,
+    "name": "Kartografija i orijentacija",
+    "questionCount": 22,
+    "sampleQuestions": [
+      "Geografsku ili kartografsku mrežu čine:",
+      "Lučno rastojanje nekog mesta od ekvatora na Severni ili Južni je:",
+      "Geografski elementi na kartama se predstavljaju:",
+      "Elektronski uređaj koji uz pomoć satelita služi za orjentaciju, određivanje geografskih koordinata mesta na Zemljinoj površini naziva se:",
+      "Hipsometrijski metod je drugi naziv za:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb92",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea56",
+    "grade": 6,
+    "name": "Države sveta",
+    "questionCount": 21,
+    "sampleQuestions": [
+      "Makro države su :",
+      "Koja od navedenih država je apsolutna monarhija ?",
+      "Pred kraj 20. veka Čehoslovačka je podeljena na dve države :",
+      "Koja od navedenih država je republika :",
+      "Teritorije kojih država se nalaze na kontinentima Evrope i Azije?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb90",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea56",
+    "grade": 6,
+    "name": "Naselja",
+    "questionCount": 9,
+    "sampleQuestions": [
+      "Arheološko nalazište Lepenski vir nalazi se u blizini :",
+      "Pećine u Srbiji u kojima su živeli praistorijski ljudi su :",
+      "Sirotinjske četvrti u Aziji nazivaju se :",
+      "Spajanjem više konurbacija nastaju :",
+      "Šta predstavlja BOSVAŠ ( Boston-Vašington) u SAD-u ?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb8d",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea56",
+    "grade": 6,
+    "name": "Grane geografije",
+    "questionCount": 4,
+    "sampleQuestions": [
+      "Šta proučava društvena geografija ?",
+      "Istorijska geografija, geografija naselja i ekonomska geografija su predmet proučavanja :",
+      "Ko je bio najveći srpski geograf ?",
+      "Agrarna geografija, industrijska geografija, saobraćajna geografija i turistička geografija čine :"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb91",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea56",
+    "grade": 6,
+    "name": "Privredne delatnosti",
+    "questionCount": 4,
+    "sampleQuestions": [
+      "Koje su kvartarne delatnosti ?",
+      "Primarne privredne delatnosti su :",
+      "U kojoj oblasti Azije se nalaze države koje se zbog velikih rezervi nafte ubrzano razvijaju ?",
+      "Grane lake industrije su :"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febd3",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea65",
+    "grade": 7,
+    "name": "Afrika",
+    "questionCount": 28,
+    "sampleQuestions": [
+      "Površina Afrike je:",
+      "Najmnogoljudnije države Afrike su:",
+      "Kada je uveden aparthejd u Južnoafričkoj Republici ?",
+      "Tripoli je glavni grad :",
+      "Po površini i broju stanovnika najveća država Istočne Afrike je :"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febd1",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea65",
+    "grade": 7,
+    "name": "Evropa: regije i države",
+    "questionCount": 23,
+    "sampleQuestions": [
+      "Sicilija je ostrvo koje se nalazi u:",
+      "Koja od navedenih teritorija ne pripada Španiji?",
+      "Koji od navedenih gradova je i luka?",
+      "Vodeći evropski proizvođač automobila je:",
+      "Kojoj regiji pripada Minhen ?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febd4",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea65",
+    "grade": 7,
+    "name": "Severna i Srednja Amerika",
+    "questionCount": 23,
+    "sampleQuestions": [
+      "Dva najveća poluostrva Srednje Amerike su :",
+      "Većinu stanovnika Meksika čine:",
+      "Konkvistadori su :",
+      "Najveći grad Srednje Amerike je :",
+      "Za sever Aljaske karakteristina je: "
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febd2",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea65",
+    "grade": 7,
+    "name": "Azija",
+    "questionCount": 22,
+    "sampleQuestions": [
+      "Najduža i najveća reka Azije je:",
+      "Koje od navedenih ostrva pripada Africi ?",
+      "Najviši planinski vrh na Zemlji je:",
+      "Najniža tačka u reljefu Zemlje je površina jezera Mrtvo more (-423 m) koja se nalazi u državi:",
+      "Jak je životinja koja naseljava:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febd5",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea65",
+    "grade": 7,
+    "name": "Južna Amerika",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Južna Amerika je Panamskom prevlakom povezana sa:",
+      "Koje su države Južne Amerike sa više od 90% gradskog stanovništva ?",
+      "Koje dve države Južne Amerike nemaju izlaz na more ?",
+      "Najveća država Južne Amerike je :",
+      "Kom delu Okeanije pripadaju Havajska ostrva ?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febd6",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea65",
+    "grade": 7,
+    "name": "Australija i Okeanija",
+    "questionCount": 18,
+    "sampleQuestions": [
+      "Površina Australije je :",
+      "Koja su dva najveća grada Australije ?",
+      "Grad Australije koji je poznat po zgradi opere i luci je :",
+      "Pored kog jezera se nalazi najniža tačka Australije ?",
+      "Kojoj velikoj ostrvskoj grupi pripadaju Maršalska i Karolinska ostrva ?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febd7",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea65",
+    "grade": 7,
+    "name": "Polarne oblasti",
+    "questionCount": 11,
+    "sampleQuestions": [
+      "Koje godine je američka pomorska ekspedicija koju je predvodio kapetan Robert Piri stigla na Severni pol? ",
+      "Šta je inlandajs ?",
+      "Polarna noć na Južnom polu traje :",
+      "Roald Amundsen je prvi stigao na Južni pol decembra :",
+      "Antarktiku je najbliža :"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febd0",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea65",
+    "grade": 7,
+    "name": "Uvod u regionalnu geografiju",
+    "questionCount": 5,
+    "sampleQuestions": [
+      "Proučavanjem geografskih regija na Zemlji bavi se:",
+      "Kolika je površina planete Zemlje?",
+      "Koja od navedenih geografskih regija je najmanja: Afrika, Evroazija, Pirinejsko poluostrvo, Južna Evropa?",
+      "Kom tipu regije pripada Kvebek?",
+      "U kojoj državi se nalazi grad Gdanjsk?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec2b",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea75",
+    "grade": 8,
+    "name": "Reljef i klima Srbije",
+    "questionCount": 83,
+    "sampleQuestions": [
+      "Koje je kopno najstarije u Srbiji?",
+      "Najviši vrh Vojvodine je:",
+      "Koji tip klime je zastupljen u Kragujevcu?",
+      "Koja od navedenih planina nije rasedna?",
+      "Zemljište koje je slabo pokriveno vegetacijom se u odnosu na zemljište pod bujnom vegetacijom:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec2d",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea75",
+    "grade": 8,
+    "name": "Privreda Srbije",
+    "questionCount": 31,
+    "sampleQuestions": [
+      "Kom privrednom sektoru pripada školstvo?",
+      "Gde se u Srbiji eksploatiše nafta:",
+      "Kakav spoljnotrgovinski bilans ima Srbija?",
+      "Planina Venčac je poznata po eksploataciji?",
+      "Koje područje u Srbiji je poznato po proizvodnji krompira?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec2a",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea75",
+    "grade": 8,
+    "name": "Položaj i granice Srbije",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Sa koliko država se graniči Srbija?",
+      "Koji deo Srbije se nalazi u Srednjoj Evropi?",
+      "Srbija je podunavska zemlja a Dunav predstavlja deo panevropskog:",
+      "Najzapadnija tačka Srbije je:",
+      "Koji od navedenih graničnih prelaza je prelaz prema Hrvatskoj:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec2c",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea75",
+    "grade": 8,
+    "name": "Stanovništvo Srbije",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Koje godine je sproveden poslednji popis stanovništva u Srbiji?",
+      "Kako se drugačije zove seosko stanovništvo?",
+      "U kom od navedenih mesta u Srbiji su Bugari većinsko stanovništvo:",
+      "Kolika je prosečna gustina naseljenosti u Srbiji?",
+      "Kolika je prosečna starost stanovništva Srbije (bez podataka za KiM)?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec2e",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea75",
+    "grade": 8,
+    "name": "Kulturno nasleđe Srbije",
+    "questionCount": 5,
+    "sampleQuestions": [
+      "Centar Topličkog okruga je:",
+      "U blizini današnjeg Kostolca nalazi se arheološko nalazište:",
+      "Koje arheološko nalazište nadomak Zaječara je uvršteno u Uneskovu listu svetske baštine:",
+      "Koji od navedenih manastira se nalazi na Uneskovoj listi svetske baštine?",
+      "Centar Raškog okruga je:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec2f",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "classId": "60f475359892c9345e4fea75",
+    "grade": 8,
+    "name": "Srbi van Srbije",
+    "questionCount": 3,
+    "sampleQuestions": [
+      "U kojoj od naših susednih država živi najviše Srba?",
+      "U kom gradu SAD-a živi najviše Srba?",
+      "U okolini kog mesta u Rumuniji živi najviše Srba? "
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febed",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea6b",
+    "grade": 7,
+    "name": "Atom i atomska struktura",
+    "questionCount": 27,
+    "sampleQuestions": [
+      "Najmanja čestica elementa naziva se:",
+      "Simboli hemijskih elemenata koji čine vodu su:",
+      "Protijum, deuterijum i tricijum su izotopi:",
+      "Najveći broj elektrona koji se može naći na L energetskom nivou je:",
+      "Atom čine čestice: "
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febee",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea6b",
+    "grade": 7,
+    "name": "Hemijske veze",
+    "questionCount": 26,
+    "sampleQuestions": [
+      "Dva atoma vodonika i jedan atom kiseonika grade nama poznato jedinjenje koje se zove:",
+      "Tip veze u molekulu vode je:",
+      "Kristali natrijum-hlorida (kuhinjske soli) izgrađeni su od:",
+      "Magnezijum-hlorid je jedinjenje s visokom temperaturom topljenja što se objašnjava:",
+      "Kovalentna veza može biti jednostruka, dvostruka i trostruka što zavisi od broja zajedničkih:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febef",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea6b",
+    "grade": 7,
+    "name": "Smeše i rastvori",
+    "questionCount": 24,
+    "sampleQuestions": [
+      "Rastvori su:",
+      "Jednostavan postupak razdvajanja sastojaka smeše koja se sastoji od taloga i tečnosti je:",
+      "Voda je pogodan rastvarač za:",
+      "Dodavanjem rastvarača u zasićeni rastvor dobija se:",
+      "Ako je redosled razdvajanja satojaka smeše magnet-rastvaranje-ceđenje-kristalizacija, u smeši imamo:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febeb",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea6b",
+    "grade": 7,
+    "name": "Mol i količina supstance",
+    "questionCount": 21,
+    "sampleQuestions": [
+      "Merna jedinica za količinu supstance je:",
+      "Koja od navedenih promena je hemijska?",
+      "Šećer je:",
+      "U proizvodnji gaziranih pića koristi se:",
+      "Šećer koji koristimo u ishrani čine hemijski elementi:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febf1",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea6b",
+    "grade": 7,
+    "name": "Stehiometrijska izračunavanja",
+    "questionCount": 19,
+    "sampleQuestions": [
+      "Oblast hemije koja se bavi izračunavanjima na osnovu jednačine hemijske reakcije naziva se:",
+      "Relativna molekulska masa vode je:",
+      "Koliko iznosi Avogadrov broj, broj čestica u jednom molu supstance, koristi se pri stehiometrijskim izračunavanjima:",
+      "Koliku masu ima dva mola amonijaka ako su relativne atomske mase azota i vodonika 14 i 1?",
+      "Jon natrijuma ima 10 elektrona. Koliko elektrona ima atom natrijuma?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febf0",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea6b",
+    "grade": 7,
+    "name": "Hemijske reakcije",
+    "questionCount": 17,
+    "sampleQuestions": [
+      "Promene tokom kojih iz jedne ili više supstanci nastaju nove supstance su:",
+      "Kada se sumpor zapali dolazi do reakcije koja se naziva:",
+      "U reakciji dva molekula vodonika i jednog molekula kiseonika nastaje:",
+      "U reakciji sivo srebrnog metala natrijuma i zeleno žutog gasa hlora nastaje:",
+      "Za nastajanje dva molekula natrijum-hlorida potreban je jedan molekul hlora i:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febec",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea6b",
+    "grade": 7,
+    "name": "Laboratorija i hemijski ogledi",
+    "questionCount": 16,
+    "sampleQuestions": [
+      "Specijalno opremljena prostorija u kojoj se izvode ogledi i eksperimentalna istraživanja je:",
+      "Da bi se supstanca bezbedno zagrevala u epruveti, treba epruvetu iznad plamena držati:",
+      "Filtriranje je postupak razdvajanja sastojaka:",
+      "Najpreciznije merenje zapremine tečnosti izvodi se pomoću:",
+      "U ogledima se često zbog svojih osobina koristi plavi kamen, a to je jedinjenje:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec50",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea7b",
+    "grade": 8,
+    "name": "Nemetali",
+    "questionCount": 22,
+    "sampleQuestions": [
+      "Najzastupljeniji element u svemiru je:",
+      "Neophodan reaktant za reakcije kao što su rđanje i sagorevanje je:",
+      "Na sobnoj temperaturi i atmosferskom pritisku molekul sumpora ima atoma:",
+      "Jedna supstanca i u reakciji sa cinkom i u reakciji sa natrijum-karbonatom oslobađa gasovite proizvode. Ta supstanca je:",
+      "Oksidi su pomešani sa vodom i u smeše je uneta plava lakmus hartija koja će promeniti boju u crveno ako je u smeši:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec51",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea7b",
+    "grade": 8,
+    "name": "Metali",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Jedini metal u tečnom agregatnom stanju na sobnoj temperaturi i atmosferskom pritisku je:",
+      "Hemijska formula natrijum-hidroksida je:",
+      "Oksidi metala koji u reakciji sa vodom daju hidrokside su:",
+      "Da bi nastao magnezijum hidroksid , u rekciji, rektanti su magnezijum oksid i:",
+      "Stajanjem na vazduhu , bakar sa supstancama iz vazduha reaguje i prevlači se slojem:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec52",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea7b",
+    "grade": 8,
+    "name": "Soli",
+    "questionCount": 17,
+    "sampleQuestions": [
+      "Soli su:",
+      "Soli sumporne kiseline se zovu:",
+      "Uobičajen naziv soli bakar (II)sulfat pentahidrat je:",
+      "Ako se istovremeno na ugrejanu ringlu stavi kocka šećera i kašičica kuhinjske soli, koja supstanca će se prva istopiti?",
+      "Na hemijsku reakciju magnezijuma i hlorovodonične kiseline ukazuje:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec53",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea7b",
+    "grade": 8,
+    "name": "Kiseline, baze i pH",
+    "questionCount": 16,
+    "sampleQuestions": [
+      "Proces pri kome se jonska i neka polarna kovalentna jedinjenja razlažu na jone pod uticajem polarnih molekula vode je:",
+      "Kiseline su supstance koje disocijacijom u vodi daju pozitivne jone:",
+      "Ugljena kiselina je:",
+      "U čaši se nalazi rastvor jedinjenja čiji je pH=3.Ta vrednost će se povećati ako se u rastvor doda:",
+      "Eletrolitičkom disocijacijom sumporne kiseline u vodenom rastvoru imamo jone:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec55",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea7b",
+    "grade": 8,
+    "name": "Ugljovodonici",
+    "questionCount": 16,
+    "sampleQuestions": [
+      "Atomi ugljenika su u molekulima alkana povezani isključivo kovalentnim vezama koje su:",
+      "Eten spada u grupu ugljovodonika koji se zovu:",
+      "Alkan koji ima 5 atoma ugljenika sadrži atoma vodonika: ",
+      "Adicija može biti nepotpuna kod:",
+      "Umesto naizmenično postavljenih dvostrukih veza, unutar benzenovog prstena može se staviti krug koji predstavlja:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec56",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea7b",
+    "grade": 8,
+    "name": "Alkoholi i organske kiseline",
+    "questionCount": 16,
+    "sampleQuestions": [
+      "Koja od navedenih funkcionalnih grupa je karakteristična za alkohole?",
+      "Metanska kiselina je poznata i pod nazivom:",
+      "Za skidanje kamenca (najčešće kalcijum-karbonata) u kupatilu se može upotrebiti:",
+      "Dehidratacijom etanola nastaju:",
+      "Nitroglicerin je lek za srce i sastojak dinamita, a prema hemijskom sastavu je:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec57",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea7b",
+    "grade": 8,
+    "name": "Masti, šećeri i proteini",
+    "questionCount": 16,
+    "sampleQuestions": [
+      "U mesu životinja ima najviše:",
+      "Pod uticajem energije Sunčevih zraka u koži se sintetiše:",
+      "Mlečni šećer je:",
+      "Glicerol se može dobiti hidrolizom:",
+      "Saponifikacija je hemijska reakcija razlaganja triacilglicerola alkalnim: "
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec54",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea7b",
+    "grade": 8,
+    "name": "Organska jedinjenja: uvod",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Organska jedinjenja uvek u svom sastavu imaju jedan ili više atoma:",
+      " U organskim jedinjenjima pretežno je zastupljena:",
+      "Organska jedinjenja ugljovodonici se neće rastvoriti u:",
+      "Aromatični ugljovodonici se koriste kao nepolarni rastvarači, a prvi član homolognog niza je:",
+      "Teflon je polimer koji se koristi za presvlačenje kuhinjskog posuđa, a nastaje povezivanjem velikog broja molekula:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec58",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "classId": "60f475359892c9345e4fea7b",
+    "grade": 8,
+    "name": "Hemija životne sredine",
+    "questionCount": 13,
+    "sampleQuestions": [
+      "Svaka supstanca koja narušava kvalitet životne sredine se naziva: ",
+      "Prirodni izvor zagađenja vazduha su močvare u kojima zbog razlaganja organskih supstanci nastaje:",
+      "Šta u atmosferi oštećuju supstance koje se nalaze u rashladnim uređajima, freoni:",
+      "Kada nakon reakcije oksida sumpora i azota sa kišnicom padaju kiše, one deluju štetno, a poznate su kao:",
+      "Da u vaduh ne bi dospeli čađ i ugljen-monoksid, sagorevanje fosilnih goriva mora biti potpuno što se postiže dovoljnim dotokom:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb5c",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea4b",
+    "grade": 5,
+    "name": "Programiranje u Scratch-u",
+    "questionCount": 65,
+    "sampleQuestions": [
+      "Koliko je široka pozornica programskog jezika Scratch?",
+      "Koliko skripti može da ima jedan lik?",
+      "Sadržaj liste boje je na početku (žuta, zelena, plava). Šta će biti sadržaj te liste nakon izvršenja bloka \"zameni element 2 u boje sa crna\"?",
+      "Kolika je vrednost promenljive y po izvršenju naredbi \"neka x bude 5\" \"neka y bude 4\" \"neka x bude x*y\" \"neka y bude y*x\"?",
+      "U programskom jeziku Scratch zelenom bojom označena je kategorija?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb5a",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea4b",
+    "grade": 5,
+    "name": "Računar i hardver",
+    "questionCount": 64,
+    "sampleQuestions": [
+      "Ulazna jedinica je?",
+      "Za šta nam služi program Paint?",
+      "Taster Backspace sa tastature služi za?",
+      "Na laptopu ili desktop računaru je podešen srpski jezik ćiriličko pismo. Koji znak će se prikazati na ekranu ako držiš pritisnut taster w?",
+      "Kako se naziva mašina koja izvršava uputstva (naredbe) i tako obavlja različite zadatke?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb5b",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea4b",
+    "grade": 5,
+    "name": "Internet i bezbednost",
+    "questionCount": 21,
+    "sampleQuestions": [
+      "Kakvi su rezultati pretrage koje nam daje pretraživač prilikom pretrage neke ključne reči?",
+      "Koji program spada u poznatije antivirusne programe?",
+      "Kako se naziva internet servis koji omogućava pristup veb-stranicama putem njihove internet adrese?",
+      "Kvalitetna lozinka treba da se sastoji iz kombinacije:",
+      "Koji od navedenih programa predstavlja internet pregledač?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feba7",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea59",
+    "grade": 6,
+    "name": "Python: osnove",
+    "questionCount": 70,
+    "sampleQuestions": [
+      "Koji od navedenih naziva je programski jezik?",
+      "Šta je rezultat izvršavanja sledeće naredbe print(max(min(-10, 21), abs(-33)))",
+      "Šta je rezultat izvršavanja naredne linije koda print(abs(-11) + abs(-11))?",
+      "Ako je Dragan platio 360 dinara 300 grama šunke, koliko košta kilogram šunke? Koja komanda ispisuje tačan odgovor?",
+      "Šta će biti rezultat izvršavanja sledećeg Python koda? x = 20 if (x // 2 == 0): x = x + 1 else: x = x % 2 print(x)"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feba5",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea59",
+    "grade": 6,
+    "name": "Tekst i digitalna grafika",
+    "questionCount": 45,
+    "sampleQuestions": [
+      "Izbaci uljeza. Ulazne jedinice su?",
+      "U kom formatu možemo čuvati sliku?",
+      "Kako se naziva proces vizualnog oblikovanja dokumenta? ",
+      "Za koju vrstu računarske grafike važi da uvećanjem na bilo koju veličinu slika gubi kvalitet?",
+      "Koju opciju ćemo koristiti za modifikovanje ugrađenih stilova?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feba6",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea59",
+    "grade": 6,
+    "name": "Računarske mreže",
+    "questionCount": 35,
+    "sampleQuestions": [
+      "Kako se nazivaju internet servisi za pronalaženje informacija na internetu na osnovu unetih ključnih reči?",
+      "Koji od navedenih domena ne pripadaju geografskim domenima? ",
+      "Kako se naziva stalna adresa uređaja koja se zadaje kao niz heksadecimalnih brojeva i sadrži informaciju o tipu proizvođača i serijski broj?",
+      "Kako se naziva jedinstvena adresa nekog resursa na internetu, poput pojedinačne internet stranice, datoteke, ili servisa?",
+      "Kako se nazivaju drugačije peer-to-peer mreže?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febf5",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea68",
+    "grade": 7,
+    "name": "Pygame i grafika u Python-u",
+    "questionCount": 91,
+    "sampleQuestions": [
+      "Koji od navedenih naziva je programski jezik?",
+      "Sledećom naredbom se u prozoru crta pravougaonik: pygame.draw.rect(prozor, pygame.Color(\"red\"), (150, 300, 300, 400)) Koje su njegove dimenzije?",
+      "Koja funkcija crta pravougaonik čije je gornje levo teme u tački (100,100), čija je širina 20, a visina 35 piksela?",
+      "Kako se pomera objekat ako se koordinata :math: x umanjuje?",
+      "Kolika je najmanja moguća vrednost koordinate Y u prozoru dimenzija 400 x 300?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febf3",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea68",
+    "grade": 7,
+    "name": "Vektorska grafika (Inkscape)",
+    "questionCount": 41,
+    "sampleQuestions": [
+      "Najpoznatiji program za unos i obradu teksta je:",
+      "Za koju vrstu računarske grafike važi da uvećanjem na bilo koju veličinu ne gubi se kvalitet slike?",
+      "Slika je dimenzije 4096x2304? Koliko ukupno piksela sadrži data slika?",
+      "Koji taster u programu Inkscape treba da držimo da bismo označili više objekata?",
+      "Koju vrednost treba da ima opcija Opacaty da bi sloj bio neprovidan?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febf4",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea68",
+    "grade": 7,
+    "name": "Internet servisi i e-mail",
+    "questionCount": 18,
+    "sampleQuestions": [
+      "Koliko se besplatnog memorijskog prostora na Gugl disku dodeljuje svakom kreiranom nalogu?",
+      "Kako se naziva jedinstvena adresa nekog resursa na internetu, poput pojedinačne internet stranice, datoteke, ili servisa?",
+      "Kako se naziva jedinstvena numerička adresa za svaki uređaj priključen na internet?",
+      "Kakav redosled pregledanja sadržaja omogućuje hipertekst?",
+      "U koje polje se upisuju imejl adrese onih primaoca poruke (učesnika u komunikaciji) koji treba da budu upoznati sa porukom, a sama poruka se ne odnosi direktno na njih?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec59",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea78",
+    "grade": 8,
+    "name": "Tabelarni proračuni (Excel)",
+    "questionCount": 75,
+    "sampleQuestions": [
+      "U kakve programe svrstavamo Microsoft Excel?",
+      "Koja je adresa ćelije u Excel-u dokumentu, ako je druga u prvom redu?",
+      "Na koji način možemo snimiti radnu svesku Excel-a kao PDF dokument?",
+      "Koji od sledećih primera predstavlja funkciju u Excel-u?",
+      "Koje kompanije nam nude mogućnost servisa \"u oblaku\"?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec5b",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea78",
+    "grade": 8,
+    "name": "Python: nizovi i Jupyter",
+    "questionCount": 63,
+    "sampleQuestions": [
+      "U kakvom su redosledu elementi niza L=[2,4,7,5,1,3,9] nakon izvršenja sledeće naredbe L.sort(reverse=True)?",
+      "Kako će izgledati niz M nakon izvršenja sledećeg programčića: L = ['zebra', 'majmun', 'komarac', 'mrav', 'lav'] M = [x for x in L if len(x) >5]",
+      "Kada računamo prosek niza u Python-u, sa kojim brojem delimo sumu elemenata niza?",
+      "Kako se zove funkcija iz matematičke biblioteke Python-a kojom računamo kvadratni koren nekog izraza ili promenljive?",
+      "Koju ekstenziju imaju Jupyter-ove radne sveske?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec5a",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "classId": "60f475359892c9345e4fea78",
+    "grade": 8,
+    "name": "Otvoreni podaci i privatnost",
+    "questionCount": 13,
+    "sampleQuestions": [
+      "Na kojoj adresi se nalazi Portal otvorenih podataka?",
+      "Kako se zove sadržaj i podaci koje neka osoba ostavlja na internetu svesno ili nesvesno rizika?",
+      "Koja ciljna grupa nema korist od otvorenih podataka?",
+      "Podaci koje smatramo ličnim podacima su oni koji:",
+      "Koje informacije rukovalac nije dužan da saopšti licu čiji su podaci, kada se za obradu podataka zahteva njegova saglasnost?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb46",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea47",
+    "grade": 5,
+    "name": "Stara Grčka",
+    "questionCount": 62,
+    "sampleQuestions": [
+      "Kada su bile prve Olimpijske igre? ",
+      "Atinu su osnovali: ",
+      "Najznačajnija verska, politička i sportska manifestacija starih Grka se održavala svake četvrte godine u:",
+      "Grčka je pala pod makedonsku vlast nakon bitke kod: ",
+      "\"Gospodaru, setite se Atinjana\" su reči koje je Darijev sluga morao da ponavlja da bi ga podsećao na:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb47",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea47",
+    "grade": 5,
+    "name": "Stari Rim",
+    "questionCount": 56,
+    "sampleQuestions": [
+      "\"Pretrpeo je svega dva teška poraza (...) oba u Germaniji.\" Svetonijevo delo opisuje period rimske države u vreme:",
+      "Izbaci uljeza u odnosu na periodizaciju rimske istorije: ",
+      "Prvi rimski car je bio:",
+      "Uspostavljanje neograničene vlasti cara u periodu dominata je posledica:",
+      "Koji od navedenih rimskih gradova nije osnovan na prostoru današnje Srbije?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb45",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea47",
+    "grade": 5,
+    "name": "Stari Istok",
+    "questionCount": 18,
+    "sampleQuestions": [
+      "Koji narod se smatra tvorcem prvog pisma? ",
+      "Hamurabijev zakonik je nastao u: ",
+      "Mesopotamija predstavlja međurečje reka:",
+      "\"Ako neko drugome uništi oko, da se uništi oko njegovo.\" Kojoj grupi istorijskih izvora pripada ovaj odlomak?",
+      "U toku grčke kolonizacije, na Istoku je najveći uspon doživelo: "
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb44",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea47",
+    "grade": 5,
+    "name": "Praistorija",
+    "questionCount": 8,
+    "sampleQuestions": [
+      "Koje je najvažnije otkriće čoveka u starijem kamenom dobu?",
+      "Koji događaj je bio prekretnica između praistorije i istorije? ",
+      "Izbaci uljeza u praistoriji: ",
+      "Šta su ljudi u bronzanom dobu mogli jedino da koriste:",
+      "Prema vrsti materijala od koga je čovek pravio oružje i oruđe, praistorija se deli na: "
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb43",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea47",
+    "grade": 5,
+    "name": "Uvod u istoriju",
+    "questionCount": 6,
+    "sampleQuestions": [
+      "Šta proučava istorija? ",
+      "Ko je \"otac istorije\"?",
+      "U kom istorijskom periodu je Muhamed prešao iz Meke u Medinu?",
+      "Stari Grci su računali vreme od:",
+      "Od šeste decenije 8. veka pre nove ere su vreme računali: "
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb8a",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea55",
+    "grade": 6,
+    "name": "Srpska država u srednjem veku",
+    "questionCount": 41,
+    "sampleQuestions": [
+      "Koja crkva je iz ranog srednjeg veka? ",
+      "Šta je uzrok privrednog jačanja Srbije sredinom 13. veka? ",
+      "\"Kada podiže despot Uglješa sve srpske i grčke vojnike i brata svoga Vukašina kralja, ...na izgnanje Turaka...\". Ovaj istorijski izvor opisuje: ",
+      "Nakon Kosovske bitke, vrhovnu tursku vlast nije priznao:",
+      "Konstantin \"...koji bi znao i braniti carstvo, da se to carstvo moglo odbraniti.\" Iz koje godine je događaj koji opisuje vizantijski pisac?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb87",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea55",
+    "grade": 6,
+    "name": "Rani srednji vek u Evropi",
+    "questionCount": 31,
+    "sampleQuestions": [
+      "Jedan od značajnih događaja koji je označio početak srednjeg veka je bio ukidanje: ",
+      "\"Poštuj ono što si spaljivao i spaljuj ono što si poštovao\" je rekao sveštenik Hlodovehu prilikom pokrštavanja. Na šta je mislio?",
+      "Sloveni počinju da naseljavaju Balkansko poluostrvo:",
+      "Poglavar hrišćana na istoku je: ",
+      "Osvajanja Arabljana u Evropi su zaustavili: "
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb8c",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea55",
+    "grade": 6,
+    "name": "Srbi pod stranom vlašću",
+    "questionCount": 21,
+    "sampleQuestions": [
+      "Nakon pada srpske srednjovekovne države pod osmansku vlast, veći deo pokorenog stanovništva su bili: ",
+      "Prvu veliku seobu Srba je predvodio:",
+      "U Habzburškoj monarhiji, Srbi nisu bili izloženi: ",
+      "Izbaci uljeza u odnosu na verske i kulturne centre Srba u Ugarskoj:",
+      "Najstariju srpsku gimnaziju je osnovao:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb8b",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea55",
+    "grade": 6,
+    "name": "Veliki geografski otkrića i renesansa",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Važna istorijska prekretnica u 15. veku je: ",
+      "Izbaci uljeza u odnosu na konkistadore:",
+      "\"Čija je zemlja, njegova je i vera\" je princip koji je važio u zemljama pod vlašću: ",
+      "Engleska je postala vodeća pomorska sila za vreme vladavine:",
+      "Najpoznatiji italijanski pisci humanisti su bili:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb88",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea55",
+    "grade": 6,
+    "name": "Doseljavanje Slovena na Balkan",
+    "questionCount": 19,
+    "sampleQuestions": [
+      "Nedostatak obradivog zemljišta je za Slovene bio jedan od:",
+      "Ko su savremenici?",
+      "Nakon bitke Stefana Vojislava i Vizantije odigrane 1042. godine, vizantijski hroničar kaže da je to bio \"tužan i suza dostojan primer.\" Ko je pobedio?",
+      "Sredinom 10. veka, tokom sukoba Srba i Mađara, poginuo je srpski knez:",
+      "Srbija je u 11. veku došla pod vizantijsku vlast za vreme cara: "
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb89",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea55",
+    "grade": 6,
+    "name": "Srednjovekovno društvo",
+    "questionCount": 18,
+    "sampleQuestions": [
+      "Izbaci uljeza u odnosu na državno uređenje u srednjem veku:",
+      "Izbaci par ličnosti koji nisu bili savremenici:",
+      "Udruženja zanatlija iste struke se nazivaju:",
+      "\"Čak i Saraceni su milosrdni i blagi u poređenju sa ovim ljudima koji nose na ramenima Hristov krst.\" Pisac ovog teksta krstaško osvajanje Carigrada:",
+      "Izreka da \"gradski vazduh čini čoveka slobodnim\" se odnosi na:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febcf",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea64",
+    "grade": 7,
+    "name": "Prvi svetski rat",
+    "questionCount": 41,
+    "sampleQuestions": [
+      "U kojoj državi se odigrao Sarajevski atentat?",
+      "Predsednik Jugoslovenskog odbora, osnovanog u Parizu 1915. godine, bio je:",
+      "Kompozicija \"Marš na Drinu\" nastala je u čast srpske pobede na:",
+      "Kako se zvao prvi član dinastije Karađorđević koji je vladao Srbijom u 20. veku?",
+      "Janko Vukotić predvodio je na Božić 1914. vojsku Crne Gore u bici protiv Austrougarske kod:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febcc",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea64",
+    "grade": 7,
+    "name": "Srpska revolucija",
+    "questionCount": 35,
+    "sampleQuestions": [
+      "Urednik prvih dnevnih novina u Srbiji, \"Novine Serbske\" i pisac Sretenjskog ustava je:",
+      "Dokument iz 1830. godine u kojem je Kneževini Srbiji priznata autonomija naziva se:",
+      "U bici kod LJubića, 1815. godine, poginuo je braneći topove i položaj srpske vojske:",
+      "Supruga kneza Miloša Obrenovića bila je kneginja:",
+      "U Orašcu na Sretenje 1804. godine doneta je odluka o podizanju:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febcb",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea64",
+    "grade": 7,
+    "name": "Industrijska revolucija i Napoleon",
+    "questionCount": 31,
+    "sampleQuestions": [
+      "DŽejms Vat je 1769. godine konstruisao prvu:",
+      "Kojoj kraljici se pripisuje, da je na žalbu naroda zbog gladovanja, izrekla: \"Ako nemaju hleba, neka jedu kolače\"?",
+      "Koje godine je prestalo da postoji Sveto rimsko carstvo?",
+      "Prva industrijska revolucija je otpočela u:",
+      "Ko je bio prvi francuski car?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febce",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea64",
+    "grade": 7,
+    "name": "Srbija u 19. veku",
+    "questionCount": 22,
+    "sampleQuestions": [
+      "Posle ubistva srpskog dečaka na Čukur česmi 1862. godine, turska vojska je bombardovala:",
+      "Knez Crne Gore, Danilo I, ubijen je u atentatu u:",
+      "Vođa Liberalne stranke u Austrougarskoj bio je:",
+      "Sporazum poznat kao \"Tajna konvencija\" Srbija je potpisala sa:",
+      "Poznati političar, Jovan Ristić, predstavljao je Srbiju na:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febcd",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea64",
+    "grade": 7,
+    "name": "Evropa i svet u 19. veku",
+    "questionCount": 21,
+    "sampleQuestions": [
+      "Koje državno uređenje je bilo u Francuskoj 1850. godine?",
+      "Ko je bio predsednik SAD za vreme Američkog građanskog rata?",
+      "Ko je vladao Velikom Britanijom 1900. godine?",
+      "Lajoš Košut je bio političar i borac za nezavisnost:",
+      "Presudna bitka u Američkom građanskom ratu odigrala se 1863. kod:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec26",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea74",
+    "grade": 8,
+    "name": "Drugi svetski rat: tok rata",
+    "questionCount": 34,
+    "sampleQuestions": [
+      "Drugi svetski rat počeo je napadom Nemačke na:",
+      "Najveća tenkovska bitka u Drugom svetskom ratu odigrala se:",
+      "Američki predsednik Frenklin Ruzvelt i britanski premijer Vinston Čerčil potpisali su u avgustu 1941. godine dokument pod nazivom:",
+      "Koji od navedenih događaja se odigrao 1940. godine?",
+      "Koje godine je Amerika ušla u Drugi svetski rat?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec24",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea74",
+    "grade": 8,
+    "name": "Period između dva svetska rata",
+    "questionCount": 31,
+    "sampleQuestions": [
+      "Koje godine je Adolf Hitler postao kancelar Nemačke?",
+      "Era zvučnog filma otpočela je prikazivanjem filma:",
+      "U kojoj državi je nastao program reformi NJu dil?",
+      "Ko je bio potpisnik Minhenskog sporazuma u ime Francuske?",
+      "Velika ekonomska kriza započela je padom berze u:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec27",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea74",
+    "grade": 8,
+    "name": "Drugi svetski rat u Jugoslaviji",
+    "questionCount": 29,
+    "sampleQuestions": [
+      "Najveća bitka u nemačkoj operaciji \"Švarc\" na jugoslovenskom ratištu, tokom Drugog svetskog rata, odigrala se na:",
+      "Po kom narodnom heroju poginulom u mestu Jabuka 1943. godine nosi ime jedno pozorište u Beogradu?",
+      "Za predsednika \"Vlade narodnog spasa\" 1941. godine u Srbiji postavljen je:",
+      "Ko je bombardovao Beograd na Vaskrs 1944. godine?",
+      "Kako se zvao vođa ustaškog pokreta koji je stajao na čelu Nezavisne Države Hrvatske?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec28",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea74",
+    "grade": 8,
+    "name": "Hladni rat i savremeni svet",
+    "questionCount": 24,
+    "sampleQuestions": [
+      "U kom gradu je formirana Organizacija ujedinjenih nacija?",
+      "Leh Valensa je bio osnivač pokreta pod nazivom:",
+      "Savremenici nisu bili:",
+      "Sovjetski Savez je nakon Drugog svetskog rata, zbog čvršće kontrole komunističkih država, osnovao:",
+      "Regent Aleksandar Karađorđević je proglasio stvaranje Kraljevine Srba, Hrvata i Slovenaca u:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec25",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea74",
+    "grade": 8,
+    "name": "Kraljevina Jugoslavija",
+    "questionCount": 15,
+    "sampleQuestions": [
+      "Kraljevina Srba, Hrvata i Slovenaca proglašena je:",
+      "Koje godine je Kraljevina Jugoslavija podeljena na banovine?",
+      "Sporazumom Cvetković-Maček stvorena je:",
+      "Predsednik prve vlade Kraljevine Srba, Hrvata i Slovenaca bio je radikal:",
+      "Banovina Hrvatska stvorena je sporazumom:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec29",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea74",
+    "grade": 8,
+    "name": "Druga Jugoslavija i raspad",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Koje godine je Ivo Andrić dobio Nobelovu nagradu za književnost?",
+      "Koje godine je Federativna Narodna Republika Jugoslavija promenila naziv u Socijalistička Federativna Republika Jugoslavija?",
+      "U kojoj državi je rođen tvoj drug/drugarica ako rođendan slavi 1. januara 2002. godine?",
+      "NATO bombardovanje Jugoslavije završeno je potpisivanjem sporazuma u:",
+      "Rečima \"Iz Beograda svi putevi vode u Moskvu\" opisana je spoljna politika Jugoslavije od strane ambasadora:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec22",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "classId": "60f475359892c9345e4fea74",
+    "grade": 8,
+    "name": "Ruska revolucija",
+    "questionCount": 3,
+    "sampleQuestions": [
+      "Poslednji ruski car bio je:",
+      "U kojoj državi se nalazio Vladimir Ilič Lenjin za vreme Februarske revolucije?",
+      "Parolom \"Mir, hleb, zemlja\" služili su se:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea93",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea1c",
+    "grade": 1,
+    "name": "Oblik i prostor",
+    "questionCount": 42,
+    "sampleQuestions": [
+      "Pokretni oblici su:",
+      "Izbaci uljeza:",
+      "Ako je pomorandža celo, deo je:",
+      "Kada ti je nešto \"ispred nosa\", to znači da je:",
+      "Sedim na grani drveta. U odnosu na tlo, ja sam:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea92",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea1c",
+    "grade": 1,
+    "name": "Prostor i svetlost",
+    "questionCount": 35,
+    "sampleQuestions": [
+      "Prostor je:",
+      "U muzeju",
+      "Suprotan oblik OBLOM obliku je:",
+      "Prirodnu svetlost daje:",
+      "Kako publika glumcima u pozorištu poručuje da joj se dopada predstava?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea94",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea1c",
+    "grade": 1,
+    "name": "Boje i materijali za rad",
+    "questionCount": 27,
+    "sampleQuestions": [
+      "Kojom bojom najčešće bojimo Sunce?",
+      "Materijal za vajanje je:",
+      "Materijal za rad je:",
+      "U slikarski pribor spadaju:",
+      "Šta je suprotno od jednobojnog?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea95",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea1c",
+    "grade": 1,
+    "name": "Vizuelno sporazumevanje (uvod)",
+    "questionCount": 8,
+    "sampleQuestions": [
+      "Da bi preneo određenu poruku čovek u sporazumevanju koristi:",
+      "Znak za sporazumevanje može biti:",
+      "Kaligrafija je:",
+      "U imenu Milovan inicijal je slovo:",
+      "U imenu Emilija inicijal je: "
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feac3",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea26",
+    "grade": 2,
+    "name": "Senka i kolaž",
+    "questionCount": 29,
+    "sampleQuestions": [
+      "Prirodne oblike stvara:",
+      "Kada predmet zakloni svetlost tada baca:",
+      "Svetlost i senke umetnici koriste u:",
+      "Kolaž se pravi od:",
+      "Višebojna kompozicija je sačinjena od:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feac6",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea26",
+    "grade": 2,
+    "name": "Likovne ustanove i delatnosti",
+    "questionCount": 13,
+    "sampleQuestions": [
+      "Galerije izlažu :",
+      "U ateljeu stvara:",
+      "Da bi dočarao lik glumac nosi:",
+      "Japanska tehnika savijanja papira zove se:",
+      "Ukrašena početna slova su:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feac5",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea26",
+    "grade": 2,
+    "name": "Materijali i likovne tehnike",
+    "questionCount": 9,
+    "sampleQuestions": [
+      "Šta stvara fotograf?",
+      "Kako nzazivamo zamišljanje neobičnih stvari:",
+      "Grafitna olovka može biti:",
+      "Vezivanje je načina:",
+      "Višebojna kompozicija je sačinjena od: "
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feac4",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea26",
+    "grade": 2,
+    "name": "Vizuelne umetnosti i izrazi",
+    "questionCount": 8,
+    "sampleQuestions": [
+      "U bioskopu se prikazuju:",
+      "Znakovi služe za:",
+      "Kako izvodimo mimiku:",
+      "Za kaligrafiju koristimo ",
+      "Materijal po kome se nekada pisalo je: "
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feae3",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea2e",
+    "grade": 3,
+    "name": "Linije, boje i oblici",
+    "questionCount": 32,
+    "sampleQuestions": [
+      "Kako nazivamo umetničko delo sačinjeno od linija i tačaka olovkom, ugljenom, kredom?",
+      "Boje delimo na:",
+      "Kad prolijemo boju ili tuš po papiru ili nekoj drugoj podlozi, nastaće zanimljiv, neočekivan oblik ili šara. To je?",
+      "Šta nastaje ako na kolažu nešto promenimo, ogrebemo ili isečemo i ponovo sklopimo u novu celinu?",
+      "Koje boje kada se osuše mogu se prati vodom?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feae9",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea2e",
+    "grade": 3,
+    "name": "Vizuelni simboli i pejzaž",
+    "questionCount": 27,
+    "sampleQuestions": [
+      "Kako nazivamo komunikaciju kada, umesto rečima, poruku šaljemo izrazom lica, držanjem tela, odećom koju nosimo?",
+      "Uniforma policajca, vojnika, lekara, vatrogasca, radnika, narodna nošnja prenose nam:",
+      "Plava boja na zastavi je simbol:",
+      "Kako se naziva prikazivanje prirode i prirodnih pojava na likovnom radu?",
+      "Koja naša likovna umetnica se trudila da širi umetnost i kulturu ne samo u gradu, već i među umetnicima na selu?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feae4",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea2e",
+    "grade": 3,
+    "name": "Likovna kompozicija",
+    "questionCount": 26,
+    "sampleQuestions": [
+      "Kako se naziva raspored likovnih elemenata na umetničkom delu?",
+      "Kakve mogu biti likovne kompozicije?",
+      "Kakvi sve oblici mogu biti?",
+      "Iz koje zelje je slikar Van Gog?",
+      "Od čega nastaje kompozicija u likovnoj umetnosti?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feae6",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea2e",
+    "grade": 3,
+    "name": "Skulptura i prostor",
+    "questionCount": 18,
+    "sampleQuestions": [
+      "Šta je prostor?",
+      "Kako nazivamo umetnike koji prave skulpture?",
+      "Gde još možemo zapaziti kretanje u prostoru?",
+      "Gde se nalazi skulptura Hansa Kristijana Andersena i Ružnog pačeta?",
+      "U kom gradu se nalazi Etnografski muzej?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feae8",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea2e",
+    "grade": 3,
+    "name": "Plakat i reklame",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "U koju grupu likovnih dela spadaju plakat, bibord, reklame? ",
+      "Boje na plakatu treba da budu:",
+      "Po čemu se razlikuje bilbord od plakata?",
+      "Šta sadrže reklame?",
+      "Da bi pozvali prijatelje na slavlje treba da im uručimo:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feae5",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea2e",
+    "grade": 3,
+    "name": "Ornament i freska",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Šta je ornoment?",
+      "Za šta najviše koristimo onoment?",
+      "Kako se zovu oslikani zidovi u manastirima i crkvama?",
+      "U kom manastiru se nalazi freska kralja Milutina?",
+      "Kako se naziva motiv koji je u nizu ili traci?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb14",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea37",
+    "grade": 4,
+    "name": "Simboli i znaci",
+    "questionCount": 26,
+    "sampleQuestions": [
+      "Sporazumevanje čulom vida se vrši pomoću: ",
+      "Saobraćajni znaci su postavljeni:",
+      "Kojim znacima zapisujemo muziku?",
+      "Sidro je simbol:",
+      "Detelina sa četiri lista je simbol:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb13",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea37",
+    "grade": 4,
+    "name": "Kulturno nasleđe Srbije",
+    "questionCount": 25,
+    "sampleQuestions": [
+      "Koliko nacionalnih parkova ima u Srbiji?",
+      "Likovna dela se izlažu u:",
+      "Manastir Žiča se nalazi u blizini:",
+      "Slikarska tehnika slaganje kockica, kamenčića ili stakla u malter, naziva se:",
+      "Arheološko nalazište Viminacijum se nalazi kod:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb12",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea37",
+    "grade": 4,
+    "name": "Boje i likovne tehnike",
+    "questionCount": 15,
+    "sampleQuestions": [
+      "Koje boje nazivamo hladnim bojama?",
+      "Kako možemo komponovati oblike?",
+      "Koje su ahromatske boje?",
+      "Kako je nastao naziv tehnike frotaž?",
+      "Raspored likovnih elemenata na likovnom delu naziva se:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb11",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea37",
+    "grade": 4,
+    "name": "Pozorište i scena",
+    "questionCount": 12,
+    "sampleQuestions": [
+      "Prostor gde se organizuje pozorišna predstava je:",
+      "Odeća koja ističe ulogu glumca naziva se:",
+      "Lutke koje glumci pokreću nitima zovu se:",
+      "Efekti kreirani digitalnom tehnologijom su:",
+      "Dekoracija na pozornici kojom se dočarava određena sredina u kojoj se odigrava radnja komada su:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb38",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea41",
+    "grade": 5,
+    "name": "Oblici i simetrija",
+    "questionCount": 30,
+    "sampleQuestions": [
+      "Prirodni oblici su?",
+      "Pravilni oblici su?",
+      "Koje veličine moraju imati trodimenzionalni oblici?",
+      "Kada je u odnosu na zamišljenu osu gornja i donja odnosno leva i desna polovina ista, to se zove?",
+      "Pretvaranje jednih oblika u neke sasvim nove oblike u umetničkom stavaralaštvu zove se?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb3a",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea41",
+    "grade": 5,
+    "name": "Discipline i materijali",
+    "questionCount": 25,
+    "sampleQuestions": [
+      "Šta je muzej? ",
+      "Likovne discipline su?",
+      "Kolaž - likovna tehnika lepljenja raznih materijala na podlogu, pre svega hartije u boji, spada u?",
+      "Materijale i sredstva kojima stvaramo delo nazivamo?",
+      "Kada raspoređujemo likovne elemente dok stvaramo naše likovno delo, onda kažemo da...?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb37",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea41",
+    "grade": 5,
+    "name": "Crtež i linija",
+    "questionCount": 25,
+    "sampleQuestions": [
+      "Likovne tehnike za crtanje su?",
+      "Linija može nastati kao...?",
+      "Mesto, granica gde se dodiruju nebo i zemlja ili nebo i voda je u stvari?",
+      "Šta je konturna linija?",
+      "Da bi naš crtež bio bogatiji i zanimljiviji koristićemo...?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb36",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea41",
+    "grade": 5,
+    "name": "Ritam i ornament",
+    "questionCount": 25,
+    "sampleQuestions": [
+      "U likovnoj umetnosti ritam je?",
+      "Ponavljanje likovnih elemenata u toku likovnog komponovanja tj. stvaranja likovnog dela, nazivamo?",
+      "Slobodno i spontano ponavljanje linija, oblika, boja, površina i drugih likovnih elemenata u likovnoj kompoziciji naziva se?",
+      "Kada kod ornamenta imamo šaru sa ritmovima biljnih motiva onda taj ornament nazivamo?",
+      "Jedan umetnik je naslikao jato riba u morskim dubinama, a drugi jedan veliki crveni krug na plavoj pozadini. Koji nije primenio ritam?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb39",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea41",
+    "grade": 5,
+    "name": "Vizuelno sporazumevanje",
+    "questionCount": 25,
+    "sampleQuestions": [
+      "Pojam vizuelno znači?",
+      "U geografiji vizuelno sporazumevanje se primenjuje kod?",
+      "Pojednostavljeno prikazan oblik kojim nešto možemo označiti i predstaviti, a da bude prepoznatljivo, zove se ?",
+      "Velike kompanije kao znak raspoznavanja svojih proizvoda koriste?",
+      "U vizuelnoj umetnosti mogu se spojiti slike, pokret i zvuk. Tada nastaju?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb3b",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea41",
+    "grade": 5,
+    "name": "Umetnost starog veka",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Pećina Altamira je čuvena po?",
+      "Veliko praistorijsko nalazište u neposrednoj blizini Beograda zove se?",
+      "Pismo koje se koristilo u kulturi starih Egipćana zove se?",
+      "Stilovi u kojima su rađeni stubovi na hramovima stare Grčke zovu se?",
+      "Na tlu Srbije nalazi se veliko arheološko nalazište vojnog logora iz doba starih Rimljana koje se zove?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb7b",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea4f",
+    "grade": 6,
+    "name": "Boja i svetlost",
+    "questionCount": 25,
+    "sampleQuestions": [
+      "Svetlost ili vidljivi deo spektra elektromagnetnog talasa čine ...?",
+      "Bela, siva i crna su?",
+      "Ako površina tela odbija sve delove, sve talasne dužine svetlosti koja na nju padne, telo će biti koje boje?",
+      "Plava, zelena, ljubičastoplava su?",
+      "Komplementarni par boja čine dve boje, pri čemu jedne nema ni malo u onoj drugoj boji. Par se obavezno sastoji iz?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb7c",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea4f",
+    "grade": 6,
+    "name": "Svetlost i senka",
+    "questionCount": 25,
+    "sampleQuestions": [
+      "Kakvi mogu biti izvori svetlosti?",
+      "Senka koja se pojavljuje pored predmeta, na podlozi na kojoj predmet stoji, zove se?",
+      "Kontrast svetlih i tamnih boja određen je?",
+      "Skala svetlosnih vrednosti od najsvetlijeg do najtamnijeg tona određene boje zove se?",
+      "Kada slikamo na dvodimenzionalnoj površini platna, slikanjem svetla i senke dočaravamo utisak...?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb79",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea4f",
+    "grade": 6,
+    "name": "Tekstura",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Šta je tekstura?",
+      "Za teksture koje svetlost odbijaju slabo i nepravilno kažemo da su?",
+      "Da bi se izražajno prikazale teksture u likovnom stvaralaštvu neophodan likovni element je?",
+      "U vajarstvu, postupci koje umetnik koristi za za izražavanje i prikazivanje tekstura su?",
+      "Način nanošenja boje na podlogu i povlačenja poteza četkicom ili drugim sredstvom, naziva se?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb7d",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea4f",
+    "grade": 6,
+    "name": "Mašta i fantastika",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Čovekovu sposobnost da zamišlja neobične stvari, bića, odnose i događaje identifikujemo kao?",
+      "Krilate konje i lavove, bića koja su delom ljudi i delom životinje, bića koja su spojena od više različitih bića, nazivamo? ",
+      "U delima slikara Marka Šagala često srećemo motiv ljudi koji lete. Takvi slikarski motivi spadaju u?",
+      "U klasičnim delima uočavamo realno prikazane oblike kao i u delima mašte i uobrazilje. Po čemu se onda dela mašte i uobrazilje razlikuju od klasičnih?",
+      "Mitovi, legende i bajke, kao inspiracija u umetnosti, nose u sebi snažne poruke. Koje?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb7e",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea4f",
+    "grade": 6,
+    "name": "Uloge likovne umetnosti",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Jedna od značajnijih uloga likovne umetnosti je...?",
+      "Likovna umetnost ima ulogu da?",
+      "Komunikacijska uloga prisutna je u delima likovne umetnosti od?",
+      "Kaligrafija je?",
+      "Umetnička dela se izlažu u muzejima i galerijama da bi sa publikom, sa što većim brojem ljudi, ostvarila...?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb7f",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea4f",
+    "grade": 6,
+    "name": "Ambijent i dizajn",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Šta je ambijent?",
+      "Kakvo osvetljenje prostora može biti?",
+      "Zanimanje osobe koja se bavi uređenjem unutrašnjeg prostora i oblikovanjem nameštaja zove se?",
+      "Kod oblikovanja nameštaja dizajner mora da vodi računa o...?",
+      "Vitraž tehnika ima najveću primenu u?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb80",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea4f",
+    "grade": 6,
+    "name": "Srednjovekovna i renesansna umetnost",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Šta su to katakombe u kojima su prvi hrišćani tajno ispovedali svoju veru?",
+      "Crkva Presvete mudrosti, jedna od najvećih hrišćanskih bogomolja i simbol vizantijske arhitekture, kasnije pretvorena u džamiju, poznatija je kao?",
+      "Koja je tematika zastupljena na svim srednjevekovnim frekama i ikonama?",
+      "Smisao renasansne umetnosti ili preporoda je bio da veličajući hrišćanskog Boga u stvari veliča i...?",
+      "Hans Holbajn Mlađi, Piter Brojgel, Hijeronimus Boš, Albreht Direr su najpoznatiji umetnici?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febc2",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea5e",
+    "grade": 7,
+    "name": "Pozorište i film",
+    "questionCount": 38,
+    "sampleQuestions": [
+      "Šta je teatar?",
+      "Šta je scenografija u pozorištu?",
+      "Javajke su:",
+      "Pokretni bubanj unutar koga su slike koje kružnim kretanjem stvaraju iluziju pokreta naziva se:",
+      "Skraćenica za Beogradski internacionalni teatarski festival je:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febc4",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea5e",
+    "grade": 7,
+    "name": "Slikarski žanrovi",
+    "questionCount": 33,
+    "sampleQuestions": [
+      "Scena iz svakodnevnog života kao motiv na slikama naziva se:",
+      "Autoportret prikazuje:",
+      "Kada su na umetničkoj slici prikazani bogovi, boginje ili ninfe gogovimo o:",
+      "Jedini izrađeni ili jedini sačuvani primerak nečega naziva se:",
+      "Monumentalna freska \"Raspeće\" iz Studenice predstavlja:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febc1",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea5e",
+    "grade": 7,
+    "name": "Perspektiva i kompozicija",
+    "questionCount": 32,
+    "sampleQuestions": [
+      "Kada umetnik u slikarstvu stvori utisak treće dimenzije onda se govori o:",
+      "Uravnotežen, skladan odnos elemenata u likovnoj kompoziciji naziva se:",
+      "Prikaz prostora u kome se elementi smanjuju srazmerno njihovoj udaljenosti naziva se:",
+      "Slobodna kompozicija podrazumeva da su likovni elementi raspoređeni:",
+      "Boja otmenosti i dostojanstva koja sugeriše luksuz i imućnost je:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febc5",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea5e",
+    "grade": 7,
+    "name": "Stilovi i pravci u umetnosti",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Barok je stil i umetnički pravac nastao krajem 16. veka u:",
+      "Umetnički pravac romantizam pre svega odlikuje težnja umetnika da iskaže:",
+      "Slikar Klod Mone poznat je po čestom slikanju:",
+      "Projekcija koja je slobodna u prostoru i vidljiva iz svih uglova naziva se:",
+      "Stalna postavka je izložba koja traje:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febc0",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea5e",
+    "grade": 7,
+    "name": "Proporcija i viziranje",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Proporcija predstavlja:",
+      "Skladan odnos nejednakih veličina u umetnosti i u prirodi naziva se:",
+      "Štapić koji se koristi za određivanje proporcija na crtežu naziva se:",
+      "Viziranje je tehnika određivanja:",
+      "Prilikom viziranja važno je da uvek držiš:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febbf",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea5e",
+    "grade": 7,
+    "name": "Dekorativna umetnost",
+    "questionCount": 7,
+    "sampleQuestions": [
+      " Arabeska je:",
+      "Pojam dekoracija znači:",
+      "Islamska religija zabranjuje prikazivanje likova, pa se za ukrašavanje koristila:",
+      "Dekorativni arhitektonski element koji se primenjuje na okruglom prozoru naziva se:",
+      "Rozeta je dekorativni arhitektonski element koji se primenjuje:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febc3",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea5e",
+    "grade": 7,
+    "name": "Fotografija",
+    "questionCount": 6,
+    "sampleQuestions": [
+      "Fotografija je otkrivena u:",
+      "Slika koja nastaje delovanjem svetlosti na podlogu osetljivu na svetlost naziva se:",
+      "Vrsta fotografije koja beleži stvarne događaje ili svedoči o određenim zbivanjima zove se:",
+      "Šta je tačno selfi?",
+      "Prvi poznati srpski fotograf bio je:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec18",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea6e",
+    "grade": 8,
+    "name": "Moderna i savremena umetnost",
+    "questionCount": 88,
+    "sampleQuestions": [
+      "Slikarska tehnika zasnovana na metodu nanošenja boje u vidu tačaka naziva se:",
+      "Umetnički pravac zasnovan na tehnici koja stvara optičke varke naziva se:",
+      "Sava Šumanović, Petar Dobrović i Jovan Bijelić bili su:",
+      "Osnovna delatnost nekog arhiva je:",
+      "Spomenik neznanom junaku nalazi se:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec19",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea6e",
+    "grade": 8,
+    "name": "Primenjena umetnost i simboli",
+    "questionCount": 57,
+    "sampleQuestions": [
+      "Skup likovnih karakteristika dela nekog umetnika, umetničkog pravca ili perioda, koji ga čini prepoznatljivim, naziva se:",
+      "Umetnošću grafita bave se:",
+      "Prikupljanjem i proučavanjem poštanskih marki bavi se:",
+      "Golub sa maslinovim grančicom je simbol:",
+      "Sinonim za juvelir bio bi:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec17",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "classId": "60f475359892c9345e4fea6e",
+    "grade": 8,
+    "name": "Likovna kompozicija i dizajn",
+    "questionCount": 5,
+    "sampleQuestions": [
+      "Poliperspektiva podrazumeva da umetnici u jednom delu koriste:",
+      "U modernoj umetnosti pojavljuju se umetnici koji stvaraju iluziju čudnog prostora koja ne podleže zakonima prirode koristeći na istom delu:",
+      "Šta je pravilo trećina u umetnosti?",
+      "Pravilo zlatnog preseka i pravilo trećina primenjuju se u umetnosti kako bi se postigao:",
+      "Nauka koja se bavi dizajnom proizvoda tako da oni budu najbolje prilagođeni ljudskom telu i upotrebi, naziva se:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea8a",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea1a",
+    "grade": 1,
+    "name": "Brojevi do 100",
+    "questionCount": 143,
+    "sampleQuestions": [
+      "Kojoj desetici pripada broj 32?",
+      "Broj 21 je razlika broja 30 i broja:",
+      "Pecaroš Peca je prvog dana upecao 23 ribe. Odgovarajući izraz je:",
+      "Broj 56 ima jednu deseticu više od broja:",
+      "Koji je najveći broj 10. desetice?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea87",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea1a",
+    "grade": 1,
+    "name": "Geometrijska tela i položaj",
+    "questionCount": 10,
+    "sampleQuestions": [
+      "Geometrijsko telo je:",
+      "Sede redom tata, baka i mama. Ko je između?",
+      "Novogodišnja kugla je oblika:",
+      "Od čoveka je viša:",
+      "Minja je u pekari. Gde je ona?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea89",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea1a",
+    "grade": 1,
+    "name": "Linije i geometrijske figure",
+    "questionCount": 5,
+    "sampleQuestions": [
+      "Krug je:",
+      "Trougao ima:",
+      "Duž crtamo spajanjem dve tačke:",
+      "Spajanjem koliko tačaka, koje ne pripadaju jednoj pravoj, dobijamo trougao?",
+      "Presek dve linije je:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea8b",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea1a",
+    "grade": 1,
+    "name": "Merenje dužine",
+    "questionCount": 3,
+    "sampleQuestions": [
+      "Merenje dužine predmeta započinjemo:",
+      "Dužine NE merimo:",
+      "Dužine možemo da merimo:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feab2",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea24",
+    "grade": 2,
+    "name": "Brojevi do 1000 i rimske cifre",
+    "questionCount": 124,
+    "sampleQuestions": [
+      "Za zapisivanje brojeva koristimo:",
+      "Koji je broj 3 puta manji od 24?",
+      "Broj 20 zapisan rimskim ciframa je:",
+      "Broj LXXXIII se arapskim ciframa zapisuje kao:",
+      "Koliko je C − X?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feab3",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea24",
+    "grade": 2,
+    "name": "Merne jedinice za dužinu",
+    "questionCount": 15,
+    "sampleQuestions": [
+      "Dužinu, širinu i visinu predmeta merimo:",
+      "Oznaka za centimetar je:",
+      "Koliko metar ima centimetara?",
+      "Koji znak treba upisati na liniju da bi zapis 3 m 8 dm ____ 30 dm + 7 cm bio tačan?",
+      "Obim figure je:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feab4",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea24",
+    "grade": 2,
+    "name": "Geometrijske figure",
+    "questionCount": 8,
+    "sampleQuestions": [
+      "Prave linije crtamo pomoću:",
+      "Linija ograničena sa jedne strane je:",
+      "Figura koja ima dva para stranica jednakih dužina je:",
+      "Koliko temena ima pravougaonik?",
+      "Duž je deo prave ograničena sa:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feaff",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea36",
+    "grade": 3,
+    "name": "Brojevi do milion",
+    "questionCount": 83,
+    "sampleQuestions": [
+      "Koji je najmanji četvorocifreni broj?",
+      "U skupu prirodnih brojeva operacija deljenja ",
+      "U Kini živi oko 1 400 000 000 stanovnika, a u Indiji oko 80 000 000 stanovnika manje nego u Kini. Koliko stanovnika ima Indija?",
+      "Najmanjem neparnom četvorocifrenom broju dodaj sledbenik broja 999. Zbir je:",
+      "Koji broj treba napisati na liniji da bi jednakost 0,5 m³ = _____ dm³ bila tačna?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb02",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea36",
+    "grade": 3,
+    "name": "Površina i zapremina",
+    "questionCount": 45,
+    "sampleQuestions": [
+      "Koja je osnovna jedinica mere za dužinu?",
+      "Oznaka za zapreminu tela je veliko latinično slovo:",
+      "Koliko iznosi površina kocke, ako je površina jedne njene strane 40 cm²?",
+      "Utakmica je počela u 15.16. Kada je ona završena, ako je sa produžecima trajala 98 minuta, a poluvreme je trajalo15 minuta?",
+      "Izračunaj zapreminu kvadra čija je dužina 5 cm, širina 2 cm i visina 3 cm."
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feb01",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea36",
+    "grade": 3,
+    "name": "Razlomci i decimalni brojevi (uvod)",
+    "questionCount": 28,
+    "sampleQuestions": [
+      "Koliko jedno celo ima četvrtina?",
+      "Ana je do škole prešla 3,5 km tramvajem, a pešačila je još 0,1 km. Odredi ukupnu dužinu Aninog puta do škole.",
+      "Deka je zasadio 7/10 bašte. Koji deo bašte je ostao nezasađen?",
+      "Za koliko je petina broja 1550 manja od trećine broja 1500?",
+      "Nina je za 4 godine starija od Ade, a Viktor ima godina koliko Nina i Ada zajedno. Trećina zbira njihovih godina iznosi 16. Koliko godina ima Nina?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feb00",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea36",
+    "grade": 3,
+    "name": "Kocka, kvadar i pravougaonik",
+    "questionCount": 7,
+    "sampleQuestions": [
+      "Koliko kocka ima strana?",
+      "Koliko ivica ima kvadar?",
+      "Kakve su naspramne strane kod kvadra?",
+      "Sve ivice kocke su međusobno paralelne. Da li je tačno?",
+      "Kvadrat je pravougaonik čije su sve stranice jednake dužine. Da li je tačno?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feadb",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea2d",
+    "grade": 4,
+    "name": "Računske operacije",
+    "questionCount": 93,
+    "sampleQuestions": [
+      "Koja stotina nedostaje u nizu: 100, 200, ___, 400?",
+      "Reši jednačinu h + 180 = 230.",
+      "767+141 jednako je :",
+      "Prethodnik sledbenika broja 642 je:",
+      "Roda je ulovila 5 žaba i još polovinu celog svog ulova. Koliko je žaba ulovila roda?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feadc",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea2d",
+    "grade": 4,
+    "name": "Merne jedinice",
+    "questionCount": 39,
+    "sampleQuestions": [
+      "Koliko ima decimetara u 3 m i 12 dm? ",
+      "Koja je osnovna jedinica za merenje zapremine tečnosti?",
+      "Koliko jedna tona ima kilograma ?",
+      "Koju oznaku za mernu jedinicu treba napisati na liniju da bi jednakost 0,1 dm = 10 _____ bila tačna?",
+      "Prva tri meseca svake prestupne godine imaju :"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feadd",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea2d",
+    "grade": 4,
+    "name": "Obim i ugao",
+    "questionCount": 11,
+    "sampleQuestions": [
+      "O = 3 ∙ a je formula za izračunavanje obima:",
+      "O = a + 2 ∙ b je formula za izračunavanje obima:",
+      "Ugao manji od pravog ugla je:",
+      "Odredi dužinu stranice kvadrata ako je njegov obim 20 m.",
+      "Kupa je geometrijsko telo koje je ograničeno:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb52",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea40",
+    "grade": 5,
+    "name": "Razlomci i decimalni brojevi",
+    "questionCount": 56,
+    "sampleQuestions": [
+      "Kakav se razlomak po brojnoj vrednosti dobija ako ga skratimo?",
+      "Koji decimalni zapis odgovara broju dvadeset pet stotina?",
+      "Razlomak dvanaest celih i jedna polovina u decimalnom zapisu iznosi:",
+      "Ako kažemo da je razmera 4 : 10, kako se nesvodljivim razlomkom može predstaviti ovaj merni odnos?",
+      "Zapisano decimalnim zapisom razlomka, 75% je:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb53",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea40",
+    "grade": 5,
+    "name": "Uglovi i kružnica",
+    "questionCount": 32,
+    "sampleQuestions": [
+      "Koliko dva ugaona stepena imaju ugaonih minuta?",
+      "Koliki je zbir dva ugla ako znamo da su komplementni?",
+      "U ravni su dati krug i njegov centralni ugao. Koja tačka kruga je teme centralnog ugla?",
+      "Ako su data dva konveksna centralna ugla na istoj kružnici, šta mora biti jednako da bi uglovi bili jednaki?",
+      "Dve prave koje se seku obrazuju četiri ugla. Ako se zna da je mera jednog ugla 60⁰, koja je mera preostala tri ugla?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb50",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea40",
+    "grade": 5,
+    "name": "Skupovi i deljivost",
+    "questionCount": 30,
+    "sampleQuestions": [
+      "Kako zovemo prirodan broj koji ima tačno dva delioca?",
+      "Koliko broj 0 ima delioca?",
+      "Koliko ima brojeva deljivih sa 10 u trećoj desetici?",
+      "Ako imamo skup 𝐴 i skup 𝐵, i ako su svi elementi skupa 𝐴 istovremeno i elementi skupa 𝐵, tada kažemo da je:",
+      "Koliko ima prirodnih brojeva deljivih sa 25 u prvoj stotini?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb54",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea40",
+    "grade": 5,
+    "name": "Osna simetrija",
+    "questionCount": 22,
+    "sampleQuestions": [
+      "Koliko osa simetrije ima kružnica?",
+      "Koliki ugao zaklapaju simetrale dva uporedna ugla?",
+      "Šta nazivamo osom simetrije kod osno simetričnog preslikavanja?",
+      "Ako je tačka osnosimetričan objekat, koliko ona može imati osa simetrije?",
+      "Na koliko jednakih delova nije moguće podeliti duž konstrukcijom simetrala duži?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb51",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea40",
+    "grade": 5,
+    "name": "Tačka, prava i krug",
+    "questionCount": 12,
+    "sampleQuestions": [
+      "Koliko različitih pravih određuju temena kvadrata?",
+      "Koliko je pravih određeno jednom tačkom u ravni?",
+      "Kako se zove tetiva koja prolazi kroz centar kruga?",
+      "Šta imaju zajedničko koncentrični krugovi?",
+      "Koliko pravih je određeno sa dve različite tačke u ravni?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb9a",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea4e",
+    "grade": 6,
+    "name": "Celi i racionalni brojevi",
+    "questionCount": 96,
+    "sampleQuestions": [
+      "Od ponuđenih brojeva najmanji je:",
+      "Za 𝑥 + 1 < –4 jedno od rešenja nejednačine je:",
+      "Iz jednakosti 𝑎 ∙ 𝑏 = –10 sledi:",
+      "Vrednost izraza 𝑎 + 𝑏 – 𝑎 ∙ 𝑐 za 𝑎 = 0, 𝑏 = –1 i 𝑐 = –999 je :",
+      "Rešenje koje od datih jednačina je broj 1? "
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb9d",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea4e",
+    "grade": 6,
+    "name": "Četvorougao",
+    "questionCount": 24,
+    "sampleQuestions": [
+      "Unutrašnji uglovi četvorougla su, u stepenima, 90, 90 i 100. Merni broj četvrtog ugla u stepenima je:",
+      "Četvorougao koji dijagonalama NIJE podeljen na 4 podudarna trougla je:",
+      "Mere dva unutrašnja ugla četvorougla su 70⁰ i 120⁰. Zbir dva preostala ugla je:",
+      "Dužina stranice romba jednaka je dužini jedne dijagonale. Jedan od uglova romba u stepenima je:",
+      "Površina romba je 4 sm². Dužina visine romba je 1 sm. Obim romba u centimetrima je:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb9c",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea4e",
+    "grade": 6,
+    "name": "Trougao",
+    "questionCount": 23,
+    "sampleQuestions": [
+      "Duž koja spaja vrh jednakokrakog trougla sa jednim od temena osnovice takvog trougla se naziva:",
+      "Dužina stranice i njoj odgovarajuće visine u trouglu su 2 m i 10 m. Površina trougla u metrima kvadratnim je:",
+      "Mere unutrašnjih uglova trougla su izražene u stepenima, a njihovi merni brojevi su tri uzastopna prirodna broja. Najveći od ovih uglova ima:",
+      "Ugao pri vrhu jednakokrakog trougla je 100⁰. Simetrale uglova na osnovici sa osnovicom grade ugao od: ",
+      "Centar opisanog kruga tupouglog trougla je:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb9b",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea4e",
+    "grade": 6,
+    "name": "Procenti",
+    "questionCount": 1,
+    "sampleQuestions": [
+      "Decimalni zapis procenta 101% je:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec3b",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea6d",
+    "grade": 7,
+    "name": "Linearne jednačine i procenti",
+    "questionCount": 57,
+    "sampleQuestions": [
+      "Rešenje jednačine 4(3𝑎 – 1) = 8𝑎 je:",
+      "Putnik je prešao 2/3 puta i do kraja puta ostalo mu je još 9 km. Dužina celog puta u kilometrima je:",
+      "Stranice pravougaonika su 𝑎 = 10 i 𝑏 = 20. Jedna od stranica je produžena za dužinu 𝑎. Za površinu sledi:",
+      "Rešenje koje jednačine od navedenih A) –𝑥 = 𝑥, B) 2𝑥 – 2 = 2 i V) 𝑥 + 2 = 2 NIJE 0?",
+      "Ako se u bure dospe još 10% u odnosu na postojeću količinu vode tada će u njemu biti 22 litra. Prethodna količina vode u buretu u litrima bila je:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec3c",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea6d",
+    "grade": 7,
+    "name": "Prizma i piramida",
+    "questionCount": 27,
+    "sampleQuestions": [
+      "Prava prizma ograničena sa 3 para podudarnih pravougaonika je:",
+      "Koliko litara vode staje u akvarijum oblika kvadra dimenzija 3 dm , 5 dm i 4 dm, ako je napunjen do polovine?",
+      "Površina kocke je 24. Obim njene osnove je:",
+      "Kod pravilne piramidu moguće je da apotema bude:",
+      "Kocka i piramida imaju istu osnovu. Vrh piramide je u centru simetrije kocke. Zapremina kocke je u odnosu na zapreminu piramide:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec3a",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea6d",
+    "grade": 7,
+    "name": "Geometrija u ravni i prostoru",
+    "questionCount": 18,
+    "sampleQuestions": [
+      "Broj polupravih (P) i broj duži (D) koje određuju 3 prave koje se seku je:",
+      "Ortogonalna projekcija dve paralelne prave na ravan NE MOŽE biti:",
+      "Ortogonalna projekcija dve paralelne prave na ravan može biti:",
+      "Tačka i kružnica su u istoj ravni. Rastojanje tačke 𝘈 od najbliže tačke kružnice je 5, a od najdalje je 13. Tačka 𝘈 je van kruga. Poluprečnik kružnice je:",
+      "Tačke jedne prave su redom 𝘈, 𝘉 i 𝘊, a njihove ortogonalne projekcije 𝘈', 𝘉' i 𝘊' tim redom. Za redosled projekcija sledi:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec3e",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea6d",
+    "grade": 7,
+    "name": "Linearne funkcije",
+    "questionCount": 13,
+    "sampleQuestions": [
+      "Voja je proveo leto na privatnom jezeru pecajući. Članarina iznosi 400 dinara, a svaki provedeni dan 300dinara. Troškovi pecanja u zavisno od broja dana 𝑥 su:",
+      "Cena bioskopske karte je 250 dinara. Vrednost prodatih karata 𝑦 u zavisnosti od broja karata 𝑥 u dinarima je:",
+      "Grafik funkcije 𝑦 = 𝑥 + 4 seče 𝑥-osu u tački čije su koordinate:",
+      "Teodora je za 3 soka dala novčanicu od 100 dinara i dobila kusur 10 dinara. Vrednost sokova 𝑦 u zavisnosti od broja sokova 𝑥 je:",
+      "Koja od navedenih funkcija A) 𝑦 – 𝑥 = 3, B) 𝑦 + 𝑥 = 3 i V) 𝑦 = 3 – 𝑥 je rastuća?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec3f",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea6d",
+    "grade": 7,
+    "name": "Sistemi linearnih jednačina",
+    "questionCount": 12,
+    "sampleQuestions": [
+      "Ako je 𝑦 = 2𝑥 i 𝑦 = 𝑥 + 2 onda je vrednost nepoznate 𝑥:",
+      "Zbir 2 susedne stranice pravougaonika je 25 cm. Jedna stranica je 4 puta duža od druge. Dužina kraće stranice je:",
+      "Ana, Biba i Cana prave čestitke. Ana i Biba su napravile 12, a Ana i Cana 13. Koliko je čestitki napravila Ana , ako su sve 3 zajedno napravile 20?",
+      "Miloš je imao 1400 dinara, kojima je platio zvučnike i miša za kompjuter. Zvučnici su 400 dinara skuplji od miša. Da je kupio samo miša ostalo bi mu:",
+      "Godine troje braće su u razmeri 2 : 3 : 5, a ukupan zbir njihovih godina je S. Zbir godina najmlađeg i srednjeg brata je:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec40",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea6d",
+    "grade": 7,
+    "name": "Valjak, kupa i lopta",
+    "questionCount": 11,
+    "sampleQuestions": [
+      "Ravan koja seče valjak i paralelna je ravnima osnova valjka ima sa valjkom:",
+      "Ako valjak i kupa imaju podudarne osnove i jednake dužine visina onda je:",
+      "Za površinu omotača kupe u odnosu na površinu osnove sledi:",
+      "Pravougli trougao sa katetama 3 sm i 6 sm obrće se oko kraće katete. Visina nastale kupe je u odnosu na poluprečnik:",
+      "Prečnik najvećeg loptinog kruga je 20 cm. Najbliža vrednost površine lopte u cm je:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec39",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea6d",
+    "grade": 7,
+    "name": "Slični trouglovi",
+    "questionCount": 10,
+    "sampleQuestions": [
+      "Dužine stranica trouglova su: A) 3 cm, 5 cm, 7 cm, B) 6 cm, 10 cm,12 cm, V) 30 cm, 50 cm, 70 cm. Slični su trouglovi su:",
+      "Dva pravougla trougla su slična. Katete jednog 4 puta su duže od odgovarajućih kateta drugog. Razmera obima tih trouglova je:",
+      "Dva trougla će biti slična, ako imaju:",
+      "Dužina osnovice jednakokrakog trougla je 12, a kraka 9. Najduža stranica njemu sličnog trougla je 4. Dužina kraka sličnog trougla je:",
+      "Dva trougla će biti uvek slična, ako su im jednaki:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febde",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea5d",
+    "grade": 8,
+    "name": "Pitagorina teorema",
+    "questionCount": 22,
+    "sampleQuestions": [
+      "Ako su dve kraće stranice pravouglog trougla 6cm i 8cm onda je dužina treće stranice u centimetrima :",
+      "Prečnik opisanog kruga oko pravougaonika je 5 a jedna stranica 3 .Dužina druge stranice pravougaonika je :",
+      "U jednakokrakom trouglu polivina osnovice je 3 cm a visina koja odgovara osnovici je 4 cm. Dužina kraka je :",
+      "Jedan oštar ugao pravouglog trougla je 30 stepeni. Najkraća stranica ima dužinu 5m. Dužina hipotenuze je:",
+      "Stranice pravouglog trougla su 9 cm , 12 cm i 15 cm. Ako se hipotenuza skrati za 1 cm , trougao će:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febdd",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea5d",
+    "grade": 8,
+    "name": "Realni brojevi i kvadratni koren",
+    "questionCount": 16,
+    "sampleQuestions": [
+      "Najveći ceo broj od koga je koren broja 70 veći je :",
+      "Razlika kvadrata brojeva 4 i – 1 je:",
+      "Koren broja 37 nalazi se između brojeva : ",
+      "Koji među brojevima nije realan ?",
+      "Vrednost proizvoda broja 10 i korena iz 0,09 je :"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febdf",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea5d",
+    "grade": 8,
+    "name": "Polinomi i monomi",
+    "questionCount": 15,
+    "sampleQuestions": [
+      "Izraz – ( 9a – 7a ) – a zapisan u obliku monoma je:",
+      "Rešenje jednačine h + u – h = 1",
+      "Ako je A = 4h – 4 i V = 2h onda je A= V za h :",
+      "Polinom P = x – 4 jednak je polinomu Q= (4 – n) h – 4 . Vrednost n je : ",
+      "Ako su kvadrati realnih brojeva jednaki onda su i njihovi 8. stepeni jednaki :"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febe0",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea5d",
+    "grade": 8,
+    "name": "Mnogougao",
+    "questionCount": 13,
+    "sampleQuestions": [
+      "Koji mnogougao ima tačno 2 dijagonale ?",
+      "Unutrašnji ugao pravilnog mnogougla je jednak spoljašnjem. Broj dijagonala iz jednog temena mnogougla je:",
+      "Spoljašnji ugao pravilnog mnogougla je 20 stepeni. Broj stranica mnogougla je:",
+      "U grupi na društvenoj mreži je 5 osobe. Ukupan broj kontakata je:",
+      "Zbir unutrašnjih uglova mnogougla NE MOŽE biti u stepenima:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febe3",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea5d",
+    "grade": 8,
+    "name": "Razmera i procenti",
+    "questionCount": 13,
+    "sampleQuestions": [
+      "Vrednost nepoznatog člana proporcije h : 5 = 12 : 10 je:",
+      "Ako se za 15 evra može dobiti 1800 dinara , koliko će se evra dobiti za 3600dinara?",
+      "Koliko procenata je u jednoj grupi studenata položilo test, ako je 4 puta više onih koji su položili u odnosu na one koji nisu?",
+      "Masa pčele je 1/10g .Jednom posetom cvetu pčela donosi nektar jednak polovini njene mase. Koliko puta će posetiti cvet da skupi 1g nektara?",
+      "Na jednom računu je 100evra a na drugom 200 evra . Koliko procenata sa 2. treba prebaciti na 1. račun da sume budu jednake na oba?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febe2",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea5d",
+    "grade": 8,
+    "name": "Krug i kružnica",
+    "questionCount": 13,
+    "sampleQuestions": [
+      "Dno pleha je oblika kruga poluprečnika 10cm Najbliža vrednost površine suda u centimetrima kvadratnim je :",
+      "Ako je najduža tetiva kruga 12cm onda je dužina poluprečnika u centimetrima :",
+      "U krug je upisan kvadrat. Centralni ugao koji odgovara stranici kvadrata u stepenima je :",
+      "Centralnom uglu od 45 stepeni odgovara kružni luk dužine 6cm. Obim kruga je :",
+      "Koji matematičar se pominje vezano za određivanje približne vrednosti količnika obima kruga i prečnika?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febe4",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea5d",
+    "grade": 8,
+    "name": "Statistika i srednje vrednosti",
+    "questionCount": 8,
+    "sampleQuestions": [
+      "Temperatura je merena u toku 24 sata. Vrednosti izmerenih temperatura u stepenima su bile: –2 , – 1, + 3. Prosečna dnevna vrednost je:",
+      "Aca 2 dana za redom igra igrice.Prvog dana 1sati i 20 minuta a drugog 50minuta. Koliko minuta je prosečno dnevno igrao igrice? ",
+      "U vrećama su jabuke mase 20 kg, 30 kg, 40 kg i 11 kg. Prosečna količina u vrećama je približno:",
+      "Četiri dana za redom Uroš je radio prosečno po 5 zadataka.Petog dana je uradio 20. Prosečan broj urađenih zadataka za ovaj periode je: ",
+      "Dato je 5 brojeva 0 , 1 , 7 , 2 , 5 .Za srednju vrednost S i medijanu M sledi:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febe1",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "classId": "60f475359892c9345e4fea5d",
+    "grade": 8,
+    "name": "Direktna i obrnuta proporcionalnost",
+    "questionCount": 7,
+    "sampleQuestions": [
+      "Cena u jabuka zavisi od količine h kupljenih jabuka. Za 2kg potrebno je 100 dinara. Zavisnost cene u od količine jabuka h je:",
+      "Površina pravougaonika je 60. Zavisnost stranica a i b je:",
+      "Koji među uređenim parovima ( 2,3), (3,2) , (2,6) predstavlja zavisnost u = 3h?",
+      "Ako grafiku direktno proporcionalne zavisnosti pripada tačka sa koordinatama (1, 4) onda tom grafiku pripada i tačka sa koordinatama: ",
+      "Površina romba je 10 , stranica je a i visina h. Zavisnost stranice a i visine h je:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea96",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea1d",
+    "grade": 1,
+    "name": "Zvuk i muzika oko nas",
+    "questionCount": 68,
+    "sampleQuestions": [
+      "Šta čujemo kada počinje i završava se školski čas?",
+      "Svako muzičko delo ima:",
+      "Koja se životinja oglašava prodornim zvukom?",
+      "Kada čujemo grmljavinu, čujemo:",
+      "Pesma „Pod morem\" je iz crtanog filma:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea97",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea1d",
+    "grade": 1,
+    "name": "Ton i izvođači",
+    "questionCount": 62,
+    "sampleQuestions": [
+      "Ton je zvuk koji možemo da:",
+      "Kako nazivamo nekoliko ljudi koji zajedno sviraju?",
+      "U pesmi „Ribar\" pominju se životinje:",
+      "Šta se čuje kada neko peva?",
+      "Koliki broj solista može nastupiti na koncertu?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feac9",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea27",
+    "grade": 2,
+    "name": "Notni sistem i instrumenti",
+    "questionCount": 56,
+    "sampleQuestions": [
+      "Linijski sistem ima...",
+      "Kojoj grupi instrumenata pripada klarinet?",
+      "Koji instrument ima dirke?",
+      "Kompozicija svečanog karaktera uz koju možemo da koračamo je:",
+      "Tango je:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feac7",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea27",
+    "grade": 2,
+    "name": "Kompozitori i poznata dela",
+    "questionCount": 43,
+    "sampleQuestions": [
+      "„Na lepom plavom Dunavu\" je:",
+      "Ko je komponovao delo „Krcko Oraščić\"?",
+      "Volfgang Amadeus Mocart je komponovao:",
+      "Školsko zvono je:",
+      "„Karneval životinja\" komponovao je:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feac8",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea27",
+    "grade": 2,
+    "name": "Glas i izvođenje",
+    "questionCount": 36,
+    "sampleQuestions": [
+      "Sve što čujemo je:",
+      "Svečana pesma naziva se:",
+      "Koje ptice mogu da imitiraju ljudski glas?",
+      "Igrači, radnju baleta dočaravaju:",
+      "Prilikom pevanja ljudski glas stvara:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb16",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea38",
+    "grade": 3,
+    "name": "Muzika i instrumenti",
+    "questionCount": 72,
+    "sampleQuestions": [
+      "Šta je muzika?",
+      "Čiji je kompozitor Antonio Vivaldi?",
+      "Kako se stvara zvuk na tamburi?",
+      "Koji instrument je solistički u kompoziciji „Burgalesa\" Federika Torobe?",
+      "Koju dvorsku igru su najčešće komponovali mnogi kompozitori?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb15",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea38",
+    "grade": 3,
+    "name": "Notno pismo",
+    "questionCount": 33,
+    "sampleQuestions": [
+      "Kako imenujemo tonove?",
+      "Kako se igra kolo?",
+      "Nota ili pauza se produžava: ",
+      "Kako se još zove violinski ključ?",
+      "Gde se beleži korona?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb18",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea38",
+    "grade": 3,
+    "name": "Tonovi",
+    "questionCount": 1,
+    "sampleQuestions": [
+      "Kako delimo tonove? "
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feaf0",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea2f",
+    "grade": 4,
+    "name": "Marševi i narodne igre",
+    "questionCount": 71,
+    "sampleQuestions": [
+      "Na koncertu treba da",
+      "Jedan od najpopularnijih marševa „Radecki marš\" komponovao je: ",
+      "Duboki ženski glas je: ",
+      "„Srpsko narodno kolo\" je naziv za: ",
+      "Činele i kastanjete pripadaju Orfovom instrumentariju instrumenata. Razlikuju se po:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feaf1",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea2f",
+    "grade": 4,
+    "name": "Sviranje i taktiranje",
+    "questionCount": 71,
+    "sampleQuestions": [
+      "Dok pevaš neku pesmu u horu treba da",
+      "Vrstu takta određuje: ",
+      " Na blok flauti se uduvavanjem vazduha i zatvaranjem svih rupica svira ton:",
+      "Prvi pokret u taktiranju je: ",
+      "Na metalofonu su pločice poređane po visini tonova koje proizvode. Koja nota se nalazi desno od pločice note MI?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb41",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea42",
+    "grade": 5,
+    "name": "Notacija i tempo",
+    "questionCount": 57,
+    "sampleQuestions": [
+      "Brzina kojom se izvode muzička dela naziva se:",
+      "Kako se naziva znak kojim se nota povišava za polustepen?",
+      "Kako se naziva povišeni ton „ef“?",
+      "Nepotpun takt na početku kompozicije koji traje najmanje jednu jedinicu brojanja naziva se:",
+      "Kratka instrumentalna kompozicija šaljivog karaktera naziva se:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb3f",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea42",
+    "grade": 5,
+    "name": "Muzički instrumenti",
+    "questionCount": 48,
+    "sampleQuestions": [
+      "Muzika koja se izvodi sviranjem na instrumentima jeste:",
+      "Kako su postavljene cevi orkestarskih zvona?",
+      "Melodijski udarački instrument koji se sastoji od velikog bronzanog tanjira sa širokim obodom i ispupčenjem u sredini naziva se:",
+      "Kako se drugačije naziva veliki bubanj?",
+      "„Glokenšpil“ je nemački naziv za jedan od melodijskih udaračkih instrumenata. Koji je instrument u pitanju?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb42",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea42",
+    "grade": 5,
+    "name": "Srpski i svetski kompozitori",
+    "questionCount": 46,
+    "sampleQuestions": [
+      "Koji je poznati srpski kompozitor veliki deo života posvetio sakupljanju i zapisivanju narodnih melodija?",
+      "Koji je kompozitor sačinio najstariji sačuvani zapis „Svetosavske himne“?",
+      "Jedno od najznačajnijih dela Edvarda Griga nosi naziv:",
+      "Kojoj rukoveti Stevana St. Mokranjca pripada pesma „Višnjičica rod rodila“?",
+      "Kompozicija „Igra sabljama“ jedna je od najpoznatijih numera iz baleta:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb3c",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea42",
+    "grade": 5,
+    "name": "Muzika u antičkoj Grčkoj",
+    "questionCount": 4,
+    "sampleQuestions": [
+      "U kojoj je antičkoj civilizaciji u V veku pre nove ere nastao dramski rod pod nazivom „tragedija“?",
+      "U kom su se muzičko-stilskom razdoblju prvi put pojavili profesionalni muzičari?",
+      "Kako se nazivaju pozorišta na otvorenom u kojima su izvođene tragedije u antičkoj Grčkoj?",
+      "Kako se naziva dramski rod koji je nastao u antičkoj Grčkoj, a koji je objedinjavao pevanje, sviranje, igru, glumu i druge umetnosti?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb84",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea50",
+    "grade": 6,
+    "name": "Instrumenti s dirkama",
+    "questionCount": 56,
+    "sampleQuestions": [
+      "Muzički instrumenti koji imaju dirke čijim pritiskanjem nastaje ton nazivaju se:",
+      "Muzički instrument s dirkama koji se sastoji od klavijature i niza metalnih pločica o koje udaraju čekići naziva se:",
+      "Koji se graditelj muzičkih instrumenata smatra pronalazačem klavira?",
+      "Čembalo je muzički instrument s dirkama, mada se po načinu dobijanja tona može svrstati u:",
+      "Koji instrumenti s dirkama imaju registre?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb85",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea50",
+    "grade": 6,
+    "name": "Vokalna muzika i lestvice",
+    "questionCount": 46,
+    "sampleQuestions": [
+      "Muzika koja se izvodi pevanjem naziva se:",
+      "Lestvica koja počinje i završava se tonom „de“ i ima snizilicu „be“ naziva se:",
+      "Koliko je rastojanje između III i IV stupnja Ge-dur lestvice?",
+      "Muzički ansambl koji po izvođačkom sastavu može biti dečji, ženski, muški ili mešoviti, naziva se:",
+      "Ritmička figura koja nastaje povezivanjem nenaglašenog s naglašenim taktovim delom naziva se:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb81",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea50",
+    "grade": 6,
+    "name": "Muzika srednjeg veka i renesanse",
+    "questionCount": 34,
+    "sampleQuestions": [
+      "Muzika koja nema religiozne, već narodne teme, naziva se:",
+      "Ko su bili prvi srednjovekovni muzičari?",
+      "Najznačajniju ulogu u stvaranju Osmoglasnika – zbirke verskih pesama koje se pevaju u Pravoslavnoj crkvi – imao je:",
+      "U kom periodu renesanse su nastali posebni oblici muzičke notacije koji se nazivaju tabulature?",
+      "Jedan od najznačajnijih kompozitora renesansne muzike bio je:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb86",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea50",
+    "grade": 6,
+    "name": "Romantizam",
+    "questionCount": 25,
+    "sampleQuestions": [
+      "Koji je muzički stvaralac napisao kompoziciju „Karmina burana“?",
+      "Nikolo Paganini poznati je violinista i kompozitor poreklom iz:",
+      "Kom je muzičkom instrumentu Ludvig van Betoven namenio kompoziciju „Za Elizu“?",
+      "Kojoj kompoziciji Đuzepa Verdija pripada čuvena „Koračnica“?",
+      "Koji je srpski kompozitor napisao „Končertino na srpske teme“?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febc7",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea5f",
+    "grade": 7,
+    "name": "Gudački i trzački instrumenti",
+    "questionCount": 68,
+    "sampleQuestions": [
+      "Koliko grupa muzičkih instrumenata ulazi u stalni sastav simfonijskog orkestra?",
+      "Skraćeni naziv za violončelo jeste:",
+      "Violske žice su u odnosu na violinske:",
+      "Tehnika sviranja gudačkih instrumenata pri kojoj se žice okidaju prstima desne ruke naziva se:",
+      "Trzalački instrument čija se električna verzija često koristi u flamenku, džez, bluz, rok i hevi metal muzici naziva se:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febca",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea5f",
+    "grade": 7,
+    "name": "Barok i klasicizam",
+    "questionCount": 41,
+    "sampleQuestions": [
+      "U kojoj evropskoj zemlji je nastao barok?",
+      "Koji je bečki klasičar kao dečak pevao u horu od kojeg je s vremenom nastao hor Bečkih dečaka?",
+      "Za vreme kog muzičko-stilskog razdoblja su kompozitori na početku kompozicije počeli da upisuju metronomsku oznaku?",
+      "Najpoznatiji kastrat u istoriji muzike bio je Karlo Broski, poznatiji kao:",
+      "Prvi kompozitor koji je odbacio ulogu dvorskog sluge i postao samostalni umetnik bio je:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febc8",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea5f",
+    "grade": 7,
+    "name": "Vokalno-instrumentalni žanrovi",
+    "questionCount": 28,
+    "sampleQuestions": [
+      "Muzika koju izvodi jedan izvođač – solista – sa instrumentalnom pratnjom ili bez nje, naziva se:",
+      "Instrumentalni ansambl namenjen izvođenju muzičkih dela koja zahtevaju bogat i raznovrstan orkestarski zvuk nazivamo:",
+      "Muzičko-scensko delo koje pevanje i sviranje sjedinjuje s glumom i scenskim pokretom naziva se:",
+      "Oblik izvođenja u kojem je solo glas dominantan i podržan od strane različitih instrumenata naziva se:",
+      "Sve igre jedne orkestarske svite pisane su:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febc9",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea5f",
+    "grade": 7,
+    "name": "Veliki kompozitori klasicizma",
+    "questionCount": 27,
+    "sampleQuestions": [
+      "Italijan Klaudio Monteverdi ostao je zabeležan u istoriji muzike kao:",
+      "Ko je bio najznačajniji stvaralac simfonija za vreme klasicizma?",
+      "Kako se naziva najpoznatiji deo „Simfonije br. 9“ Ludviga van Betovena?",
+      "Jedno od najpoznatijih dela nemačkog kompozitora Johana Pahelbela jeste:",
+      "Kojem je instrumentu Đuzepe Tartini namenio kompoziciju „Đavolji triler“?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec1d",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea6f",
+    "grade": 8,
+    "name": "Duvački instrumenti",
+    "questionCount": 69,
+    "sampleQuestions": [
+      "Muzički instrumenti na kojima se ton dobija uduvavanjem vazduha u cev instrumenta nazivaju se:",
+      "Koji su limeni duvački instrumenti primenu našli u izvođenju tradicionalne srpske muzike?",
+      "Koji se drveni duvački instrument sastoji od dve cevi koje se spajaju u zajedničkom kolenu?",
+      "Savremena flauta se prilikom sviranja drži horizontalno, pa se zato često naziva i:",
+      "Na trombonu je moguće izvesti specijalni muzički efekat koji nastaje tako što se položaj povlačka menja klizanjem. NJegov naziv je:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec1f",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea6f",
+    "grade": 8,
+    "name": "Muzika 20. veka",
+    "questionCount": 50,
+    "sampleQuestions": [
+      "Koje je muzičko-stilsko razdoblje nastalo nadovezujući se na klasicizam?",
+      "Rokenrol je muzički pravac koji je nastao u Americi:",
+      "Za vreme kog muzičko-stilskog razdoblja osnovne preokupacije muzičkih stvaralaca postaju sloboda izraza i upotreba novih izražajnih sredstava?",
+      "Za vreme kog muzičko-stilskog razdoblja su se kompozitori oslobodili obaveza prema feudalcima i postali socijalno i ekonomski nezavisni?",
+      "Koji je muzički stvaralac najznačajnija ličnost u srpskoj muzičkoj istoriji?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec1e",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea6f",
+    "grade": 8,
+    "name": "Romantizam: kompozitori",
+    "questionCount": 34,
+    "sampleQuestions": [
+      "Solo pesma je vokalni žanr koji je vrhunac dostigao u delima:",
+      "Jedno od najpoznatijih dela nemačkog kompozitora Feliksa Mendelsona jeste:",
+      "Jedna od najpopularnijih i najčešće izvođenih opera u svetskoj muzičkoj literaturi jeste „Karmen“ francuskog kompozitora:",
+      "Koji je kompozitor napisao balet „Labudovo jezero“?",
+      "Koje je najpoznatije programsko delo Modesta Musorgskog?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec1c",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "classId": "60f475359892c9345e4fea6f",
+    "grade": 8,
+    "name": "Vokalne forme i popularna muzika",
+    "questionCount": 27,
+    "sampleQuestions": [
+      "Kako se nazivaju vokalne kompozicije koje su komponovane za jedan glas – solistu – koji ih izvodi uz pratnju klavira ili orkestra?",
+      "Ozbiljna opera koja opisuje istorijske događaje i heroje naziva se:",
+      "Kako se nazivaju specijalne baletske patike koje balerinama omogućavaju igranje na vrhovima prstiju?",
+      "Najveći ansambl u džezu jeste veliki džez orkestar, poznatiji kao:",
+      "Koji se popularni pevač i gitarista često naziva „kraljem rokenrola“?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feade",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "classId": "60f475359892c9345e4fea33",
+    "grade": 3,
+    "name": "Priroda i okolina",
+    "questionCount": 85,
+    "sampleQuestions": [
+      "Na kojoj strani drveta raste mahovina?",
+      "Kako se zove naduža i najveća klisura u Srbiji i u Evropi?",
+      "U proleće, kada prođu mrazevi, u listopadnim šumama se razvija poseban biljni svet. Kako se zovu te biljke?",
+      "Šljiva, jabuka, kruška, breskva, kajsija, višnja,trešnja gaje se u voćnjaku i spadaju u grupu:",
+      "Prenos iformacija putem novina, televizije, radija, interneta, pošte i telefona spada u"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feae0",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "classId": "60f475359892c9345e4fea33",
+    "grade": 3,
+    "name": "Vreme i poznate ličnosti",
+    "questionCount": 19,
+    "sampleQuestions": [
+      "Sve ono što se dešava/događa sada pripada",
+      "Vremenski period od 100 godina nazivamo",
+      "Kako nazivamo usmena svedočanstva učesnika pojedinih istorijskih događaja?",
+      "Bio je srpski prosvetitelj, osnivač i profesor Velike škole. O kojoj znamenitoj ličnosti je reč?",
+      "Bio je pesnik, prevodilac i lekar. Prvi pisac srpske književnosti koji je pisao za decu. Poznate pesme su \"Al je lep ovaj svet\" i \"Pačija škola\". On je"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feae2",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "classId": "60f475359892c9345e4fea33",
+    "grade": 3,
+    "name": "Materijali i agregatna stanja",
+    "questionCount": 17,
+    "sampleQuestions": [
+      "Kako nazivamo promene materijala koje nisu trajne i posle kojih se materijali mogu vratiti u prvobitno stanje?",
+      "U koju vrstu promene materijala spada sagorevanje drveta i papira?",
+      "Koja su tri agregatna stanja vode?",
+      "Kada voda isparava, u kom je agregatnom stanju?",
+      "Između kože, dlake ili perja zadržava se vazduh koji čuva toplotu i tako štiti životinje od"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feae1",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "classId": "60f475359892c9345e4fea33",
+    "grade": 3,
+    "name": "Kretanje i sila",
+    "questionCount": 10,
+    "sampleQuestions": [
+      "Promena položaja tela u odnosu na drugo telo nazivamo",
+      "Ako kažemo da se tela mogu kretati po pravim ili krivim putanjama, onda takvo kretanje nazivamo:",
+      "Ako na dva ista tela delujemo različitom silom, koje telo će preći veće rastojanje?",
+      "Kako se kreće klatno?",
+      "Šta nastaje treperenjem nekog tela?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feadf",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "classId": "60f475359892c9345e4fea33",
+    "grade": 3,
+    "name": "Vreme i delatnosti",
+    "questionCount": 5,
+    "sampleQuestions": [
+      "Šta je časovnik?",
+      "Šta je godina?",
+      "Kako nazivamo tabelarni prikaz dana, sedmica i meseci u toku jedne godine?",
+      "Redni broj dana, meseca i godine nazivamo",
+      "Sve ljudske delatnosti mogu biti:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb07",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "classId": "60f475359892c9345e4fea3c",
+    "grade": 4,
+    "name": "Istorija Srbije",
+    "questionCount": 40,
+    "sampleQuestions": [
+      "Srbi pripadaju",
+      "Koji događaj je povod za podizanje Prvog srpskog ustanka?",
+      "Kako se zvao vladar Moravske Srbije?",
+      "Kako je narod prozvao prvog srpskog cara?",
+      "Kada je u Drugom svetskom ratu oslobođen Beograd?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb03",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "classId": "60f475359892c9345e4fea3c",
+    "grade": 4,
+    "name": "Srbija: opšti pregled",
+    "questionCount": 25,
+    "sampleQuestions": [
+      "Kako se zove naša domovina?",
+      "Koliko morskih slivova ima teritorija Srbije?",
+      "Kako su poređane boje na zastavi Srbije?",
+      "U koje more se uliva reka Dunav?",
+      "Sa kojom državom je Dunav prirodna granica Srbije?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb04",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "classId": "60f475359892c9345e4fea3c",
+    "grade": 4,
+    "name": "Biljke, životinje i staništa",
+    "questionCount": 16,
+    "sampleQuestions": [
+      "Kojoj vrsti drveća pripada hrast?",
+      "Čime je prekriveno telo riba?",
+      "Gde rastu hrastove šume?",
+      "Ribe žive u",
+      "Beloglavi sup živi na planini:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb05",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "classId": "60f475359892c9345e4fea3c",
+    "grade": 4,
+    "name": "Fizika i hemija u prirodi",
+    "questionCount": 12,
+    "sampleQuestions": [
+      "Kada Sunce zauzima najviši položaj?",
+      "Suprotne strane magneta nazivaju se",
+      "Telo će preći duži put",
+      "Postupak razdvajanja čvrstih materijla smeše naziva se",
+      "Rđanje je"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb06",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "classId": "60f475359892c9345e4fea3c",
+    "grade": 4,
+    "name": "Privreda i resursi",
+    "questionCount": 11,
+    "sampleQuestions": [
+      "Materijali iz prirode koji se koriste za preradu zovu se",
+      "\"Prljavi\" izvori energije su oni koji",
+      "Delatnosti ljudi se dele na",
+      "Gde se prerađuje nafta?",
+      "Za šta se koristi snaga planinskih reka?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea84",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea18",
+    "grade": 2,
+    "name": "Književnost za decu",
+    "questionCount": 89,
+    "sampleQuestions": [
+      "Ko je napisao pesmu „Au što je škola zgodna“?",
+      "Kako glasi tačan naziv pesme?",
+      "Hajduk Veljko je u pesmi bio:",
+      "Nastavi stihove: „Drug će uvek naći reči...\"",
+      "Kolika je „kitova beba\"?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea86",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea18",
+    "grade": 2,
+    "name": "Pravopis i rečenice",
+    "questionCount": 34,
+    "sampleQuestions": [
+      "Upitne rečenice se završavaju znakom:",
+      "Umanjeno značenje reči LIST je:",
+      "Pravilno je napisano:",
+      "Prvu reč u rečenici pišemo:",
+      "Imena i prezimena se pišu:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea83",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea18",
+    "grade": 2,
+    "name": "Azbuka i slova",
+    "questionCount": 19,
+    "sampleQuestions": [
+      "Koliko azbuka ima slova?",
+      "Reč VRT se završava slovom:",
+      "Nastavi niz: A, B, V, G, D...",
+      "Reč KATEDRA ima:",
+      "Kojim slovom počinje reč ĐAK?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea85",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea18",
+    "grade": 2,
+    "name": "Reči i poređenja",
+    "questionCount": 11,
+    "sampleQuestions": [
+      "Kaže se „Veran kao...\"",
+      "Kaže se: „Lukav kao...\"",
+      "„Saša\" je:",
+      "Pronađi uljeza:",
+      "Pronađi uljeza:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fead8",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea2b",
+    "grade": 3,
+    "name": "Književna dela",
+    "questionCount": 60,
+    "sampleQuestions": [
+      "Odredi koji je prvi događaj u tekstu „Čardak ni na nebu, ni na zemlji\": Braća nailaze na čardak; Car saznaje istinu; Careva ćerka je oteta.",
+      "Šta znače stihovi: „Pevao cvrčak mali leta sjaj...\" iz pesme „Cvrčak i mrav\"?",
+      "Koja osećanja gaje životinje prema Tupavku iz bajke „Pčelinja matica\" braće Grim?",
+      "Dušan Kostić je autor pesme:",
+      "Šta znače stihovi: „Oblačak davaše sve od sebe...\" iz „LJubavne pesme\" Milovana Danojlića?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fead9",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea2b",
+    "grade": 3,
+    "name": "Lične zamenice i pravopis",
+    "questionCount": 53,
+    "sampleQuestions": [
+      "U kom licu i broju je upotrebljena lična zamenica u datoj rečenici: Zašto vi niste stigli na vreme?",
+      "Izdvoj ličnu zamenicu od ponuđenih reči: mi, svi, njegovi.",
+      "U kojoj reči je glas j nepravilno upotrebljen: čiji, radijo, kaje?",
+      "Reč SIJALICA ima:",
+      "Koja reč ne pripada datom skupu reči:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feada",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea2b",
+    "grade": 3,
+    "name": "Značenje reči",
+    "questionCount": 37,
+    "sampleQuestions": [
+      "Jedna od ponuđenih reči ima slično značenje kao reč predah. Koja je to reč?",
+      "Šta znači reč RASPALIO u rečenici: Raspalio sam vatru u kaminu.",
+      "Na koje reči može da se odnosi reč umerenost? ",
+      "Šta znači izraz: u jedan čas?",
+      "Koja rečenica spada u neformalni govor?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feaaf",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea22",
+    "grade": 4,
+    "name": "Pisma, abeceda i slogovi",
+    "questionCount": 99,
+    "sampleQuestions": [
+      "Pronađi uljeza:",
+      "Koje pismo u našem jeziku ima više slova?",
+      "Koliko slova ima abeceda u našem jeziku?",
+      "Skraćenica str. označava:",
+      "Koliko slogova ima reč PREGLEDATI?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feafd",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea34",
+    "grade": 4,
+    "name": "Pravopis",
+    "questionCount": 60,
+    "sampleQuestions": [
+      "Koja je rečenica pravilno napisana ?",
+      "Devojčica je JUTROS zalivala cveće. - Označena reč je:",
+      "Pravilno napisana rečenica je:",
+      "Pravilno napisana nazivi stanovnika su:",
+      "Među sledećim rečima nađi dva primera u kojima je rečca NE napisana nepravilno."
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feab1",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea22",
+    "grade": 4,
+    "name": "Književna dela 4. razreda",
+    "questionCount": 58,
+    "sampleQuestions": [
+      "Pesma „Bolesnik na tri sprata\" je:",
+      "Tekst „Sveti Sava i otac i mati sa malim detetom\" je:",
+      "U pesmi „Bolesnik na tri srata\" bolesna životinja je:",
+      "Tekst „Škola\" je:",
+      "Strofa je:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feafc",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea34",
+    "grade": 4,
+    "name": "Priče i bajke",
+    "questionCount": 49,
+    "sampleQuestions": [
+      "Zeleno se rodi, brkato uzraste, sakato umre. Ovo je:",
+      "Vreme vršenja radnje u priči „Zlatno jagnje\" je:",
+      "Priča koja ima elemente nestvarnog je:",
+      "Priča u kojoj bogati traže savet od Svetog Save zove se:",
+      "Kako su zvali dečaka iz priče Branislava Crnčevića koji je poljubio nebo?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feafe",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea34",
+    "grade": 4,
+    "name": "Bonton i frazeologija",
+    "questionCount": 30,
+    "sampleQuestions": [
+      "Prilikom susreta sa profesorom obratićeš mu se sa:",
+      "„Ne pitaj zato otkud odjednom košava briše.To možda nije vetar.To prva ljubav uzdiše.\" Ko je autor ovih stihova?",
+      "Jedne večeri, baš u divan SMIRAJ sunca, izlete iz žbunja jato prekrasnih velikih ptica. Označena reč znači:",
+      "Koje reči su deminutivi?",
+      "Šta znače istaknute reči u datoj rečenici? ,,Nemoj da mi DUVAŠ ZA VRAT!\""
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feab0",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "classId": "60f475359892c9345e4fea22",
+    "grade": 4,
+    "name": "Književnici i izrazi",
+    "questionCount": 26,
+    "sampleQuestions": [
+      "Basnu „Pas i njegova senka\" je napisao:",
+      "Pesmu „Mama\" je napisao:",
+      "Dragan Lukić je napisao pesmu:",
+      "Kad kažemo da smo u odeljenju „kao jedna duša\" znači da smo:",
+      "Reč BLAM znači:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb33",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea46",
+    "grade": 5,
+    "name": "Književna dela 5. razreda",
+    "questionCount": 60,
+    "sampleQuestions": [
+      "Ko je napisao roman „Agi i Ema\"?",
+      "Književni rodovi su: lirika, epika i: ",
+      "Šta je Tomu Sojeru bila Poli?",
+      "Tom Sojer je video da je dr Robinzona ubio: ",
+      "Reči suprotnog značenja zovu se: "
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb2f",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea46",
+    "grade": 5,
+    "name": "Padeži",
+    "questionCount": 35,
+    "sampleQuestions": [
+      "Koliko ima padeža u srpskom jeziku? ",
+      "Nominativ je koji po redu padež u srpskom jeziku? ",
+      "Pitanja za genitiv su: ",
+      "Pitanja o kome?, o čemu? su za padež: ",
+      "Kako glasi enklitički oblik zamenice JA u genitivu jednine? "
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb2d",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea46",
+    "grade": 5,
+    "name": "Imenske vrste reči",
+    "questionCount": 32,
+    "sampleQuestions": [
+      "Imenske reči spadaju u: ",
+      "Gramatička osnova imenice ugao glasi: ",
+      "Kojoj vrsti imenica pripada reč čitanje?",
+      "Pridevi imaju određeni i neodređeni: ",
+      "Akcenat ne može da bude na: "
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb2e",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea46",
+    "grade": 5,
+    "name": "Glagoli (osnovno)",
+    "questionCount": 18,
+    "sampleQuestions": [
+      "Koliko pomoćnih glagola ima u srpskom jeziku?",
+      "Kako se zove promena glagola?",
+      "Glagol sesti je prema trajanju radnje: ",
+      "Glagol ležati je prema trajanju radnje: ",
+      "Prema glagolskom rodu, glagoli mogu biti:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb32",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea46",
+    "grade": 5,
+    "name": "Pravopisne vežbe",
+    "questionCount": 9,
+    "sampleQuestions": [
+      "Koji datum je pravilno napisan?",
+      "Koji primer je tačno napisan?",
+      "Koji primer je tačno napisan?",
+      "Koji primer je tačno napisan?",
+      "Koji primer je tačno napisan?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb35",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea46",
+    "grade": 5,
+    "name": "Narodna književnost",
+    "questionCount": 1,
+    "sampleQuestions": [
+      "U kratke folklorne forme spadaju:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febb6",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea63",
+    "grade": 6,
+    "name": "Glagolski oblici",
+    "questionCount": 66,
+    "sampleQuestions": [
+      "U srpskom jeziku oblici glagola se dobijaju od dveju gramatičkih osnova:",
+      "Pomoćni glagoli u srpskom književnom jeziku su:",
+      "Kako glasi 3. lice množine prezenta glagola „zaspati\"?",
+      "Kako glasi 1. lice jednine imperfekta glagola„ići\"?",
+      "Kako glasi trpni glagolski pridev glagova „zaneti\" u jednini ženskog roda?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febb5",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea63",
+    "grade": 6,
+    "name": "Nepromenjive vrste reči",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "„Da li sam dobro odgovorio na pitanje?‟ Kojoj vrsti reči pripada reč „da li‟?",
+      "Predlog „radi\" u primeru: „Došao sam radi dogovora.\", ima značenje:",
+      "Zameni izraz „danas uveče\" sa odgovarajućim prilogom.",
+      "\"Kada smo stigli na kraj puta, to mi nije bilo ni ....... pameti.\" Upotrebi odgovarajući izraz:",
+      "U primeru: „Junački je podneo muke.\", reč „junački\" je:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febb7",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea63",
+    "grade": 6,
+    "name": "Futur, potencijal i pravopis",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Rečca „ne\" uz glagole se piše:",
+      "Kod povratnih glagola pomoćni glagol se izostavlja u 3. licu jednine:",
+      "„On će spavati.\" – Kako glasi oblik prostog futura?",
+      "Kako glasi 1. lice jednine potencijala glagola „pevati\"?",
+      "„Dobro jutro. Dajte mi dve pogačice ................‟ Dopuni ovu rečenicu tako, da iz pekare izađeš kao neko ko je zadovoljio jezičku normu."
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febba",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea63",
+    "grade": 6,
+    "name": "Sintagme",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Odredi vrstu sintagme u datom primeru: prva velika misao",
+      "„Voda sa izvora\" – Ovo je primer:",
+      "„Ušao je čitajući dnevne novine.\" U primeru „čitajući dnevne novine\", glavna reč u sintagmi je: ",
+      "„Sok od šljiva\": zavisni član ove sintagme je:",
+      "U primeru: „deset lepih paunica\", glavna reč u sintagmi je:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febbd",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea63",
+    "grade": 6,
+    "name": "Književna dela 6. razreda",
+    "questionCount": 13,
+    "sampleQuestions": [
+      "Koja naša pesnikinja je doživela i preživela dva svetska, balkanske i jedan građanski rat?",
+      "Osim „Ranih jada\", trilogiju „Porodičnog cirkusa\" čine još i romani.",
+      "Treći refren pesme „Krvava bajka\" razlikuje se u jednoj reči. U njemu su đaci umrli:",
+      "Kojem književnom rodu i kojoj književnoj vrsti pripada „Dnevnik Ane Frank‟?",
+      "Koja je vrsta sintagme u primeru „krčanje radija\"?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febb8",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea63",
+    "grade": 6,
+    "name": "Rečenični članovi",
+    "questionCount": 9,
+    "sampleQuestions": [
+      "„Vino pije Kraljeviću Marko.\" U ovom primeru „Kraljeviću Marko\" je u funkciji:",
+      "Gramatički subjekat se uvek javlja u obliku:",
+      "„Svima je bilo zabavno kada su učestvovali u kvizu.\"– Reč „svima\" ima funkciju: ",
+      "„Nemanji je zadrhtala ruka.\" Gramatički subjekat u ovoj rečenici je:",
+      "„Sutra nema nastave.\" U ovoj rečenici imenica „nastava\" obavlja funkciju:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febb9",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea63",
+    "grade": 6,
+    "name": "Složena rečenica",
+    "questionCount": 5,
+    "sampleQuestions": [
+      "„Marko već beše otišao kući.\"– Izraz „beše otišao\" je primer:",
+      "„Marko se stade prenemagati od bolova.\" U ovoj rečenici „se stade prenemagati\" je primer:",
+      "Koliko predikatskih rečenica ima u primeru: „Marko nije smeo da zakasni na početak predstave.\"",
+      "„Marko je trčao da ne zakasni na prvi čas.\" Koliko predikatskih rečenica ima u ovom primeru?",
+      "Kako glasi predikat u rečenici: „On nije smeo da poleti sam.\""
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febbb",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea63",
+    "grade": 6,
+    "name": "Funkcionalni stilovi",
+    "questionCount": 2,
+    "sampleQuestions": [
+      "Koji funkcionalni stil je prepoznatljiv po subjektivnosti, originalnosti i upotrebi stilskih figura?",
+      "Koji funkcionalni stil se upotrebljava kada se pišu novinski članci, izveštaji, reportaže, kolumne...?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4febbc",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea63",
+    "grade": 6,
+    "name": "Pesnici i pesme",
+    "questionCount": 1,
+    "sampleQuestions": [
+      "Ko je autor pesme „Plavi čuperak‟?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb74",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Književna dela 7. razreda",
+    "questionCount": 23,
+    "sampleQuestions": [
+      "Kojoj književnoj vrsti pripada pesma „Plava zvezda\" Miroslava Antića?",
+      "Ko je Jablan u istoimenoj priči Petra Kočića?",
+      "Šta je čudesno u naslovu pesme Dobrice Erića?",
+      "Priču o boginji Ladi napisala je:",
+      "Malčika je glavna junakinja dela:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb73",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Pravopis i gramatika",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Pravilno se piše:",
+      "Pravilno je:",
+      "Odredi pravilno napisan oblik futura prvog.",
+      "Pravilan oblik glagola je:",
+      "Odredi tačno napisanu odričnu zamenicu u instrumentalu."
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb71",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Stilske figure",
+    "questionCount": 13,
+    "sampleQuestions": [
+      "Odredi stilsku figuru u primeru: Žuljave ruke.",
+      "Kojom stilskom figurom je u narodnim pesmama dočaran lik Marka Kraljevića?",
+      "„Dobar kao dobar dan\" je:",
+      "Odredi stilsku figuru: Kao zlatne toke krvlju pokapane, dole pada sunce, za goru, za grane.",
+      "Koja stilska figura je, pored stalnog epiteta, karakteristična samo za narodnu književnost? "
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb6e",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Frazeologija i sinonimi",
+    "questionCount": 13,
+    "sampleQuestions": [
+      "Izbaci uljeza u odnosu na sinonime.",
+      "Izbaci uljeza u odnosu na sinonime.",
+      "Ako je nekome „maca pojela jezik\", on:",
+      "Ako neko „padne na niske grane\", on je:",
+      "Ako neko „ume i iz vode suv izaći\", on je:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb68",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Glasovne promene",
+    "questionCount": 10,
+    "sampleQuestions": [
+      "Izbaci uljeza.",
+      "Koja glasovna promena se dešava u vokativu imenice čovek?",
+      "U imenici TRENUCI izvršene su tri glasovne promene: nepostojano a, sibilarizacija i:",
+      "U komparativu prideva strog - STROŽI izvedena je glasovna promena: ",
+      "U pridevu VREDNA izvršena je glasovna promena:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb75",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Romani za decu",
+    "questionCount": 10,
+    "sampleQuestions": [
+      "Ko piše pismo „dedi u selo\"?",
+      "U „Enciklopediji loših đaka, buntovnika i ostalih genijalaca\", saznali smo više o:",
+      "U romanu Anđele Naneti „Moj deka je bio trešnja\", Alfonsina je:",
+      "Tonino, junak romana „Moj deka je bio trešnja\", najviše je voleo:",
+      "Anđela Naneti autor je romana:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb6f",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Kosovski boj u književnosti",
+    "questionCount": 9,
+    "sampleQuestions": [
+      "Kosovka Devojka je?",
+      "Šta nije kneževo u epskim narodnim pesmama o Kosovskom boju?",
+      "U pesmama o Kosovskom boju, Majka Jugovića simbolično predstavlja:",
+      "Kog junaka knez Lazar, na večeri pred Kosovski boj, naziva „neverom\"?",
+      "Pesme tematskog kruga o Kosovskom boju odnose se na:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb6b",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Glagolski oblici (prošli)",
+    "questionCount": 9,
+    "sampleQuestions": [
+      "BISMO ŽELELI je:",
+      "Imperfekat se gradi samo od glagola:",
+      "Koji glagol se nalazi u aoristu?",
+      "Imperfekat glagola PEĆI je:",
+      "Od pomoćnog glagola biti u perfektu ili imperfektu i radnog glagolskog prideva gradi se:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb72",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Stih i rima",
+    "questionCount": 8,
+    "sampleQuestions": [
+      "Osmerac je: ",
+      "„Mili bože, čuda velikoga!\" Vrsta stiha je:",
+      "Rima je odlika:",
+      "Podudaranje glasova na kraju dva ili više stihova, naziva se:",
+      "Odredi vrstu stiha: O, klasje moje ispod golih brda..."
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb6d",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Vrste rečenica po komunikaciji",
+    "questionCount": 7,
+    "sampleQuestions": [
+      "Koja rečenica je prema svojoj komunikativnoj funkciji uzvična?",
+      "Koja rečenica ima dva predikata?",
+      "Označi upitnu rečenicu.",
+      "Odredi željnu rečenicu.",
+      "U kom primeru se nalazi zavisna rečenica?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb6c",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Pridevske zamenice",
+    "questionCount": 7,
+    "sampleQuestions": [
+      "Pridevska zamenica je:",
+      "Prisvojna pridevska zamenica je:",
+      "Pravilno napisana odrična pridevska zamenica NIKO je:",
+      "U primeru: Sviđa mi se ONA plaža. Naglašena zamenica je:",
+      "Volim SVOJU porodicu. Naglašena zamenica je:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb69",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Glasovi i njihova podela",
+    "questionCount": 6,
+    "sampleQuestions": [
+      "U našem jeziku ima: ",
+      "Alveolarni suglasnici su:",
+      "Kako se zovu glasovi pri čijem izgovoru vazdušna struja ne nailazi na prepreku, čuju se kao tonovi i mogu se pevati?",
+      "Odredi zvučni zadnjonepčani suglasnik.",
+      "Po mestu izgovra suglasnici R,L,N su:"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb76",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Narodne lirske pesme",
+    "questionCount": 6,
+    "sampleQuestions": [
+      "„Vojevao Beli Vide\" je narodna lirska:",
+      "U obrednim lirskim pesmama, kišu prizivaju:",
+      "Lirske pesme kojima se slavilo rađanje mladog sunca koje budi prirodu iz zimskog sna, nazivaju se:",
+      "Odredi vrstu lirskih pesama: Evo su ti gosti došli, dobri gosti koleđani, koji ode Boga mole, za staroga za Badnjaka, za mladoga za Božića.",
+      "Koja pesma ne pripada obrednim lirskim pesmama?"
+    ]
+  },
+  {
+    "id": "60f478b19892c9345e4feb70",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Marko Kraljević u književnosti",
+    "questionCount": 6,
+    "sampleQuestions": [
+      "Šta u naslovu narodne epske pesme ukida Marko Kraljević?",
+      "S kim se ne bije Marko na megdanu?",
+      "Konj Marka Kraljevića je:",
+      "Šta u pesmi ore Marko Kraljević?",
+      "Kada Marko pije rujno vino?"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb67",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Tvorba reči",
+    "questionCount": 5,
+    "sampleQuestions": [
+      "Reč nastala prefiksacijom je:",
+      "Reč nastala sufiksacijom je:",
+      "Reč koja je po načinu postanka izvedenica je:",
+      "Prosta reč po načinu postanka je:",
+      "Reč koja je po načinu postanka izvedenica je:"
+    ]
+  },
+  {
+    "id": "60f478b09892c9345e4feb6a",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea54",
+    "grade": 7,
+    "name": "Slogovi i deljenje reči",
+    "questionCount": 4,
+    "sampleQuestions": [
+      "Odredi reč koja je pravilno podeljena na slogove.",
+      "Odredi reč koja je pravilno podeljena na slogove.",
+      "Na slogove je pravilno podeljena reč:",
+      "Odredi reč koja je pravilno podeljena na slogove."
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec11",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea73",
+    "grade": 8,
+    "name": "Jezik i sintaksa",
+    "questionCount": 88,
+    "sampleQuestions": [
+      "Šta su sonanti u reči milja?",
+      "Koji izgovori su u osnovi srpskog književnog jezika?",
+      "Kojoj vrsti sintagmi pripada sintagma ČITAJUĆI DOBRE PISCE?",
+      "Odgovori kojoj vrsti reči pripada istaknuta reč u primeru Pitao ju JE kada će doći.",
+      "Kratka, mudra i duhovita izreka o životu, svetu i ljudima je:"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec12",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea73",
+    "grade": 8,
+    "name": "Književni rodovi i vrste",
+    "questionCount": 52,
+    "sampleQuestions": [
+      "Osim lirike i epike, koji rod u književnosti još postoji?",
+      "Koja je četvrta etapa u razvoju fabule književnog dela?",
+      "Koja od navedenih vrsta je književnonaučna?",
+      "Kojoj književnoj vrsti pripada pesma „Svetli grobovi\" Jovana Jovanovića Zmaja?",
+      "U kom književnom delu se pojavljuju Tasa i Jerotije?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec10",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea73",
+    "grade": 8,
+    "name": "Pravopis 8. razreda",
+    "questionCount": 10,
+    "sampleQuestions": [
+      "Koji primer je napisan u skladu sa „Pravopisom srpskoga jezika\"?",
+      "U kom primeru je broj pravilno napisan?",
+      "Kako glase oblici imperativa drugog lica jednine glagola OBOJITI i REĆI?",
+      "U kom primeru je ispoštovano pravopisno pravilo o pisanju godišnjica?",
+      "U kom primeru su parovi skraćenica napisani u skladu sa pravopisnim pravilima?"
+    ]
+  },
+  {
+    "id": "60f478b29892c9345e4fec0f",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "classId": "60f475359892c9345e4fea73",
+    "grade": 8,
+    "name": "Funkcionalni stilovi (8. razred)",
+    "questionCount": 1,
+    "sampleQuestions": [
+      "U kom primeru je dat naziv funkcionalnog stila?"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea90",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea1b",
+    "grade": 1,
+    "name": "Priroda oko nas",
+    "questionCount": 63,
+    "sampleQuestions": [
+      "U prirodi je sve:",
+      "Vazduh je:",
+      "Voda rastvara:",
+      "Delovi tela životinja su prilagođeni:",
+      "Svinje žive u:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea8e",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea1b",
+    "grade": 1,
+    "name": "Saobraćaj i bezbednost",
+    "questionCount": 29,
+    "sampleQuestions": [
+      "Šta ćemo obući zavisi od:",
+      "Samostalni smo kada:",
+      "Broj telefona vatrogasaca je:",
+      "Najbezbednije mesto za prelazak ulice je:",
+      "Deca su u saobraćaju bezbednija ako na odeći ili rancu imaju:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea8c",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea1b",
+    "grade": 1,
+    "name": "Porodica i škola",
+    "questionCount": 23,
+    "sampleQuestions": [
+      "Ko čini užu porodicu?",
+      "Pronađi uljeza:",
+      "Kraj časa u školi označava:",
+      "Susedi su:",
+      "Školski pribor đaka prvaka je:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea91",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea1b",
+    "grade": 1,
+    "name": "Vreme i orijentacija",
+    "questionCount": 20,
+    "sampleQuestions": [
+      "Da se lakše snađemo u prostoru pomažu nam sledeći objekti:",
+      "Posle završenog prvog razreda pohađaćete:",
+      "Dan delimo na:",
+      "Sedmica je vremenski period od:",
+      "Poslednji dan u sedmici je:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea8d",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea1b",
+    "grade": 1,
+    "name": "Osećanja i potrebe",
+    "questionCount": 9,
+    "sampleQuestions": [
+      "Osnovne životne potrebe su:",
+      "Kada smo uplašeni, osećamo:",
+      "Kada nas neko pohvali, osećamo:",
+      "Kada neko plače, osećamo:",
+      "Različitost je važno da:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4fea8f",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea1b",
+    "grade": 1,
+    "name": "Materijali",
+    "questionCount": 7,
+    "sampleQuestions": [
+      "Za izradu predmeta čovek koristi:",
+      "Za obradu materijala čovek koristi:",
+      "Materijali mogu biti:",
+      "Za izradu prozora koristimo sledeće materijale:",
+      "Materijali od kojih možemo sašiti haljinu su:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feac1",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea25",
+    "grade": 2,
+    "name": "Biljke i životinje",
+    "questionCount": 62,
+    "sampleQuestions": [
+      "Ptice se kreću pomoću:",
+      "Živina živi u:",
+      "Glista diše preko:",
+      "Lekovita biljka je:",
+      "Niti za svilene tkanine proizvodi:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feabe",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea25",
+    "grade": 2,
+    "name": "Naselje i nacionalni simboli",
+    "questionCount": 30,
+    "sampleQuestions": [
+      "Orao je:",
+      "Školska slava je:",
+      "Kućni brojevi idu redom od:",
+      "Ocilo na grbu Republike Srije predstavlja:",
+      "Početak ulice određuje se prema:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feabf",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea25",
+    "grade": 2,
+    "name": "Vreme i kalendar",
+    "questionCount": 16,
+    "sampleQuestions": [
+      "Kalendarska godina počinje:",
+      "Zima počinje u:",
+      "Tamni deo dana je:",
+      "Maj traje:",
+      "Kada se velika kazaljka pomeri od jednog do drugog broja, prošlo je:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feac0",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea25",
+    "grade": 2,
+    "name": "Reljef i voda",
+    "questionCount": 14,
+    "sampleQuestions": [
+      "Grad najčešće pada:",
+      "Tekuća voda je:",
+      "Brdo je:",
+      "Zemljište je plodnije ako je:",
+      "Kotlina je:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feac2",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea25",
+    "grade": 2,
+    "name": "Zanimanja i materijali",
+    "questionCount": 9,
+    "sampleQuestions": [
+      "Staklar obrađuje:",
+      "Materijal koji stolar koristi je:",
+      "Prirodna guma se dobija iz:",
+      "Grnčar obrađuje:",
+      "Veštački materijal je:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feab8",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea25",
+    "grade": 2,
+    "name": "Saobraćaj",
+    "questionCount": 8,
+    "sampleQuestions": [
+      "Pristanište za brodove se zove:",
+      "Opremu za bicikliste čini:",
+      "Crveno svetlo na semaforu znači:",
+      "Ako nema trotoara, pešaci se kreću:",
+      "Ako na putu nema trotoara, organizovana kolona pešaka kreće se:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feabd",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea25",
+    "grade": 2,
+    "name": "Porodica i poreklo",
+    "questionCount": 7,
+    "sampleQuestions": [
+      "Preci su:",
+      "Ti si potomak:",
+      "Ja sam svojoj babi:",
+      "Tatin brat mi je:",
+      "Tvoji potomci će živeti u:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feabb",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea25",
+    "grade": 2,
+    "name": "Godišnja doba",
+    "questionCount": 3,
+    "sampleQuestions": [
+      "Prolećni mesec je:",
+      "Zimi su obdanice:",
+      "Leti su obdanice:"
+    ]
+  },
+  {
+    "id": "60f478af9892c9345e4feaba",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "classId": "60f475359892c9345e4fea25",
+    "grade": 2,
+    "name": "Sat i merenje vremena",
+    "questionCount": 1,
+    "sampleQuestions": [
+      "Kazaljke se nalaze na:"
+    ]
+  }
+]

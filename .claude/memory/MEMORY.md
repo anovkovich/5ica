@@ -1,0 +1,13 @@
+- [Project overview](project_5ica.md) — sve o 5ica brandu, biznisu, ciljevima
+- [Brand 5ica](brand_5ica.md) — vizuelni identitet, izgovor, copy guidelines
+- [Strategic decisions](strategic_decisions.md) — fiksirane odluke iz strateškog rada
+- [Tech stack](tech_stack.md) — finalizovan tech izbor
+- [Design system](design_system.md) — brand boje, tipografija, komponente, decomposition
+- [Gamification mechanics](gamification.md) — XP, leveli, lige, parent duel
+- [Sprint product](sprint_product.md) — Mala Matura Sprint paket detalji
+- [Data corpus](data_corpus.md) — 8.428 pitanja, 14 predmeta, 298 poglavlja
+- [Critical metrics](critical_metrics.md) — Y1 KPI-jevi koji jedini bitni
+- [Marketing strategy](marketing_strategy.md) — kanali, tajming, viralne mehanike
+- [Roadmap timeline](roadmap_timeline.md) — sedmice do prve sezone
+- [User profile Aleksa](user_aleksa.md) — kontekst o korisniku
+- [Session feedback](session_feedback.md) — naučeno iz strateških diskusija

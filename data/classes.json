@@ -1,0 +1,537 @@
+[
+  {
+    "id": "60f475359892c9345e4fea46",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "questionCount": 155,
+    "gradeGuess": 5,
+    "confidence": "high",
+    "rationale": "padeži, vrste prideva, vokativ lične zamenice — gradivo 5. razreda"
+  },
+  {
+    "id": "60f475359892c9345e4fea63",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "questionCount": 150,
+    "gradeGuess": 6,
+    "confidence": "high",
+    "rationale": "glagolski prilog sadašnji, radni glagolski pridev, imperativ — gradivo 6. razreda"
+  },
+  {
+    "id": "60f475359892c9345e4fea54",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "questionCount": 150,
+    "gradeGuess": 7,
+    "confidence": "high",
+    "rationale": "glasovne promene, sinonimi, Kosovski boj — gradivo 7. razreda"
+  },
+  {
+    "id": "60f475359892c9345e4fea73",
+    "subjectId": "60f473b09892c9345e4fe9da",
+    "subjectName": "Srpski jezik i književnost",
+    "questionCount": 151,
+    "gradeGuess": 8,
+    "confidence": "high",
+    "rationale": "Miroslavljevo jevanđelje, stalni epiteti, Branislav Nušić — gradivo 8. razreda"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea76",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "questionCount": 175,
+    "gradeGuess": 8,
+    "confidence": "high",
+    "rationale": "Lamark, ribozomi, kvasci, mali mozak — evolucija + ćelija + nervni sistem (8. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea49",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "questionCount": 164,
+    "gradeGuess": 5,
+    "confidence": "medium",
+    "rationale": "biljke, životinje, zoonoze, antropologija — uvodne teme (5. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea57",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "questionCount": 150,
+    "gradeGuess": 7,
+    "confidence": "medium",
+    "rationale": "biotopi, alkoholizam, evolucija — gradivo viših razreda, najverovatnije 7."
+  },
+  {
+    "id": "60f475359892c9345e4fea66",
+    "subjectId": "60f473b09892c9345e4fe9e1",
+    "subjectName": "Biologija",
+    "questionCount": 150,
+    "gradeGuess": 6,
+    "confidence": "medium",
+    "rationale": "gljive, mahovine, jednoćelijski organizmi — preostali razred po metodu eliminacije"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea6b",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "questionCount": 150,
+    "gradeGuess": 7,
+    "confidence": "high",
+    "rationale": "merne jedinice (mol), rastvori, čista voda — uvodna hemija (7. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea7b",
+    "subjectId": "60f473b09892c9345e4fea00",
+    "subjectName": "Hemija",
+    "questionCount": 150,
+    "gradeGuess": 8,
+    "confidence": "high",
+    "rationale": "glicerol, oksidacija sekundarnih alkohola, oksidi metala — organska hemija (8. razred)"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea22",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "questionCount": 183,
+    "gradeGuess": 4,
+    "confidence": "medium",
+    "rationale": "rod imenica, brojevi, profesije — naprednije gradivo nižih razreda"
+  },
+  {
+    "id": "60f475359892c9345e4fea18",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "questionCount": 153,
+    "gradeGuess": 2,
+    "confidence": "medium",
+    "rationale": "Ršumović, brzalice, narodna književnost (uvodno), upitne rečenice"
+  },
+  {
+    "id": "60f475359892c9345e4fea2b",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "questionCount": 150,
+    "gradeGuess": 3,
+    "confidence": "medium",
+    "rationale": "zbirne imenice, lice zamenice, Vitez — srednje težine"
+  },
+  {
+    "id": "60f475359892c9345e4fea34",
+    "subjectId": "60f473b09892c9345e4fe9b3",
+    "subjectName": "Srpski jezik (niži razredi)",
+    "questionCount": 139,
+    "gradeGuess": 4,
+    "confidence": "low",
+    "rationale": "predmet glagolske radnje, Mali Princ — granica između 3. i 4. razreda"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea47",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "questionCount": 150,
+    "gradeGuess": 5,
+    "confidence": "high",
+    "rationale": "Spartanci, Tukidid, Stari istok, Peloponeski rat — Stari vek (5. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea55",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "questionCount": 150,
+    "gradeGuess": 6,
+    "confidence": "high",
+    "rationale": "srpski srednji vek, Zapadni Sloveni, Stefan Nemanjić — Srednji vek (6. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea64",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "questionCount": 150,
+    "gradeGuess": 7,
+    "confidence": "high",
+    "rationale": "Engleska revolucija, dinastija Obrenović, ulazak u Prvi svetski rat — Novi vek (7. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea74",
+    "subjectId": "60f473b09892c9345e4fe9de",
+    "subjectName": "Istorija",
+    "questionCount": 150,
+    "gradeGuess": 8,
+    "confidence": "high",
+    "rationale": "Drugi svetski rat, banovine, NDH, Pikaso (Gernika) — XX vek (8. razred)"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea7a",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "questionCount": 150,
+    "gradeGuess": 8,
+    "confidence": "high",
+    "rationale": "električna struja, otpor, ampermetar, prodornost zračenja — elektromagnetizam (8. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea5b",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "questionCount": 150,
+    "gradeGuess": 7,
+    "confidence": "medium",
+    "rationale": "plutanje, gustina, težina, jedinice — sila i pritisak (7. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea6a",
+    "subjectId": "60f473b09892c9345e4fe9ee",
+    "subjectName": "Fizika",
+    "questionCount": 150,
+    "gradeGuess": 6,
+    "confidence": "medium",
+    "rationale": "težište, dinamometar, slobodan pad, gravitaciona potencijalna energija — uvodna mehanika (6. razred)"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea48",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "questionCount": 150,
+    "gradeGuess": 5,
+    "confidence": "high",
+    "rationale": "litosferne ploče, atmosfera, ozonski omotač, abrazija — opšta fizička geografija (5. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea56",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "questionCount": 150,
+    "gradeGuess": 6,
+    "confidence": "high",
+    "rationale": "Stari svet, kontinenti, razmera karte — uvod u regionalnu (6. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea65",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "questionCount": 150,
+    "gradeGuess": 7,
+    "confidence": "high",
+    "rationale": "Španija, Australija, Mezeta, slivovi okeana — Evropa i svet (7. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea75",
+    "subjectId": "60f473b09892c9345e4fe9df",
+    "subjectName": "Geografija",
+    "questionCount": 150,
+    "gradeGuess": 8,
+    "confidence": "high",
+    "rationale": "Srbija, Divčibare, Beograd, agrotehnika — geografija Srbije (8. razred)"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea33",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "questionCount": 136,
+    "gradeGuess": 3,
+    "confidence": "high",
+    "rationale": "voda, sila, mahovina, reljef — pretežno priroda (3. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea3c",
+    "subjectId": "60f473b09892c9345e4fe9c9",
+    "subjectName": "Priroda i društvo",
+    "questionCount": 104,
+    "gradeGuess": 4,
+    "confidence": "high",
+    "rationale": "seoba Srba, Stefan Nemanjić, Prvi svetski rat — pretežno društvo/istorija (4. razred)"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea1b",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "questionCount": 151,
+    "gradeGuess": 1,
+    "confidence": "medium",
+    "rationale": "životinje, materijali, ishrana, školski praznici — uvodno"
+  },
+  {
+    "id": "60f475359892c9345e4fea25",
+    "subjectId": "60f473b09892c9345e4fe9b6",
+    "subjectName": "Svet oko nas",
+    "questionCount": 150,
+    "gradeGuess": 2,
+    "confidence": "medium",
+    "rationale": "saobraćaj, vreme (dan/sat), padavine, kiseonik — naprednije pojmove"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea1f",
+    "subjectId": "60f473b09892c9345e4fe9ba",
+    "subjectName": "Digitalni svet",
+    "questionCount": 148,
+    "gradeGuess": null,
+    "confidence": "low",
+    "rationale": "samo jedna klasa za predmet — verovatno mešavina 1-2. razreda, ne razdvaja se po godini"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea4b",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "questionCount": 150,
+    "gradeGuess": 5,
+    "confidence": "medium",
+    "rationale": "pikseli, ulazno/izlazne jedinice, osnove pojmova — uvod (5. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea59",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "questionCount": 150,
+    "gradeGuess": 6,
+    "confidence": "medium",
+    "rationale": "prezentacije, Python osnove (print, izrazi), promenljive"
+  },
+  {
+    "id": "60f475359892c9345e4fea68",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "questionCount": 150,
+    "gradeGuess": 7,
+    "confidence": "medium",
+    "rationale": "hiperlink, vektorska grafika, koordinate — multimedija/grafika (7. razred)"
+  },
+  {
+    "id": "60f475359892c9345e4fea78",
+    "subjectId": "60f473b09892c9345e4fe9e4",
+    "subjectName": "Informatika i računarstvo",
+    "questionCount": 151,
+    "gradeGuess": 8,
+    "confidence": "high",
+    "rationale": "Python list comprehension, csv, obrada podataka — napredno programiranje (8. razred)"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea36",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "questionCount": 163,
+    "gradeGuess": 3,
+    "confidence": "medium",
+    "rationale": "kilometar, množenje, kavezi, kocka, novac — gradivo nižih razreda"
+  },
+  {
+    "id": "60f475359892c9345e4fea1a",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "questionCount": 161,
+    "gradeGuess": 1,
+    "confidence": "medium",
+    "rationale": "geometrijski oblik, brojevi do 10, sabiranje malih brojeva — uvodna"
+  },
+  {
+    "id": "60f475359892c9345e4fea24",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "questionCount": 147,
+    "gradeGuess": 2,
+    "confidence": "medium",
+    "rationale": "činioci, decimetri, broj 8 puta manji — operacije do 100"
+  },
+  {
+    "id": "60f475359892c9345e4fea2d",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "questionCount": 143,
+    "gradeGuess": 4,
+    "confidence": "medium",
+    "rationale": "obim, pretvaranje mernih jedinica, vreme — gradivo 4. razreda"
+  },
+  {
+    "id": "60f475359892c9345e4fea4e",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "questionCount": 144,
+    "gradeGuess": 6,
+    "confidence": "low",
+    "rationale": "linearne jednačine, procenti, negativni brojevi — najverovatnije 6. razred"
+  },
+  {
+    "id": "60f475359892c9345e4fea40",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "questionCount": 152,
+    "gradeGuess": 5,
+    "confidence": "low",
+    "rationale": "aritmetička sredina, suplementni uglovi, recipročni razlomak — najverovatnije 5. razred"
+  },
+  {
+    "id": "60f475359892c9345e4fea6d",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "questionCount": 148,
+    "gradeGuess": 7,
+    "confidence": "medium",
+    "rationale": "linearne funkcije, sistemi jednačina, problemi pokreta"
+  },
+  {
+    "id": "60f475359892c9345e4fea5d",
+    "subjectId": "60f473b09892c9345e4fe9b5",
+    "subjectName": "Matematika",
+    "questionCount": 107,
+    "gradeGuess": 8,
+    "confidence": "high",
+    "rationale": "kvadrati, krug i prečnik, površina, šestougao — gradivo 8. razreda"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea1d",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "questionCount": 130,
+    "gradeGuess": 1,
+    "confidence": "low",
+    "rationale": "Zvončići, dirigent — najuvodnije pesme za 1. razred"
+  },
+  {
+    "id": "60f475359892c9345e4fea27",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "questionCount": 135,
+    "gradeGuess": 2,
+    "confidence": "low",
+    "rationale": "narodne pesme, bubanj — uvodno"
+  },
+  {
+    "id": "60f475359892c9345e4fea38",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "questionCount": 106,
+    "gradeGuess": 3,
+    "confidence": "low",
+    "rationale": "solmizacija, gusle, klasični kompozitori (Sen Sans)"
+  },
+  {
+    "id": "60f475359892c9345e4fea2f",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "questionCount": 142,
+    "gradeGuess": 4,
+    "confidence": "low",
+    "rationale": "triangl, libreto, hor, dela kompozitora"
+  },
+  {
+    "id": "60f475359892c9345e4fea42",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "questionCount": 155,
+    "gradeGuess": 5,
+    "confidence": "medium",
+    "rationale": "molske lestvice, melodijske udaraljke, srpska narodna obrada"
+  },
+  {
+    "id": "60f475359892c9345e4fea50",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "questionCount": 161,
+    "gradeGuess": 6,
+    "confidence": "medium",
+    "rationale": "klavir, čembalo, Liszt, ritmička figura"
+  },
+  {
+    "id": "60f475359892c9345e4fea5f",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "questionCount": 164,
+    "gradeGuess": 7,
+    "confidence": "medium",
+    "rationale": "barok, gudački instrumenti, klasicizam"
+  },
+  {
+    "id": "60f475359892c9345e4fea6f",
+    "subjectId": "60f473b09892c9345e4fe9b8",
+    "subjectName": "Muzička kultura",
+    "questionCount": 180,
+    "gradeGuess": 8,
+    "confidence": "medium",
+    "rationale": "mjuzikl, balet, romantizam i savremena muzika"
+  },
+
+  {
+    "id": "60f475359892c9345e4fea1c",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "questionCount": 112,
+    "gradeGuess": 1,
+    "confidence": "low",
+    "rationale": "vajanje, jednobojnost, 'mek kao' — uvodni pojmovi"
+  },
+  {
+    "id": "60f475359892c9345e4fea26",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "questionCount": 59,
+    "gradeGuess": 2,
+    "confidence": "low",
+    "rationale": "lutkarstvo, ukrašena slova, ustanove kulture"
+  },
+  {
+    "id": "60f475359892c9345e4fea2e",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "questionCount": 131,
+    "gradeGuess": 3,
+    "confidence": "low",
+    "rationale": "kolaž (papir-makaze-lepak), Čas baleta, granice/okviri"
+  },
+  {
+    "id": "60f475359892c9345e4fea37",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "questionCount": 78,
+    "gradeGuess": 4,
+    "confidence": "low",
+    "rationale": "Lepenski Vir, simbolika, zastava Srbije"
+  },
+  {
+    "id": "60f475359892c9345e4fea41",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "questionCount": 150,
+    "gradeGuess": 5,
+    "confidence": "low",
+    "rationale": "pećina Lasko, hijeroglifi, ritam u kompoziciji — istorija umetnosti"
+  },
+  {
+    "id": "60f475359892c9345e4fea4f",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "questionCount": 150,
+    "gradeGuess": 6,
+    "confidence": "low",
+    "rationale": "boja (komplementarna), uloga umetnosti, ambijent"
+  },
+  {
+    "id": "60f475359892c9345e4fea5e",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "questionCount": 150,
+    "gradeGuess": 7,
+    "confidence": "low",
+    "rationale": "barok (Velasquez), gradski pejzaž, žanr-scena"
+  },
+  {
+    "id": "60f475359892c9345e4fea6e",
+    "subjectId": "60f473b09892c9345e4fe9b7",
+    "subjectName": "Likovna kultura",
+    "questionCount": 150,
+    "gradeGuess": 8,
+    "confidence": "medium",
+    "rationale": "heraldika, brutalizam, pop-art, grafiti — savremena umetnost"
+  }
+]

@@ -1,0 +1,75 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+/* 5ica brand theme — "Dnevnička petica" */
+@plugin "daisyui/theme" {
+  name: "petica";
+  default: true;
+  color-scheme: light;
+
+  /* Primary: Royal blue — knowledge, autoritet */
+  --color-primary: oklch(52% 0.20 258);
+  --color-primary-content: oklch(100% 0 0);
+
+  /* Secondary: Crimson — "5ica red", logo, achievement */
+  --color-secondary: oklch(58% 0.21 25);
+  --color-secondary-content: oklch(100% 0 0);
+
+  /* Accent: Warm gold — XP, streak */
+  --color-accent: oklch(80% 0.15 80);
+  --color-accent-content: oklch(22% 0.02 250);
+
+  /* Neutral: Charcoal */
+  --color-neutral: oklch(22% 0.02 250);
+  --color-neutral-content: oklch(98% 0 0);
+
+  /* Base: Topla off-white sa plavičastim undertone */
+  --color-base-100: oklch(99% 0.003 250);
+  --color-base-200: oklch(96% 0.006 250);
+  --color-base-300: oklch(91% 0.012 250);
+  --color-base-content: oklch(22% 0.02 250);
+
+  /* Semantic */
+  --color-info: oklch(64% 0.14 220);
+  --color-info-content: oklch(100% 0 0);
+  --color-success: oklch(65% 0.16 155);
+  --color-success-content: oklch(100% 0 0);
+  --color-warning: oklch(76% 0.15 75);
+  --color-warning-content: oklch(22% 0 0);
+  --color-error: oklch(60% 0.22 18);
+  --color-error-content: oklch(100% 0 0);
+
+  --radius-box: 1rem;
+  --radius-btn: 0.5rem;
+  --btn-text-case: none;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 96px; /* sticky NavBar visina + buffer */
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Subtle animation za "5" u logo-u kad se app otvori */
+@keyframes write-petica {
+  from {
+    transform: rotate(-8deg) scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: rotate(0) scale(1);
+    opacity: 1;
+  }
+}
+
+.animate-write-petica {
+  animation: write-petica 0.6s ease-out;
+}
