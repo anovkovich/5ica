@@ -12,7 +12,8 @@ const schema = z.object({
   email: z.string().email("Email nije validan"),
 });
 
-const RATE_LIMIT_PER_HOUR = 3;
+const RATE_LIMIT_PER_HOUR = 10;
+const SKIP_RATE_LIMIT = process.env.NODE_ENV === "development";
 
 export async function POST(req: NextRequest) {
   try {
@@ -34,19 +35,21 @@ export async function POST(req: NextRequest) {
 
     const email = parsed.data.email.trim().toLowerCase();
 
-    // Rate limiting po email-u
-    const recentCount = await recentMagicLinksForEmail(email, 60);
-    if (recentCount >= RATE_LIMIT_PER_HOUR) {
-      return NextResponse.json(
-        {
-          ok: false,
-          error: {
-            code: "rate_limit_exceeded",
-            message: "Previše zahteva. Pokušaj ponovo za sat vremena.",
+    // Rate limiting po email-u (skip u dev-u)
+    if (!SKIP_RATE_LIMIT) {
+      const recentCount = await recentMagicLinksForEmail(email, 60);
+      if (recentCount >= RATE_LIMIT_PER_HOUR) {
+        return NextResponse.json(
+          {
+            ok: false,
+            error: {
+              code: "rate_limit_exceeded",
+              message: "Previše zahteva. Pokušaj ponovo za sat vremena.",
+            },
           },
-        },
-        { status: 429 }
-      );
+          { status: 429 }
+        );
+      }
     }
 
     const ipAddress =
