@@ -39,8 +39,7 @@ export function HowItWorks() {
             Kako radi
           </div>
           <h2 className="text-4xl md:text-5xl font-extrabold mb-4 tracking-tight">
-            Četiri koraka do prve{" "}
-            <span className="text-secondary">5</span>
+            Četiri koraka do <span className="text-secondary">5</span>
             <span>ice</span>.
           </h2>
         </div>

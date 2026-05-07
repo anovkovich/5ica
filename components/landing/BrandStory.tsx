@@ -19,8 +19,7 @@ export function BrandStory() {
               Naša priča
             </div>
             <h2 className="text-4xl md:text-5xl font-extrabold mb-6 leading-tight tracking-tight">
-              Zašto baš{" "}
-              <span className="text-secondary">crvena</span> petica?
+              Zašto baš <span className="text-secondary">crvena</span> petica?
             </h2>
 
             <div className="space-y-5 text-base-content/80 text-lg leading-relaxed">
@@ -45,8 +44,8 @@ export function BrandStory() {
             {/* Quote */}
             <div className="mt-10 pl-6 border-l-4 border-secondary">
               <p className="text-base-content/70 italic">
-                "Niko od konkurenata u Srbiji ne koristi tu kulturalnu vezu.
-                Crvena petica je naš identitet."
+                "Crvena petica je naš identitet! To je simbol uspeha, truda i
+                ponosa."
               </p>
             </div>
           </div>
@@ -99,10 +98,7 @@ export function BrandStory() {
                     Dnevnik VIII-2 • Matematika
                   </div>
                   <div className="text-base-content/70 mb-2 font-handwriting">
-                    Marković, Petar
-                  </div>
-                  <div className="text-base-content/50 text-sm mb-8">
-                    15. maj 2027.
+                    Petar Marković
                   </div>
 
                   {/* The big red 5 */}
@@ -129,7 +125,7 @@ export function BrandStory() {
                   </motion.div>
 
                   <div className="text-right text-base-content/60 text-sm mt-6">
-                    — Ana M., učiteljica
+                    — učiteljica Ana
                   </div>
                 </div>
               </div>
@@ -147,7 +143,7 @@ export function BrandStory() {
                 Učiteljica:
               </div>
               <div className="font-bold text-sm leading-snug">
-                Bravo Petre! Tako se uči!
+                Bravo Petre! To si brzo naučio!
               </div>
             </motion.div>
           </motion.div>

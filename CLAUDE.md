@@ -19,6 +19,7 @@
 ## Poslovni model (čvrsto fiksiran)
 
 **Free verzija** (zauvek besplatno):
+
 - Sva pitanja za sve razrede 1-8
 - Dnevna gejmifikovana vežba
 - Lige, drugovi, razred-leaderboard
@@ -26,6 +27,7 @@
 - Roditeljski dashboard sa nedeljnim izveštajem
 
 **Sprint paket** (jednokratno, sezona mart-jun):
+
 - **4.990 RSD** standardno, **3.990 RSD** early bird (do 1. marta)
 - 90-dnevni personalizovani plan
 - 12 mock testova u realnom formatu mature
@@ -33,6 +35,7 @@
 - "Structure not content" strategija — Free ima sva pitanja, Sprint dodaje plan + mock testovi + AI coach + cohort. **Bez garancije povraćaja.**
 
 **ODBAČENO** (ne forsiraj):
+
 - ❌ Mesečne pretplate (Srbija ne plaća)
 - ❌ B2B prodaja školama (sales-heavy, slow)
 - ❌ Native iOS/Android app u v1 (PWA dovoljan)
@@ -59,12 +62,14 @@
 - **Plaćanja Y2**: Monri ili NestPay
 
 **Pravila CSS-a (iz playLiga konvencije)**:
+
 - ❌ Nikad hardkodovan hex
 - ❌ Nikad custom CSS osim ako apsolutno mora
 - ✅ Samo DaisyUI semantic tokeni (`btn-primary`, `bg-base-100`, `text-base-content/70`)
 - ✅ Mobile-first sa `sm: md: lg:` prefiksima
 
 **Component decomposition pravila**:
+
 - Single Responsibility: 1 komponenta = 1 odgovornost
 - Max 100 redova po fajlu
 - Extract before abstract
@@ -120,6 +125,7 @@ C:\Users\Aleksa\Documents\5ica\
 ## Trenutno stanje (2026-05-07)
 
 **Završeno**:
+
 - ✅ Strateški plan (BUSINESS_PLAN.md)
 - ✅ Implementation plan (22 dokumenta)
 - ✅ Data corpus mapiran (subjects, classes, chapters, questions)
@@ -127,10 +133,12 @@ C:\Users\Aleksa\Documents\5ica\
 - ✅ Domain `5ica.rs` identifikovan kao slobodan
 
 **U toku**:
+
 - ⏳ Kupovina `5ica.rs` (i potencijalno `.app`, `.com`, `.co`)
 - ⏳ Trademark check kod ZIS-a za "5ICA" u klasama 9 i 41
 
 **Sledeće**:
+
 - Pravna osnova: APR registracija paušalca, ugovor sa prijateljem za pitanja, advokat (TOS, Privacy)
 - Marketing: Instagram nalog `@5ica`, prvi Reels iz baze pitanja
 - Tech setup: GitHub repo, Vercel, MongoDB Atlas free cluster
@@ -141,17 +149,21 @@ C:\Users\Aleksa\Documents\5ica\
 ## Ključna pitanja na koja Claude treba da zna odgovor
 
 ### Kako se proizvod zove?
+
 **5ica** (vizuelno: broj 5 + "ica"; izgovara se "petica"). Ne "Mala Matura". Ne "5-ica". Ne "Petica". **5ica**.
 
 ### Koji je glavni cilj?
+
 Mala matura sezona, jun 2027. Y1 cilj: 400-560 Sprint kupaca, ~2-3M RSD prihoda, blizu break-even-a.
 
 ### Tri kritične metrike koje sve drugo služi
+
 1. D7 retention u free fazi **>25%**
 2. % 8-gradera u bazi do februara **>15%**
 3. Free → Sprint konverzija **>5%**
 
 ### Šta NIKAD ne radimo?
+
 - Direktnu komunikaciju (chat, DM) između dece
 - Pay-to-win mehanike
 - Reklame deci u app-u
@@ -160,6 +172,7 @@ Mala matura sezona, jun 2027. Y1 cilj: 400-560 Sprint kupaca, ~2-3M RSD prihoda,
 - Investitora pre Y2
 
 ### Koji je sledeći korak?
+
 Vidi `implementation-plan/19_ROADMAP_MILESTONES.md` Faza 0 (sedmica -2 i -1) i Faza 1 (sedmica 1-8).
 
 ---
@@ -174,18 +187,18 @@ Vidi `implementation-plan/19_ROADMAP_MILESTONES.md` Faza 0 (sedmica -2 i -1) i F
 
 ### Brand boje — paleta "Dnevnička petica"
 
-Inspiracija: u srpskim dnevnicima učitelji pišu petice **crvenom olovkom** — niko od konkurenata ne koristi tu kulturalnu vezu.
+Inspiracija: u srpskim dnevnicima učitelji pišu petice **crvenom olovkom**
 
-| Token | Vrednost (oklch) | Gde se koristi |
-|---|---|---|
-| `primary` | `oklch(52% 0.20 258)` royal blue | Glavni CTA, navbar, linkovi |
-| `secondary` | `oklch(58% 0.21 25)` crimson | Logo "5", proslava, achievement |
-| `accent` | `oklch(80% 0.15 80)` warm gold | XP, streak, sertifikati |
-| `success` | `oklch(65% 0.16 155)` emerald | Tačan odgovor |
-| `error` | `oklch(60% 0.22 18)` pure red | Pogrešan odgovor |
-| `warning` | `oklch(76% 0.15 75)` amber | Streak rizik |
-| `info` | `oklch(64% 0.14 220)` sky blue | Roditeljski izveštaji |
-| `base-100` | `oklch(99% 0.003 250)` warm off-white | Glavna pozadina |
+| Token       | Vrednost (oklch)                      | Gde se koristi                  |
+| ----------- | ------------------------------------- | ------------------------------- |
+| `primary`   | `oklch(52% 0.20 258)` royal blue      | Glavni CTA, navbar, linkovi     |
+| `secondary` | `oklch(58% 0.21 25)` crimson          | Logo "5", proslava, achievement |
+| `accent`    | `oklch(80% 0.15 80)` warm gold        | XP, streak, sertifikati         |
+| `success`   | `oklch(65% 0.16 155)` emerald         | Tačan odgovor                   |
+| `error`     | `oklch(60% 0.22 18)` pure red         | Pogrešan odgovor                |
+| `warning`   | `oklch(76% 0.15 75)` amber            | Streak rizik                    |
+| `info`      | `oklch(64% 0.14 220)` sky blue        | Roditeljski izveštaji           |
+| `base-100`  | `oklch(99% 0.003 250)` warm off-white | Glavna pozadina                 |
 
 Kompletni theme plugin za DaisyUI v5: vidi `implementation-plan/06_DESIGN_SYSTEM.md` sekcija 2.2.
 
@@ -208,7 +221,7 @@ Kompletni theme plugin za DaisyUI v5: vidi `implementation-plan/06_DESIGN_SYSTEM
    - Public copy u `components/` i `app/(marketing)/` (ako se pominje promenjena tema)
    - `CLAUDE.md` (ako menja brand/strategy fundamentale)
    - `25_DECISIONS.md` (uvek upiši novu odluku sa datumom i razlozima)
-   
+
    **Ne pita** "treba li da ažuriram fajlove" — to je default ponašanje. Pita SAMO "imaš li još promena pre nego što krenem".
 
 ---

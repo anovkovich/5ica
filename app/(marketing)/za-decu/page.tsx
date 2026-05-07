@@ -265,7 +265,10 @@ export default function ZaDecuPage() {
       </section>
 
       {/* CTA */}
-      <section className="py-20 md:py-28 relative overflow-hidden bg-base-100">
+      <section
+        id="prijavi-se"
+        className="py-20 md:py-28 relative overflow-hidden bg-base-100 scroll-mt-24"
+      >
         <div
           aria-hidden
           className="absolute -top-32 -right-32 w-[500px] h-[500px] rounded-full opacity-20 blur-3xl"
