@@ -76,6 +76,13 @@
 - Generic-first naming: `components/ui/` (reusable) vs `components/[domain]/` (specifičan)
 - Server-default, Client samo za interaktivnost (`'use client'`)
 
+**Mobile-only viewport za app surfaces** (odlučeno 2026-05-07):
+
+- App surfaces (`/app/*`, `/roditelj/*`, `/admin/*`, auth) koriste `max-w-md` (448px) viewport, centriran na desktopu sa "phone-card" stilizacijom (rounded-3xl, shadow-2xl, border, base-200 bg).
+- Marketing strane (`/`, `/za-roditelje`, etc.) ostaju **full-width responsive**.
+- Razlog: app je inherentno mobilno iskustvo. Desktop layout je dupli rad koji niko neće koristiti.
+- Šablon u `.claude/memory/design_system.md`.
+
 ---
 
 ## Struktura projekta

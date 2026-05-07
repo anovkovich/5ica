@@ -10,9 +10,6 @@ import { SuccessModal } from "./SuccessModal";
 
 const schema = z.object({
   email: z.string().min(1, "Email je obavezan").email("Unesi validan email"),
-  consent: z.literal(true, {
-    errorMap: () => ({ message: "Moraš da prihvatiš politiku privatnosti" }),
-  }),
 });
 
 type FormData = z.infer<typeof schema>;
@@ -32,7 +29,7 @@ export function WaitlistForm({ variant = "hero", source = "homepage" }: Props) {
     reset,
   } = useForm<FormData>({
     resolver: zodResolver(schema),
-    defaultValues: { email: "", consent: false as never },
+    defaultValues: { email: "" },
   });
 
   const onSubmit = async (data: FormData) => {
@@ -42,7 +39,6 @@ export function WaitlistForm({ variant = "hero", source = "homepage" }: Props) {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           email: data.email,
-          consent: data.consent,
           source,
         }),
       });
@@ -70,7 +66,7 @@ export function WaitlistForm({ variant = "hero", source = "homepage" }: Props) {
         className="w-full max-w-md mx-auto lg:mx-0 space-y-3"
         id={variant === "hero" ? "prijavi-se" : undefined}
       >
-        {/* Email input — full row */}
+        {/* Email input */}
         <div className="relative">
           <Mail
             size={18}
@@ -90,7 +86,7 @@ export function WaitlistForm({ variant = "hero", source = "homepage" }: Props) {
           </p>
         )}
 
-        {/* Submit button */}
+        {/* Submit */}
         <button
           type="submit"
           className="btn btn-primary btn-block rounded-2xl gap-2 font-semibold h-14 text-base shadow-md hover:shadow-lg transition-shadow"
@@ -109,28 +105,14 @@ export function WaitlistForm({ variant = "hero", source = "homepage" }: Props) {
           )}
         </button>
 
-        {/* Consent checkbox */}
-        <label className="flex cursor-pointer items-start gap-2.5 pt-2 ml-1">
-          <input
-            type="checkbox"
-            className="checkbox checkbox-sm checkbox-primary mt-0.5 flex-shrink-0"
-            disabled={isSubmitting}
-            {...register("consent")}
-          />
-          <span className="text-sm text-base-content/70 leading-snug">
-            Prihvatam{" "}
-            <a
-              href="/privatnost"
-              className="link link-primary hover:link-hover"
-            >
-              politiku privatnosti
-            </a>{" "}
-            i pristajem da budem obavešten/a o pokretanju aplikacije.
-          </span>
-        </label>
-        {errors.consent && (
-          <p className="text-error text-sm ml-1">{errors.consent.message}</p>
-        )}
+        {/* Inline disclaimer */}
+        <p className="text-xs text-base-content/55 text-center leading-relaxed pt-1 px-2">
+          Klikom prihvataš{" "}
+          <a href="/privatnost" className="link link-primary">
+            politiku privatnosti
+          </a>{" "}
+          i pristaješ da budeš obavešten/a o pokretanju aplikacije.
+        </p>
       </form>
 
       <SuccessModal open={success} onClose={() => setSuccess(false)} />

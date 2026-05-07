@@ -55,6 +55,34 @@ type: project
 }
 ```
 
+## Mobile-only viewport za app surfaces
+
+**Kritičnо pravilo** (odlučeno 2026-05-07): sve **autentifikovane app stranice** (`/app/*`, `/roditelj/*`, `/admin/*`) **i auth stranice** (`/prijavi-se`, `/verifikacija/*`) koriste **mobile-only viewport** od `max-w-md` (448px), centriran na desktopu.
+
+**Razlog**: app je inherentno mobilna iskustvo — deca koriste telefone, roditelji glance-uju notifikacije. PWA install pattern je mobilni. Pravljenje desktop layout-a je dupli rad koji niko neće koristiti.
+
+**Šablon**: koristi `<AppShell>` komponentu iz `components/layout/AppShell.tsx`:
+
+```tsx
+import { AppShell } from "@/components/layout/AppShell";
+
+export default function MojaAppStrana() {
+  return (
+    <AppShell>
+      <header>...</header>
+      <main className="flex-1">...</main>
+    </AppShell>
+  );
+}
+```
+
+**Šta AppShell radi**:
+- **Mobile (<768px)**: card je full-screen, edge-to-edge, kao native PWA
+- **Desktop (≥768px)**: card je **vertikalno centriran** (max-w-md, ~448px), sa rounded-3xl + shadow-2xl + border. Pozadina ima **suptilan brand gradient** (royal blue + crimson + gold radial overlay-i).
+- Outer flex container drži card centriran i ako je content kraći od viewport-a.
+
+**Izuzetak**: marketing stranice (`/`, `/za-roditelje`, `/za-decu`, `/sprint`, `/privatnost`, `/pravila`) ostaju **full-width responsive** — to je web za posetioce, ne app.
+
 ## Pravila korišćenja boja
 
 | Boja | Kada | Primer |

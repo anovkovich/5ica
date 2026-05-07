@@ -6,9 +6,6 @@ export const dynamic = "force-dynamic";
 
 const schema = z.object({
   email: z.string().email("Email nije validan"),
-  consent: z.boolean().refine((v) => v === true, {
-    message: "Saglasnost je obavezna",
-  }),
   source: z.string().max(100).default("homepage"),
 });
 
