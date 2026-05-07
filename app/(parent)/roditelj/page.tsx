@@ -1,63 +1,89 @@
-import { Sparkles } from "lucide-react";
+import Link from "next/link";
+import { Plus, ChevronRight } from "lucide-react";
 import { getCurrentUser } from "@/lib/auth";
+import { getChildrenByParent } from "@/lib/children";
+import { AvatarDisplay } from "@/components/ui/AvatarDisplay";
 
 export default async function RoditeljDashboardPage() {
   const user = await getCurrentUser();
+  if (!user) return null;
+
+  const children = await getChildrenByParent(user._id);
 
   return (
     <div className="px-4 py-6 space-y-6">
       <div>
         <h1 className="text-2xl font-extrabold mb-1 tracking-tight">
-          Pozdrav, <span className="text-primary">{user?.displayName}</span> 👋
+          Pozdrav, <span className="text-primary">{user.displayName}</span> 👋
         </h1>
         <p className="text-sm text-base-content/70">
-          Tvoj 5ica nalog je aktivan.
+          {children.length === 0
+            ? "Hajde da kreiramo nalog za prvo dete."
+            : `Imaš ${children.length} ${
+                children.length === 1
+                  ? "dete"
+                  : children.length < 5
+                    ? "deteta"
+                    : "dece"
+              } u 5ica.`}
         </p>
       </div>
 
-      <div className="bg-base-200 rounded-2xl p-5">
-        <div className="flex items-start gap-3 mb-4">
-          <div className="w-10 h-10 rounded-xl bg-accent/15 text-accent-content flex items-center justify-center flex-shrink-0">
-            <Sparkles size={18} />
-          </div>
-          <div>
-            <h2 className="font-bold mb-0.5">Aplikacija je u izgradnji</h2>
-            <p className="text-sm text-base-content/70 leading-snug">
-              Bićeš među prvima koji probaju funkcionalnosti čim budu spremne.
-            </p>
-          </div>
-        </div>
+      {/* Children list */}
+      {children.length === 0 ? (
+        <EmptyChildrenState />
+      ) : (
+        <div className="space-y-2">
+          {children.map((child) => (
+            <Link
+              key={child._id.toString()}
+              href={`/roditelj/dete/${child._id.toString()}`}
+              className="flex items-center gap-3 p-3 bg-base-100 border border-base-300 rounded-2xl hover:border-primary/40 hover:bg-base-200 transition-colors"
+            >
+              <AvatarDisplay avatarId={child.avatarId} size="md" />
+              <div className="flex-1 min-w-0">
+                <div className="font-bold truncate">{child.displayName}</div>
+                <div className="text-xs text-base-content/60">
+                  {child.grade}. razred
+                </div>
+              </div>
+              <ChevronRight size={18} className="text-base-content/40" />
+            </Link>
+          ))}
 
-        <div className="space-y-2 text-sm">
-          <div className="flex items-start gap-2 p-2 rounded-lg bg-base-100">
-            <span className="text-success">✓</span>
-            <span>Roditeljski nalog kreiran</span>
-          </div>
-          <div className="flex items-start gap-2 p-2 rounded-lg">
-            <span className="text-base-content/40">○</span>
-            <span className="text-base-content/60">
-              Kreiranje naloga za dete
-            </span>
-          </div>
-          <div className="flex items-start gap-2 p-2 rounded-lg">
-            <span className="text-base-content/40">○</span>
-            <span className="text-base-content/60">Dnevni kvizovi za dete</span>
-          </div>
-          <div className="flex items-start gap-2 p-2 rounded-lg">
-            <span className="text-base-content/40">○</span>
-            <span className="text-base-content/60">
-              Roditeljski izveštaji + duel
-            </span>
-          </div>
+          {children.length < 5 && (
+            <Link
+              href="/roditelj/dete/novi"
+              className="flex items-center gap-3 p-3 border-2 border-dashed border-base-300 rounded-2xl text-base-content/60 hover:text-primary hover:border-primary/40 transition-colors"
+            >
+              <div className="w-14 h-14 rounded-full bg-base-200 flex items-center justify-center flex-shrink-0">
+                <Plus size={22} />
+              </div>
+              <div className="flex-1">
+                <div className="font-semibold">Dodaj još jedno dete</div>
+                <div className="text-xs">Maks 5 po nalogu</div>
+              </div>
+            </Link>
+          )}
         </div>
-      </div>
-
-      <div className="text-xs text-base-content/60 pt-4 border-t border-base-200">
-        <p>
-          Logovan/a kao <strong>{user?.email}</strong>
-        </p>
-        <p className="text-base-content/50">Sesija aktivna 30 dana</p>
-      </div>
+      )}
     </div>
+  );
+}
+
+function EmptyChildrenState() {
+  return (
+    <Link
+      href="/roditelj/dete/novi"
+      className="block p-8 text-center border-2 border-dashed border-base-300 rounded-3xl hover:border-primary/40 transition-colors"
+    >
+      <div className="w-16 h-16 mx-auto rounded-full bg-primary/10 text-primary flex items-center justify-center mb-3">
+        <Plus size={28} />
+      </div>
+      <div className="font-bold text-lg mb-1">Dodaj prvo dete</div>
+      <p className="text-sm text-base-content/70">
+        Kreiraj nalog — bez email-a, samo nadimak i razred
+      </p>
+    </Link>
   );
 }

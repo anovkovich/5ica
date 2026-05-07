@@ -14,6 +14,7 @@ config({ path: resolve(process.cwd(), ".env.local") });
 import { ensureUserIndexes } from "../lib/users";
 import { ensureSessionIndexes } from "../lib/sessions";
 import { ensureMagicLinkIndexes } from "../lib/magic-links";
+import { ensureDeviceLinkIndexes } from "../lib/device-links";
 import { ensureIndexes as ensureWaitlistIndexes } from "../lib/waitlist";
 
 async function main() {
@@ -30,6 +31,10 @@ async function main() {
   console.log("  ▶ magicLinks");
   await ensureMagicLinkIndexes();
   console.log("    ✓ magicLinks indeksi kreirani");
+
+  console.log("  ▶ deviceLinks");
+  await ensureDeviceLinkIndexes();
+  console.log("    ✓ deviceLinks indeksi kreirani");
 
   console.log("  ▶ waitlistSubscribers");
   await ensureWaitlistIndexes();

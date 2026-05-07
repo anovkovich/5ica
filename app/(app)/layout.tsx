@@ -1,26 +1,31 @@
 import { LogOut } from "lucide-react";
-import { Logo } from "@/components/ui/Logo";
 import { AppShell } from "@/components/layout/AppShell";
+import { AvatarDisplay } from "@/components/ui/AvatarDisplay";
 import { requireAuth } from "@/lib/auth";
 import { logoutAction } from "@/lib/actions/auth";
 
-export default async function ParentLayout({
+export default async function AppLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  const user = await requireAuth(["parent"]);
+  const child = await requireAuth(["child"]);
 
   return (
     <AppShell>
       <header className="bg-base-100 border-b border-base-300 sticky top-0 z-30 md:relative">
         <div className="px-4">
           <div className="flex items-center justify-between min-h-14 py-2.5">
-            <div className="flex items-center gap-2">
-              <Logo size="sm" />
-              <span className="text-[10px] font-bold uppercase tracking-wider text-base-content/60 border-l border-base-300 pl-2">
-                Roditelj
-              </span>
+            <div className="flex items-center gap-2.5">
+              <AvatarDisplay avatarId={child.avatarId} size="sm" />
+              <div>
+                <div className="text-[10px] uppercase tracking-wider text-base-content/55 leading-none">
+                  Pozdrav
+                </div>
+                <div className="text-sm font-bold leading-tight">
+                  {child.displayName}
+                </div>
+              </div>
             </div>
 
             <form action={logoutAction}>
@@ -28,7 +33,6 @@ export default async function ParentLayout({
                 type="submit"
                 className="btn btn-ghost btn-sm btn-circle"
                 aria-label="Odjavi se"
-                title={user.email ?? "Odjavi se"}
               >
                 <LogOut size={16} />
               </button>

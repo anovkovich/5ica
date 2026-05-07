@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "type-check": "tsc --noEmit",
-    "db:indexes": "tsx --env-file=.env.local scripts/ensure-indexes.ts"
+    "db:indexes": "tsx --env-file=.env.local scripts/ensure-indexes.ts",
+    "db:import": "tsx --env-file=.env.local scripts/import-questions.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
