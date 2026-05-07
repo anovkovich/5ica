@@ -35,6 +35,13 @@ export async function requireAuth(allowedTypes?: UserType[]): Promise<User> {
   return user;
 }
 
+/**
+ * Set session cookie iz Server Action-a.
+ *
+ * NAPOMENA: Next.js 16 dozvoljava cookie set SAMO u Server Action-ima i Route
+ * Handler-ima, NE u Server Components. Za Route Handler-e koristi
+ * `response.cookies.set(...)` direktno (vidi `/api/auth/verify/route.ts`).
+ */
 export async function setSessionCookie(
   token: string,
   expiresAt: Date

@@ -15,7 +15,7 @@ export async function sendMagicLinkEmail(input: {
   to: string;
   token: string;
 }): Promise<void> {
-  const verificationUrl = `${SITE_URL}/verifikacija/${input.token}`;
+  const verificationUrl = `${SITE_URL}/api/auth/verify?token=${input.token}`;
 
   if (!resend) {
     console.log("\n╔══════════════════════════════════════════════╗");
