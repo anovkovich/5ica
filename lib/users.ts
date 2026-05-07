@@ -12,6 +12,7 @@ export type User = {
 
   // Child only
   parentId: ObjectId | null;
+  grade: number | null;
 
   displayName: string;
   avatarId: string;
@@ -54,6 +55,7 @@ export async function createParentUser(input: {
     type: "parent",
     email,
     parentId: null,
+    grade: null,
     displayName,
     avatarId: "default",
     language: "sr-Latn",
